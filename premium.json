@@ -63,28 +63,36 @@
         "icono": "https://cloudfront-us-east-1.images.arcpublishing.com/artear/OYDTVRHSPJBOTIRFUTJY53P42U.png",
         "uri": "jY7pZae+9CST4AAdnasupLr0R9wpJb932jTa1cZuz6b0rXTmcaZwrwZ2ndCAeIlFhVYR3Un88dE6v//As2xCKaRJo95YjIxLPFiOWYTO46bpwbZogjsPh5V7nUTEzo8ujUfIkC3Zriei8x0Iq8an6Q==",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yc9ucuimqzujWwdtT3JEs1NFoEqUnHKkfyUAK3Oa9c/QW+lFaLiI1weS4UZ13wmSitLWayjZAeLg4ZSoxR+K8HWvDEI/1n09Pv0R69e9mnKwj4xqU5E2hXOAH/xvz2uLYw=="
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yc9ucuimqzujWwdtT3JEs1NFoEqUnHKkfyUAK3Oa9c/QW+lFaLiI1weS4UZ13wmSitLWayjZAeLg4ZSoxR+K8HWvDEI/1n09Pv0R69e9mnKwj4xqU5E2hXOAH/xvz2uLYw==",
+	"origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"      
       },
       {
         "name": "CAM 2",
         "icono": "https://cloudfront-us-east-1.images.arcpublishing.com/artear/OYDTVRHSPJBOTIRFUTJY53P42U.png",
         "uri": "jY7pZae+9CST4AAdnasupLr0R9wpJb932jTa1cZuz6b0rXTmcaZwrwZ2ndCAeIlFMH0FnYKZWGUmVsgsf72Zv6RJo95YjIxLPFiOWYTO46bpwbZogjsPh5V7nUTEzo8uSRpUBinXkR1btiJ/a2Zong==",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yXZ2wiCRmiKbhH87L5aP7RACs8uZqdDmUSIoLnt21be+eQWT2efnvNLum3li+kpKKJ1xn5OybJ3KRQ6eS8dw+IwE/UkSst3olXNvOvI8PkvnHrqfDcTLCLmuwI3CgIvVCA=="
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yXZ2wiCRmiKbhH87L5aP7RACs8uZqdDmUSIoLnt21be+eQWT2efnvNLum3li+kpKKJ1xn5OybJ3KRQ6eS8dw+IwE/UkSst3olXNvOvI8PkvnHrqfDcTLCLmuwI3CgIvVCA==",
+	"origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" 
       },
       {
         "name": "CAM 3",
         "icono": "https://cloudfront-us-east-1.images.arcpublishing.com/artear/OYDTVRHSPJBOTIRFUTJY53P42U.png",
         "uri": "jY7pZae+9CST4AAdnasupLr0R9wpJb932jTa1cZuz6b0rXTmcaZwrwZ2ndCAeIlFaJoUq1ILQhnTwhz9x6WElaRJo95YjIxLPFiOWYTO46bpwbZogjsPh5V7nUTEzo8uMYWMfNbJ/hHZy8FvQ2VQkQ==",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yYmVWFE3YgOmLsWZO9PvkcTfGom+im3wLs7nan6JOK7pITJxsFLGLs++5qJ2BWp71A9Rl4IyNmdZsm8w8LShcmLvaGNQNJNmE1mYVxvJSvVi1K55velL/Lr0nwmDpITJ/A=="
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yYmVWFE3YgOmLsWZO9PvkcTfGom+im3wLs7nan6JOK7pITJxsFLGLs++5qJ2BWp71A9Rl4IyNmdZsm8w8LShcmLvaGNQNJNmE1mYVxvJSvVi1K55velL/Lr0nwmDpITJ/A==",
+	"origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"   
       },
       {
         "name": "cam 4",
         "icono": "https://cloudfront-us-east-1.images.arcpublishing.com/artear/OYDTVRHSPJBOTIRFUTJY53P42U.png",
         "uri": "jY7pZae+9CST4AAdnasupLr0R9wpJb932jTa1cZuz6b0rXTmcaZwrwZ2ndCAeIlFYRz2bOGrJHiiUpqNhZlkz6RJo95YjIxLPFiOWYTO46bpwbZogjsPh5V7nUTEzo8urNu0X+R213wi1EFuiUrMHQ==",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yaQlGbH/OsfC6KD/ybCS+HC3bqig+REY0rc0tYdvibCrXAAtVZIQEReINLTKBXnpIIRYuEhoRciQlyKyvnRxivQprfmflRgKRDADGw6CMy7gpuvFuMNLIgxRy5qzDyOELA=="
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yaQlGbH/OsfC6KD/ybCS+HC3bqig+REY0rc0tYdvibCrXAAtVZIQEReINLTKBXnpIIRYuEhoRciQlyKyvnRxivQprfmflRgKRDADGw6CMy7gpuvFuMNLIgxRy5qzDyOELA==",
+	"origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" 
       },
       {
         "name": "TELEFE",
@@ -111,7 +119,7 @@
         "uri": "vsItsirgdv0HJtqZunlH4ee+0Di5LunDBa/YuYUJqM2ezuikdVXZJMsznnxS+ib+3pM2y7bgXbCUuRMRyUHVih7TQOv7bPYKWqXROVuV2w0=",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ycC8LdNhe3Dz407FhRjdWWe+es+pTD91ajZEojReuf2ZXLgrCtXq8SygGyJZztSOp34OQy1rHwkPo+m/J5kvLqv6xSgiZ+DLuYabp7fpt3YzRzc8ZvG270KmYcIY8pNf3Q==",
-		    "origin": "https://web.app.flow.com.ar",
+        "origin": "https://web.app.flow.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
@@ -119,7 +127,7 @@
         "icono": "https://raw.githubusercontent.com/97starlight/TV/main/2024/ar-el-trece-2.png",
         "uri": "zvRUyGwoO3iBdYbDVO5OyYPSCSmziRqxmnrgQCnLRS9bKjSQ2ZN1AnuntJdF5Vi+SdXLzVpj8CCUNNsSmQ9y0JpYNsiDFJKMSWU+LcAYu1s=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yYKrLLcI/gEPSps/G9UYWrlSrh19FUyilzBKX8y+Uz7dynOBPOyskEATvPSN2eCWuUoQwyUgKcoXlNyzpB3gD4JSYrPcoVkQeeuwhyA+Nkpl/5uIateH1zTuSRZ6vwJk0Q=="
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yYKrLLcI/gEPSps/G9UYWrlSrh19FUyilzBKX8y+Uz7dynOBPOyskEATvPSN2eCWuUoQwyUgKcoXlNyzpB3gD4JSYrPcoVkQeeuwhyA+Nkpl/5uIateH1zTuSRZ6vwJk0Q==",
       },
       {
         "name": "EL TRECE OPC 2",
@@ -131,7 +139,9 @@
         "icono": "https://argentina.mom-gmr.org/uploads/tx_lfrogmom/media/16014-1639_import.png",
         "uri": "vsItsirgdv0HJtqZunlH4ee+0Di5LunDBa/YuYUJqM21lsOII7CvEIu9aznAOQME+xf0RUAe2/uoAM4qdJgxnT/cfEC9Wr1aE9Snm6WECfA=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yS+RYQlZijpwv9ieKra26aaVBAYCN9g6MIJ6nWchJmWFY8f2bZ4NfY3nmh5oTjNVOHo0ffl5JvWCEqQ75BEKRqNXqv6TDzGB2FmoGhzrgEkWDSgJi96DsFTcICqXBA7pUQ=="
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yS+RYQlZijpwv9ieKra26aaVBAYCN9g6MIJ6nWchJmWFY8f2bZ4NfY3nmh5oTjNVOHo0ffl5JvWCEqQ75BEKRqNXqv6TDzGB2FmoGhzrgEkWDSgJi96DsFTcICqXBA7pUQ==",
+	"origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "CANAL 9 OPC 2",
@@ -152,14 +162,18 @@
         "icono": "https://i.ibb.co/xsBgRLG/tvpublica-logo.jpg",
         "uri": "PieKW3Tj9RSHDO1/43uuAuJBqLU4R7uk3zC/JZT7ZPQ4ZCRMUFsKorEBthNGD+qjDn44wXb+m+3ynb4UeBzfecX5O/3tSfUFYHHUrs50K5w=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yeFkLEhXfTaUar57oROzRLzlhHaSl7i5pHQe6ebjO/QJek8Eh8J+m6b5VYEFBwAH3QyJKyPY7ef+XYXreRgLAqDmZcuIxp28oVE2kDZQPu+ELGim1ZXW0azqyWOCzhDxyg=="
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yeFkLEhXfTaUar57oROzRLzlhHaSl7i5pHQe6ebjO/QJek8Eh8J+m6b5VYEFBwAH3QyJKyPY7ef+XYXreRgLAqDmZcuIxp28oVE2kDZQPu+ELGim1ZXW0azqyWOCzhDxyg==",
+	"origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "TV PUBLICA opc 2",
         "icono": "https://i.ibb.co/xsBgRLG/tvpublica-logo.jpg",
         "uri": "zvRUyGwoO3iBdYbDVO5OyYPSCSmziRqxmnrgQCnLRS9wREozQPILk0iulZ2j0BPXRmit7ooK9gCiziKHxXTgrYMUP5ELE32te4vuLvb4HHU=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yTWWGQLebRWEQeFrGE3Vk4/SzrcRFZL1PgnibbDLNkmVoDGmQBSra2xpPDGUMP6CDzaN1qj7sAn3GW43OKsJPRqUrpDPfO4IZWzncO6W+uYFAAufLwpHSglgSXOQqUG92g=="
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yTWWGQLebRWEQeFrGE3Vk4/SzrcRFZL1PgnibbDLNkmVoDGmQBSra2xpPDGUMP6CDzaN1qj7sAn3GW43OKsJPRqUrpDPfO4IZWzncO6W+uYFAAufLwpHSglgSXOQqUG92g==",
+	"origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "C5N",
