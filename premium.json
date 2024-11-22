@@ -2923,9 +2923,11 @@
         "uri": "uNMmg20dvCOhRq06e+KPSHnOijzQI6PZRc2QFN9Ywefji0cMmcDVdz/XKL1gChENvXih0tPQvGNtZtseXB+RhSucjTItMqK0YzjzowkG/zxfbgMFVXPhICkSIhbXWYsCYjSpWDr3HmjeloykeAfJbDolonzT2xLxfvDL8RBYPj3WvUvWPFWbljLgoBA+lV7wecXr9xFnNFMKDvwk9LMnuUameNCchq6MLW6s93hcu/1DAJLjGP8AFQTWF8N89NXuj0ONishBxKViTsFTQn6ui6h/27jw2nONYEzgI8AiH1CSgxJxswak54JuUHxjfEZ6Kpsn5uquG8C3C4D691agSqTp4ovnLUXn7nXsq/Sf4cccPk28gybtJO7sXwCLobycQgH7XftRBfbYlVzitlR8CZm2si9PMDTCiA/4OKvk6dxyC8+FlllVR5ifb5MZ/A4PGQQKS755+Yk57SdwpwJyXWwTK+kFBO8Qa7lHA1yIf+SyGy6MyVbYhrDlhTdLQCaFagW1eSdZOz1TFVLSk5LhMLQEknBhM/tDf3HrFuzgK2HaWokHZt1xF78EnwTKMLSLwOl7wni9ZVA+aoQp1uJ5EA=="
       },
       {
-        "name": "Pluto TV Star Trek",
-        "icono": "https://images.pluto.tv/channels/5ec5761aabe4690007f6e047/colorLogoPNG.png",
-        "uri": "uNMmg20dvCOhRq06e+KPSAByOY+eEAjfypni0YINFmnA6UEBFVC4/nkdNy2SkRM4ItI7e//KJxyu4K+yLmB4edWIjefmgbnU5TAwslNihn6MT7NBVduiS+ssgSqx8K2gas0F5wvtse2kayIwAf3ghnwd9VzrS+Ft5N61o+ARDzW7YBaaZtLlLymZyh0cpWqJ32oVscOK9jjStfmPAnoc+htDxJDyp0AsJqljd6PII60jchzefUWrf3Zdj3GjiofWuXgqa7RHPA5E2SpnnVWBz487PiHVlrvBNBh/B+PAqjZyrhhoUykexKMC0eLiKQm3Y0aAZuBfiNEYaWf40d2wUw=="
+       "name": "Pluto TV Star Trek",
+    "icono": "https://images.pluto.tv/channels/5ec5761aabe4690007f6e047/colorLogoPNG.png",
+    "uri": "uNMmg20dvCOhRq06e+KPSAByOY+eEAjfypni0YINFmnA6UEBFVC4/nkdNy2SkRM4ItI7e//KJxyu4K+yLmB4edWIjefmgbnU5TAwslNihn6MT7NBVduiS+ssgSqx8K2gas0F5wvtse2kayIwAf3ghnwd9VzrS+Ft5N61o+ARDzW7YBaaZtLlLymZyh0cpWqJ32oVscOK9jjStfmPAnoc+htDxJDyp0AsJqljd6PII60jchzefUWrf3Zdj3GjiofWuXgqa7RHPA5E2SpnnVWBz487PiHVlrvBNBh/B+PAqjZyrhhoUykexKMC0eLiKQm3Y0aAZuBfiNEYaWf40d2wUw==",
+    "origin": "https://pluto.tv",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
       },
       {
         "name": "Pluto TV Cine Estelar",
