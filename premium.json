@@ -3144,7 +3144,15 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yf6CYwrTUURi/qne+R2qui9FktfZaBwYdqgoBCmAnUJioLhM2TuupkZJ5wkROLWKTjZTgeDoxDO8EUWw3zPsCTGO06ZnqMxrp1IBJNoZ/pqkP4syiekztzr+/lrTtTjXtQ==",
         "referer": "https://nowtv.express.com.ar/",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"        
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+             },
+      {
+        "name": "CANAL DE MUSICA",
+        "icono": "https://1.bp.blogspot.com/-_tE8VO8HMnA/X0_XRjluTAI/AAAAAAAA6Ts/-pyWu9d-VyAKrBlIG1S84e2hVSWEfoHagCLcBGAsYHQ/s0/cm-elcanaldelamusica.png",
+        "uri": "NRgAzgqepvDO08/a1RDfxlsqgwYaIilz9dpOf2Qi8QKWhgNOdZfCsspwKEgw4+y3NR/mKOJ5AcDCUiNOl+fjlkBgKn+AvYN47SNHZGgzQ8k=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yehjHWFvgmyT6FxAmSL20w1ax4ZXmWgwwDU/F3APHBuDlMumV6EZ+oh30xC0agsh7iYjRxkWu8eUHfWbx9XafSxo4pjso6bdBZqayvRxBpFAt972V5l7l0t61DqI5wwXmA==",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"     
       }
     ]
   }
