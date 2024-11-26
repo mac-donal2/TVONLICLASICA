@@ -3,6 +3,16 @@
     "name": "EVENTOS EN VIVO DISPONIBLES ÚNICAMENTE CUANDO HAY EVENTOS ACTIVOS.",
     "samples": [
       {
+        "name": "LIGA URUGUAY NICO",
+        "icono": "https://a.espncdn.com/combiner/iimg=/i/leaguelogos/soccer/500/1592.png",
+        "uri": "eRHzJ7bZCBODSDlJQ82GIkKFhkEGWFSxJH5VuNYaA8dYrldxpFaHX18tkDtl7FFo4fWNWa26sAyUEKNpUuwD6GKuCobyroFAqS9O4xAc59Q3gBv/72N9CmvW5D4y9jD1"
+      },
+      {
+        "name": "LIGA URUGUAY",
+        "icono": "https://a.espncdn.com/combiner/iimg=/i/leaguelogos/soccer/500/1592.png",
+        "uri": "VMa1NG1ZgcPI025EslT7pz9U/o30ZljRbbl6Ok30wdNQrXI3VGRdcvZNS8iDY5+qZwjbq+nOaTRB3Ynen7ptVIOUTap6a3Tp8eT499WkmMw="
+      },
+      {
         "name": "COPA POTRERO",
         "icono": "https://a3.espncdn.com/combiner/iimg=%2Fphoto%2F2024%2F1115%2Fr1415047_1296x729_16%2D9.jpg",
         "uri": "iPBnJRRaxAUZBS8XYksRlO5kqUFrEBDZJ3Wr8PZxhDiKJJYacnEVvbS6ZOTjO21bQHt1u/req3e8g0Htc2q6sv7ZNDSNVmC+cULAErKnUyg="
@@ -32,16 +42,6 @@
         "uri": "ARwtNmPl2AzeQHH1o25/Y/4MyfiIGf7t94aQQqqzp3VeLmwqpf32mtxzi23nyzWd0nZvt8GyjiN+Xn7J6xXYMN0y3fI2FpGZ+5w54fnrh9qS4hrqQNcRYvPIi9KzPNIgjlBY5NjzYyaZcS1mJbhrOQ==",
         "drm_scheme": "clearkey",
         "drm_license_uri": "YYuPV/p+fd/Ui2CcjMqcfQTqS60KVMhlhwlDyllvjwapEbaR0WBUtsZ7phNNrnECCNspNcnFAbo09wGYfRFCuJb+5S5W/h+qj0tXC1lGRFpNpPgXMItxbyJWqm7SR0ldnRdBwq1v36R3paSuUovogM2J58Kg2B+J2fvMmCWHtRk5pcX5mkminP8ucDqAO8pLMxCXeJ0r9bD35Kxg7Ru3wQ=="
-      },
-      {
-        "name": "LIGA URUGUAY NICO",
-        "icono": "https://a.espncdn.com/combiner/iimg=/i/leaguelogos/soccer/500/1592.png",
-        "uri": "eRHzJ7bZCBODSDlJQ82GIkKFhkEGWFSxJH5VuNYaA8dYrldxpFaHX18tkDtl7FFo4fWNWa26sAyUEKNpUuwD6GKuCobyroFAqS9O4xAc59Q3gBv/72N9CmvW5D4y9jD1"
-      },
-      {
-        "name": "LIGA URUGUAY",
-        "icono": "https://a.espncdn.com/combiner/iimg=/i/leaguelogos/soccer/500/1592.png",
-        "uri": "dEq0J7LPd9sf8J6UNydSxPoGM/Pui6l0YUonNsF/LJ/2hgsROPBSijwTr+Z3Yk1Y4+EjD9oDBjdV5jimJxhcZv7ZNDSNVmC+cULAErKnUyg="
       },
       {
         "name": "MLS",
