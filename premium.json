@@ -1135,6 +1135,40 @@
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yYtTEkkI692w+rvB8EvH6ZsMsFgd/KsBdj9ucN/lQKKZbg+G3MwlBTvVnwNHlxPrfUHmM1h7WukzppvBiU18eGUuWzmzR+qPN7fssT/ZIsSoRtZhqG+VWmQw4HNqdurbKQ=="
       },
       {
+        "name": "TYC SPORTS SOLO EVENTOS",
+        "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CmcVwxLtW3kxCy0Fu7JwCy2ZX6PpXWuBYtyYwPN/7OEv+apDWlaz4x67NMZ4csAH0Tf0KA8DFffemLN7zO77Kw6",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yTvId8+bqNmh/7NgEezhM0N2UeugUG2e8n24jwKPFyHZvXNDkypgYAhhIE7ygBUDyc1/o0xazF9v+8Hu7wNK7hTewdMG/mfevXPybMtlIfZZcHc1DXaRSdqc6l/r7UYuAA==",
+        "origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "TYC SPORTS",
+        "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CmsCrL+eIsmKqvLL+kZB1ySJ3R+5U4kFNPVp8NoFUPFsDVMLp9yOSdXAXARhY+qCtKUmtA8J7xXJB3HCndAUNvd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ybxD3PYaMc9Z85b3RuDp5ozwjDlEoR1yDP1giq1HSWkSyMGFmrgP/ofLkIuAVH8GjU0jMuWAfiFkcYgZsNrUDzg8aKnwk3t/TdM2gD5Z51GPqxikNbRWCcY4u7HyVcj9Sw==",
+        "origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "TYC SPORTS OPC 2",
+        "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg",
+        "uri": "zvRUyGwoO3iBdYbDVO5OyYPSCSmziRqxmnrgQCnLRS9OSQQV9OORRAazWUWP4wdcuxCLvQ8PWvTQ2oSF1wbgpQVnfsgUl3Bln19G5u+5mLGev3ryl++eHuE+NLp2v5FE",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yUpSlkMtamCpAFmQMdFcCBv1zAOYrcI1Zsvauy8GcHnpR3kLsBnOzLg20Wypj3650sC9T6azH/B+08TTG24+WDUXvph+/Ah4wV54+cCt5RJsyGhX8h8pB7zoVoKaQVJ2sw=="
+      },
+      {
+        "name": "TYC SPORTS INTERNACIONAL",
+        "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg",
+        "uri": "NdXA7xykHv7BREP+oA4dUg4SOHJ1L07tpuomSdqxDREsZJD3YrgpwZmrodKx8e2MJ5Tw5ytGkxsCLx1Rpqqi1Wspqj5u0IywD6lMapjizRM=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yX6jMyXfkruV9CAFhtQjL3OcQCI86cspM3riNV8eAVYQganxTMpb0uFzSoV7+0s6DlWnVst1FqGsY4J+rk4D+Cf7mEgBZn8nclho+G40v4V/cHc1DXaRSdqc6l/r7UYuAA==",
+        "origin": "https://player.sensa.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
         "name": "FOX SPORTS 1",
         "icono": "https://i.ibb.co/x1NKkps/SDASFDSFSD.png",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cl6qpPMKhQVSb/Q3GuZV4CoiNCZZoj5Fvd9WFcHwvgeO+dyGgvyluT7ASiLYSdgQDnGYg9tFyLAvC8EuZUPfHWf",
@@ -1183,52 +1217,18 @@
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yVyQ/qSK0wSoAgCL8a6fenq0aAtI5acCabGHoKof+bA4vm9xcESIuZA9daHKzP5EuCu+DicHBztmFJn4LckfryQf+Efs6JiZR6QXF/VxRfe2E6BSjyc+GcqYW/qFsXHWig=="
       },
       {
-        "name": "TYC SPORTS",
-        "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CmsCrL+eIsmKqvLL+kZB1ySJ3R+5U4kFNPVp8NoFUPFsDVMLp9yOSdXAXARhY+qCtKUmtA8J7xXJB3HCndAUNvd",
+        "name": "FOX SPORTS PREMIUM MX",
+        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiB1u3-4ngo1qfaujbtapbDdV3nexMx1AaNhNOcOV14Z6GoPuG5uB79_zDIREFVkPN4RokXkf6AwRMuhLyw3gC5qLBFn7pjVYe0JYZN3EaFX9BopSnVFagnLkgkwA8MIaZlLdnfJdBRPriEsjhq8x28SwoPHTRXrpOoOIUlLsy17L2oDUPVR52sWJWs/w640-h360-rw/foxsportspremiumtvlaint.jpg",
+        "uri": "USwVFT8RfApDfMVxyUe9OhWG+/BT8+VkRnWWHNUqTWE9UKUWYq6QqBQdRAUtCRzBEdOcdUMSYVzyGzfh/vtY/Eo3uRkLYX3LkPOUff2Jsg+HxQo24L4z4CGalFlrUaquAS9uvvegtKE6pJZYE9q+q2fbdHxS84Yjka0bA9T7+U0=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ybxD3PYaMc9Z85b3RuDp5ozwjDlEoR1yDP1giq1HSWkSyMGFmrgP/ofLkIuAVH8GjU0jMuWAfiFkcYgZsNrUDzg8aKnwk3t/TdM2gD5Z51GPqxikNbRWCcY4u7HyVcj9Sw==",
-        "origin": "https://web.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "TYC SPORTS OPC 2",
-        "icono": "https://i.ibb.co/tK20mxz/tycsports.png",
-        "uri": "zvRUyGwoO3iBdYbDVO5OyYPSCSmziRqxmnrgQCnLRS9OSQQV9OORRAazWUWP4wdcuxCLvQ8PWvTQ2oSF1wbgpQVnfsgUl3Bln19G5u+5mLGev3ryl++eHuE+NLp2v5FE",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "YYuPV/p+fd/Ui2CcjMqcfQTqS60KVMhlhwlDyllvjwapEbaR0WBUtsZ7phNNrnECCNspNcnFAbo09wGYfRFCuCPpx4ecQP/P+f3AMIb1q6ejkEDJo0fT31wo3Q9kjwUVWBy86vyy+7MBQKkNc9wyeRlG4vagZ0boprxZ8PDFL6NWt5uLBjWhvh0XYpFLdq8/MxCXeJ0r9bD35Kxg7Ru3wQ=="
-      },
-      {
-        "name": "TYC SPORTS SOLO EVENTOS",
-        "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CmcVwxLtW3kxCy0Fu7JwCy2ZX6PpXWuBYtyYwPN/7OEv+apDWlaz4x67NMZ4csAH0Tf0KA8DFffemLN7zO77Kw6",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yTvId8+bqNmh/7NgEezhM0N2UeugUG2e8n24jwKPFyHZvXNDkypgYAhhIE7ygBUDyc1/o0xazF9v+8Hu7wNK7hTewdMG/mfevXPybMtlIfZZcHc1DXaRSdqc6l/r7UYuAA==",
-        "origin": "https://web.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "TYC SPORTS INTERNACIONAL",
-        "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2ClCgPWCsOU5Vy9IyXobmMAXnHjpLvjQFD2LQSvZmLBOiaWYRu3PGbNiB212Ru5iSCWAoUKhzMkHUts4xgCWJlhGxmIPbRciwLwvBLmVD3x1nw==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yX6jMyXfkruV9CAFhtQjL3OcQCI86cspM3riNV8eAVYQganxTMpb0uFzSoV7+0s6DlWnVst1FqGsY4J+rk4D+Cf7mEgBZn8nclho+G40v4V/cHc1DXaRSdqc6l/r7UYuAA==",
-        "origin": "https://web.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "FOX SPORTS 1 OPC 2",
-        "icono": "https://i.ibb.co/x1NKkps/SDASFDSFSD.png",
-        "uri": "0LNFdjC3fgPYJ5piTIPw2OaINQni8aMhBHrB6zid8MqJhjmh7EaDbzBju9W7dsSAgh22tNi/bmqviqMO+SSkiwq6o6RTnIRBdnBttw7A8ck=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yUPlL5qvylYETAFtxP8LSp5o2cWK7zYb2vB5/yuExjH+YrDwgoCZwRqDLX/Kh5WZfqE3tpkaWV48ZRJbZhyWbscx6WeTD0AXx60Wbc18oHrSCF2LmEZ9+tGdTZy4jv2BRQ=="
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ycuusCThtrLuelNIu3e1aaOUz2vAu8VrIVfUkUs3Mze42DPYwW7GSNMcuiEhmw/1GhQpB7mqS2Wo97th+h+ObFpeLbKkRw24pHJVQ4FGgzpxSvERS7VTFRZfmDQ0gpRIlw=="
       },
       {
         "name": "ESPN",
         "icono": "https://i.ibb.co/BzGyKSW/QHU32-CDMLNFGLMLSUM27-NHA5-FU.jpg",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2ClbgEi6w7tiYPTk6lNVYj4WJC6RUQ7Sx902Hr7sunOmivQJO7wTmfCQAqCJtRFcoDIzEJd4nSv1sPfkrGDtG7fB",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yUTjT+H2SbZI2x+uTpZMduZX1l6EIHGGjDRyIYsq0csadveqethpXs516FcbYt0TEJXvBqgSrHEnOcmu/ttQA/iK2tpAWM55H0NSMaJC2waZRtZhqG+VWmQw4HNqdurbKQ==",
+        "drm_license_uri": "XOLFebZr0NIxsyAhoXiYbo+mpsXX5vBjAMf4QiJF2WnGSBgiGUWc5QFkaMoc9RwolSufatYrEuqiiGA53PGQFznMq5bm8TUK2mkhwyer/bO/D2v/XJFeWOvKZE1iglBs5zqEFdp+oSYExOj1bulOvNMHXtF48GtWGe8IjU0WuXKKomY60fFYmCXQP2qg1u8nC+nSBk/GdFLtMH1tLlfIF6G/h7+nDQs60Pg1gvL9DWTLVH0VcZNF9g970BvGbcmLnUT+/53bF212ckx1vFn6hVSLmn19WXhX+nRus/av44U=",
         "origin": "https://web.app.flow.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
@@ -1300,9 +1300,7 @@
         "icono": "https://i.ibb.co/9V3PgZ5/espn-premium-by-jpfr1906-df43pcs-375w-2x.jpg",
         "uri": "zvRUyGwoO3iBdYbDVO5OyYPSCSmziRqxmnrgQCnLRS9ZUNycqQMz7a5PwZ5T9wMc8Y9xEBEV4oc4/YPsa2cWpQoeKB2QfFvhSBEBrZznvZbGYg9tFyLAvC8EuZUPfHWf",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yS+RYQlZijpwv9ieKra26abneQdaZx+5ccUg0gX2n/wSnnbiVsf6nU8Hy7HR/adIsqa3Ic8Qe/K53tZAxfl6A7zDDaP7KEXkndePCCGYhvFAWSaf892CbyS2TG5735JtNQ==",
-        "origin": "https://web.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yS+RYQlZijpwv9ieKra26abneQdaZx+5ccUg0gX2n/wSnnbiVsf6nU8Hy7HR/adIsqa3Ic8Qe/K53tZAxfl6A7zDDaP7KEXkndePCCGYhvFAWSaf892CbyS2TG5735JtNQ=="
       },
       {
         "name": "AMERICA SPORTS",
@@ -1381,7 +1379,7 @@
       {
         "name": "TYC SPORT (PLAY 8)",
         "icono": "https://i.ibb.co/7QZp4qQ/Aw-UFQ-u-K-400x400.jpg",
-        "uri": "0BEXTj8sFcnXk+JUHzyKDuGci3UoxfdR2cQAAQyqI3rN/t+BNPT8bbHwpwdgq5FbfaHf83r7DiegJHom0Zcoep6t2RFOtQrf2CopMOyxme2fSvhcjvn35Uabh3RSY++FqRE5yY1f11QCoH+q29Dzcx/3hA9ndWQAHqwtkWbRrQAzEJd4nSv1sPfkrGDtG7fB"
+        "uri": "64Cqj9dQugf4W5fxjCkzr2jU7u8DYqBNw5lelplMsn1tAYU+W2UJiz3S0XzWaI9l5M47jeL0XjBR6Sd7m3/rDa1KA9NA8T2GGhaOBLshcnmxVVX4xyywvuCpFnBVxJoc"
       },
       {
         "name": "TYC SPORT (PLAY 9)",
@@ -1416,7 +1414,7 @@
         "icono": "https://i.ibb.co/CvhtCWJ/descarga-5.jpg",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cmvmtr1XWez63ti977Bts8eVAxfzWYQrG+eJ4dcOu/0V0WqQy39bnjdfkSqA4DTtnXGYg9tFyLAvC8EuZUPfHWf",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "XOLFebZr0NIxsyAhoXiYbo+mpsXX5vBjAMf4QiJF2WnGSBgiGUWc5QFkaMoc9RwolSufatYrEuqiiGA53PGQFznMq5bm8TUK2mkhwyer/bOm34JXm9O2aEIKrAXIJKyxgkXtw56JG7/SOPTaelG9ZNuzooWxbel2hx0/cQAqUW29FYN0DNrI0kTsnWx0CwjMhWGEobPGrSCY8MEWewb8G6LbHkeRaEfGsNMmfZp4x77KocpKb2g5j9ak1Z1cCHG4InaJfdluGeq9ci2X5N3f6BbvAVYsPbLeZ3ShaKcuTKY=",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yR+AXyYvB9jSrCOeQN4UaXQW69qHLmoCW+lp4Ycd8J5FOQp4Z9Swk1TUQzl+3/tza1C2dsKrUAs2V2AhQB7qmAknArAVU4wraj/qvEeldvd+55Iz/OklR7dKczWkyvPWCw==",
         "origin": "https://web.app.flow.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       }
