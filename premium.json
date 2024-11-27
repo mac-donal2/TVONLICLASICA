@@ -1,6 +1,6 @@
 [
   {
-    "name": "EVENTOS EN VIVO DISPONIBLES ÚNICAMENTE CUANDO HAY EVENTOS ACTIVOS.26",
+    "name": "EVENTOS EN VIVO DISPONIBLES ÚNICAMENTE CUANDO HAY EVENTOS ACTIVOS.27",
     "samples": [
       {
         "name": "LIGA URUGUAY NICO",
@@ -1166,6 +1166,15 @@
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yX6jMyXfkruV9CAFhtQjL3OcQCI86cspM3riNV8eAVYQganxTMpb0uFzSoV7+0s6DlWnVst1FqGsY4J+rk4D+Cf7mEgBZn8nclho+G40v4V/cHc1DXaRSdqc6l/r7UYuAA==",
         "origin": "https://player.sensa.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "FOX SPORTS 1",
+        "icono": "https://i.ibb.co/x1NKkps/SDASFDSFSD.png",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cl6qpPMKhQVSb/Q3GuZV4CoiNCZZoj5Fvd9WFcHwvgeO+dyGgvyluT7ASiLYSdgQDnGYg9tFyLAvC8EuZUPfHWf",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yTUMn+1YIU82HFRpmCObbR4gHIHvI8lr4O5jxePaDxVboCla2kKw+v+EVGEIQ6ZDL74YDsBRsmBQtAvQCv8XDzWsaaH0F+N/3YyXwmQ1XXlyGRLAeSqGWlA4dFXN1tPGrw==",
+        "origin": "https://web.app.flow.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
