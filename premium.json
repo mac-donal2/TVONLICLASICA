@@ -1178,13 +1178,13 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-        "name": "FOX SPORTS 2",
-        "icono": "https://i.ibb.co/b1TmtjS/ar-fox-sports-2-m.png",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cl6qpPMKhQVSb/Q3GuZV4Cow3wMr3eHoS2HJhDziBQfHLKi+TR3LeO3TNpJ1+MbUVTkbL4P4zuk3UXF9IegDepv",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yZSI6M/XwkuKc2PRUM2gUIkj+CjEm34RQYRHICFhl4Zl5DGH64KoZ268K8mGxW2cm/LH18yvJ0CBMZk+vO7FP7D7fdmN7u7+0dd4+VZT/gL/pj8+EBvLwKamqmIxUeZ0oA==",
-        "origin": "https://web.app.flow.com.ar",
-        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+    "name": "FOX SPORTS 2",
+    "icono": "https://i.ibb.co/b1TmtjS/ar-fox-sports-2-m.png",
+    "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cl6qpPMKhQVSb/Q3GuZV4Cow3wMr3eHoS2HJhDziBQfHLKi+TR3LeO3TNpJ1+MbUVTkbL4P4zuk3UXF9IegDepv",
+    "drm_scheme": "clearkey",
+    "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yZSI6M/XwkuKc2PRUM2gUIkj+CjEm34RQYRHICFhl4Zl5DGH64KoZ268K8mGxW2cm/LH18yvJ0CBMZk+vO7FP7D7fdmN7u7+0dd4+VZT/gL/pj8+EBvLwKamqmIxUeZ0oA==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "FOX SPORTS 3 ",
