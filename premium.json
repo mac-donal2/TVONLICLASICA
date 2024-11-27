@@ -1010,20 +1010,20 @@
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yYtTEkkI692w+rvB8EvH6ZsMsFgd/KsBdj9ucN/lQKKZbg+G3MwlBTvVnwNHlxPrfUHmM1h7WukzppvBiU18eGUuWzmzR+qPN7fssT/ZIsSoRtZhqG+VWmQw4HNqdurbKQ=="
       },
       {
-       "name": "TYC SPORTS",
-      "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg",
-      "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CmsCrL+eIsmKqvLL+kZB1ySJ3R+5U4kFNPVp8NoFUPFsDVMLp9yOSdXAXARhY+qCtKUmtA8J7xXJB3HCndAUNvd",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ybxD3PYaMc9Z85b3RuDp5ozwjDlEoR1yDP1giq1HSWkSyMGFmrgP/ofLkIuAVH8GjU0jMuWAfiFkcYgZsNrUDzg8aKnwk3t/TdM2gD5Z51GPqxikNbRWCcY4u7HyVcj9Sw==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        "name": "TYC SPORTS",
+        "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CmsCrL+eIsmKqvLL+kZB1ySJ3R+5U4kFNPVp8NoFUPFsDVMLp9yOSdXAXARhY+qCtKUmtA8J7xXJB3HCndAUNvd",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ybxD3PYaMc9Z85b3RuDp5ozwjDlEoR1yDP1giq1HSWkSyMGFmrgP/ofLkIuAVH8GjU0jMuWAfiFkcYgZsNrUDzg8aKnwk3t/TdM2gD5Z51GPqxikNbRWCcY4u7HyVcj9Sw==",
+        "origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-       "name": "TYC SPORTS OPC 2",
-       "icono": "https://i.ibb.co/tK20mxz/tycsports.png",
-       "uri": "zvRUyGwoO3iBdYbDVO5OyYPSCSmziRqxmnrgQCnLRS9OSQQV9OORRAazWUWP4wdcuxCLvQ8PWvTQ2oSF1wbgpQVnfsgUl3Bln19G5u+5mLGev3ryl++eHuE+NLp2v5FE",
-       "drm_scheme": "clearkey",
-       "drm_license_uri": "YYuPV/p+fd/Ui2CcjMqcfQTqS60KVMhlhwlDyllvjwapEbaR0WBUtsZ7phNNrnECCNspNcnFAbo09wGYfRFCuCPpx4ecQP/P+f3AMIb1q6ejkEDJo0fT31wo3Q9kjwUVWBy86vyy+7MBQKkNc9wyeRlG4vagZ0boprxZ8PDFL6NWt5uLBjWhvh0XYpFLdq8/MxCXeJ0r9bD35Kxg7Ru3wQ=="
+        "name": "TYC SPORTS OPC 2",
+        "icono": "https://i.ibb.co/tK20mxz/tycsports.png",
+        "uri": "zvRUyGwoO3iBdYbDVO5OyYPSCSmziRqxmnrgQCnLRS9OSQQV9OORRAazWUWP4wdcuxCLvQ8PWvTQ2oSF1wbgpQVnfsgUl3Bln19G5u+5mLGev3ryl++eHuE+NLp2v5FE",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "YYuPV/p+fd/Ui2CcjMqcfQTqS60KVMhlhwlDyllvjwapEbaR0WBUtsZ7phNNrnECCNspNcnFAbo09wGYfRFCuCPpx4ecQP/P+f3AMIb1q6ejkEDJo0fT31wo3Q9kjwUVWBy86vyy+7MBQKkNc9wyeRlG4vagZ0boprxZ8PDFL6NWt5uLBjWhvh0XYpFLdq8/MxCXeJ0r9bD35Kxg7Ru3wQ=="
       },
       {
         "name": "TYC SPORTS 2 SOLO EVENTOS",
@@ -1145,20 +1145,27 @@
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yYtTEkkI692w+rvB8EvH6ZsMsFgd/KsBdj9ucN/lQKKZbg+G3MwlBTvVnwNHlxPrfUHmM1h7WukzppvBiU18eGUuWzmzR+qPN7fssT/ZIsSoRtZhqG+VWmQw4HNqdurbKQ=="
       },
       {
-        "name": "TYC SPORTS SOLO EVENTOS",
+        "name": "TYC SPORTS",
         "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CmcVwxLtW3kxCy0Fu7JwCy2ZX6PpXWuBYtyYwPN/7OEv+apDWlaz4x67NMZ4csAH0Tf0KA8DFffemLN7zO77Kw6",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CmsCrL+eIsmKqvLL+kZB1ySJ3R+5U4kFNPVp8NoFUPFsDVMLp9yOSdXAXARhY+qCtKUmtA8J7xXJB3HCndAUNvd",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yTvId8+bqNmh/7NgEezhM0N2UeugUG2e8n24jwKPFyHZvXNDkypgYAhhIE7ygBUDyc1/o0xazF9v+8Hu7wNK7hTewdMG/mfevXPybMtlIfZZcHc1DXaRSdqc6l/r7UYuAA==",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ybxD3PYaMc9Z85b3RuDp5ozwjDlEoR1yDP1giq1HSWkSyMGFmrgP/ofLkIuAVH8GjU0jMuWAfiFkcYgZsNrUDzg8aKnwk3t/TdM2gD5Z51GPqxikNbRWCcY4u7HyVcj9Sw==",
         "origin": "https://web.app.flow.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-        "name": "TYC SPORTS",
-        "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg",
+        "name": "TYC SPORTS OPC 2",
+        "icono": "https://i.ibb.co/tK20mxz/tycsports.png",
         "uri": "zvRUyGwoO3iBdYbDVO5OyYPSCSmziRqxmnrgQCnLRS9OSQQV9OORRAazWUWP4wdcuxCLvQ8PWvTQ2oSF1wbgpQVnfsgUl3Bln19G5u+5mLGev3ryl++eHuE+NLp2v5FE",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yUpSlkMtamCpAFmQMdFcCBv1zAOYrcI1Zsvauy8GcHnpR3kLsBnOzLg20Wypj3650sC9T6azH/B+08TTG24+WDUXvph+/Ah4wV54+cCt5RJsyGhX8h8pB7zoVoKaQVJ2sw=="
+        "drm_license_uri": "YYuPV/p+fd/Ui2CcjMqcfQTqS60KVMhlhwlDyllvjwapEbaR0WBUtsZ7phNNrnECCNspNcnFAbo09wGYfRFCuCPpx4ecQP/P+f3AMIb1q6ejkEDJo0fT31wo3Q9kjwUVWBy86vyy+7MBQKkNc9wyeRlG4vagZ0boprxZ8PDFL6NWt5uLBjWhvh0XYpFLdq8/MxCXeJ0r9bD35Kxg7Ru3wQ=="
+      },
+      {
+        "name": "TYC SPORTS 2 SOLO EVENTOS",
+        "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg",
+        "uri": "VDfua+EFdPjTY7qcmpinfEh/PPCegnTpOA1501vhSJ9f29vMaqh8r6/iXLOfSqyTG4L6xXv1lTkbfUA++PO1IA==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yTvId8+bqNmh/7NgEezhM0N2UeugUG2e8n24jwKPFyHZvXNDkypgYAhhIE7ygBUDyc1/o0xazF9v+8Hu7wNK7hTewdMG/mfevXPybMtlIfZZcHc1DXaRSdqc6l/r7UYuAA=="
       },
       {
         "name": "TYC SPORTS INTERNACIONAL",
