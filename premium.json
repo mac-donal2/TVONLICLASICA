@@ -1,6 +1,6 @@
 [
   {
-    "name": "EVENTOS EN VIVO DISPONIBLES ÚNICAMENTE CUANDO HAY EVENTOS ACTIVOS.",
+    "name": "EVENTOS EN VIVO DISPONIBLES ÚNICAMENTE CUANDO HAY EVENTOS ACTIVOS.2",
     "samples": [
       {
         "name": "LIGA URUGUAY NICO",
@@ -1135,6 +1135,54 @@
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yYtTEkkI692w+rvB8EvH6ZsMsFgd/KsBdj9ucN/lQKKZbg+G3MwlBTvVnwNHlxPrfUHmM1h7WukzppvBiU18eGUuWzmzR+qPN7fssT/ZIsSoRtZhqG+VWmQw4HNqdurbKQ=="
       },
       {
+        "name": "FOX SPORTS 1",
+        "icono": "https://i.ibb.co/x1NKkps/SDASFDSFSD.png",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cl6qpPMKhQVSb/Q3GuZV4CoiNCZZoj5Fvd9WFcHwvgeO+dyGgvyluT7ASiLYSdgQDnGYg9tFyLAvC8EuZUPfHWf",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yTUMn+1YIU82HFRpmCObbR4gHIHvI8lr4O5jxePaDxVboCla2kKw+v+EVGEIQ6ZDL74YDsBRsmBQtAvQCv8XDzWsaaH0F+N/3YyXwmQ1XXlyGRLAeSqGWlA4dFXN1tPGrw==",
+        "origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "FOX SPORTS 1 OPC 2",
+        "icono": "https://i.ibb.co/x1NKkps/SDASFDSFSD.png",
+        "uri": "zvRUyGwoO3iBdYbDVO5OyYPSCSmziRqxmnrgQCnLRS959LPJjoqQPdVxMT4pQusAZ05dv52jK310CRug3R0TuEDnVzx70J27jkOoW47T9A0=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yUPlL5qvylYETAFtxP8LSp5o2cWK7zYb2vB5/yuExjH+YrDwgoCZwRqDLX/Kh5WZfqE3tpkaWV48ZRJbZhyWbscx6WeTD0AXx60Wbc18oHrSCF2LmEZ9+tGdTZy4jv2BRQ=="
+      },
+      {
+        "name": "FOX SPORTS 2",
+        "icono": "https://i.ibb.co/b1TmtjS/ar-fox-sports-2-m.png",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cl6qpPMKhQVSb/Q3GuZV4Cow3wMr3eHoS2HJhDziBQfHLKi+TR3LeO3TNpJ1+MbUVTkbL4P4zuk3UXF9IegDepv",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yZSI6M/XwkuKc2PRUM2gUIkj+CjEm34RQYRHICFhl4Zl5DGH64KoZ268K8mGxW2cm/LH18yvJ0CBMZk+vO7FP7D7fdmN7u7+0dd4+VZT/gL/pj8+EBvLwKamqmIxUeZ0oA==",
+        "origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "FOX SPORTS 2 OPC 2",
+        "icono": "https://i.ibb.co/b1TmtjS/ar-fox-sports-2-m.png",
+        "uri": "zvRUyGwoO3iBdYbDVO5OyYPSCSmziRqxmnrgQCnLRS959LPJjoqQPdVxMT4pQusANqnJb92pDaXfqyeQkoQ2g3Sm/Pny3Mhhi14ktyEB6LozEJd4nSv1sPfkrGDtG7fB",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yad5kdCtjYBWpus2PSyvTMdvPvqqd+Mc54xV8sTPaLFJPe/iC9r3L3UFru/2J44uWK73f5a36mWeYCWF+KcSxFZ8MvR1GDoTHjUfPqHggUX1qR24GUXJ7GFJIlU5SFwfXg=="
+      },
+      {
+        "name": "FOX SPORTS 3 ",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Fox_Sports_3_Argentina_2023.svg",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cl6qpPMKhQVSb/Q3GuZV4Co/g3fa+sSu6OCqw6S8NTgPbKi+TR3LeO3TNpJ1+MbUVTFD+m5GddwPSk9qPwzjgdl",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yXDDqQVbERRMfnta/zu4iAHqqfvTDjCjRg6jhbtJAgtGcoVCY+iU9mkLgEg4d+JCb+auH0FHQUsXhwqWhCNn6SP1o6d/eNPb+7e+Zi/+1FFeGRLAeSqGWlA4dFXN1tPGrw==",
+        "origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "FOX SPORTS 3 OPC 2",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Fox_Sports_3_Argentina_2023.svg",
+        "uri": "zvRUyGwoO3iBdYbDVO5OyYPSCSmziRqxmnrgQCnLRS959LPJjoqQPdVxMT4pQusApYhzAAsuDU+00bAHwu3nIzlTSBK/E+0yDH2TIuWM+LEzEJd4nSv1sPfkrGDtG7fB",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yVyQ/qSK0wSoAgCL8a6fenq0aAtI5acCabGHoKof+bA4vm9xcESIuZA9daHKzP5EuCu+DicHBztmFJn4LckfryQf+Efs6JiZR6QXF/VxRfe2E6BSjyc+GcqYW/qFsXHWig=="
+      },
+      {
         "name": "TYC SPORTS",
         "icono": "https://i.ibb.co/DQVCfDv/channels4-profile-2.jpg",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CmsCrL+eIsmKqvLL+kZB1ySJ3R+5U4kFNPVp8NoFUPFsDVMLp9yOSdXAXARhY+qCtKUmtA8J7xXJB3HCndAUNvd",
@@ -1167,9 +1215,9 @@
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yX6jMyXfkruV9CAFhtQjL3OcQCI86cspM3riNV8eAVYQganxTMpb0uFzSoV7+0s6DlWnVst1FqGsY4J+rk4D+Cf7mEgBZn8nclho+G40v4V/cHc1DXaRSdqc6l/r7UYuAA==",
         "origin": "https://web.app.flow.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-       },
+      },
       {
-		    "name": "FOX SPORTS 1 OPC 2",
+        "name": "FOX SPORTS 1 OPC 2",
         "icono": "https://i.ibb.co/x1NKkps/SDASFDSFSD.png",
         "uri": "0LNFdjC3fgPYJ5piTIPw2OaINQni8aMhBHrB6zid8MqJhjmh7EaDbzBju9W7dsSAgh22tNi/bmqviqMO+SSkiwq6o6RTnIRBdnBttw7A8ck=",
         "drm_scheme": "clearkey",
@@ -3080,13 +3128,13 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-    "name": "CANAL INFANTIL",
-    "icono": "https://geo.edge.pontiscloud.com:9002/images/2182/CH_LOGO/800/542/0/0/50191211073985.png",
-    "uri": "VDfua+EFdPjTY7qcmpinfLCropwYK8k0udoPWehq0uVPPe2hZDeGWd4BRhW8DOCychxd6x+Qlth7V8+kNFUJMhvidSr0/LH+5J3LmoIYiRQzEJd4nSv1sPfkrGDtG7fB",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ycgO0lBpBPers5JhX1xDepcwA78nRkWxzXfrANyBz97zn1SYNZQQzxCho9FbXfYn48gpm2moyiPOiKA70CXJjfE/pkO+Bd+9Z5t5Vx01uu716gD5AQ84v/G/m/c8lCKmoQ==",
-    "referer": "https://player.sensa.com.ar/",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        "name": "CANAL INFANTIL",
+        "icono": "https://geo.edge.pontiscloud.com:9002/images/2182/CH_LOGO/800/542/0/0/50191211073985.png",
+        "uri": "VDfua+EFdPjTY7qcmpinfLCropwYK8k0udoPWehq0uVPPe2hZDeGWd4BRhW8DOCychxd6x+Qlth7V8+kNFUJMhvidSr0/LH+5J3LmoIYiRQzEJd4nSv1sPfkrGDtG7fB",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ycgO0lBpBPers5JhX1xDepcwA78nRkWxzXfrANyBz97zn1SYNZQQzxCho9FbXfYn48gpm2moyiPOiKA70CXJjfE/pkO+Bd+9Z5t5Vx01uu716gD5AQ84v/G/m/c8lCKmoQ==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       }
     ]
   }
