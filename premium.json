@@ -3135,6 +3135,15 @@
     "drm_license_url": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ycgO0lBpBPers5JhX1xDepcwA78nRkWxzXfrANyBz97zn1SYNZQQzxCho9FbXfYn48gpm2moyiPOiKA70CXJjfE/pkO+Bd+9Z5t5Vx01uu716gD5AQ84v/G/m/c8lCKmoQ==",
     "referer": "https://player.sensa.com.ar/",
     "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+    "name": "ESPN Premium HD",
+    "icono": "https://geo.edge.pontiscloud.com:9002/images/2182/CH_LOGO/800/542/0/0/50191211073985.png",
+    "uri": "VDfua+EFdPjTY7qcmpinfLCropwYK8k0udoPWehq0uUFTDoF9wm11HIhvnH0QOWu3ulFeeiaeASFGpnYN16O3p9t34S6mNmC11UrNJ3PUsY=",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yUqgHZNsadQc2NgJ4PdLToUqMhW/ci8PyJG40ucM6lcnYF/XrSYo31ZHcEoXXB2L68xVfTBwfbV0jSWF38xzO97L0DvqQnU96IdXjWq9gHyflHRDes7ibElrgpo2aVThNQ==",
+    "referer": "https://player.sensa.com.ar/",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       }
     ]
   }
