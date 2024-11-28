@@ -3141,6 +3141,15 @@
         "drm_license_url": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ycgO0lBpBPers5JhX1xDepcwA78nRkWxzXfrANyBz97zn1SYNZQQzxCho9FbXfYn48gpm2moyiPOiKA70CXJjfE/pkO+Bd+9Z5t5Vx01uu716gD5AQ84v/G/m/c8lCKmoQ==",
         "referer": "https://player.sensa.com.ar/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+    "name": "PRUEBA",
+    "icono": "https://uspto.report/TM/86068499/mark.png",
+    "uri": "NdXA7xykHv7BREP+oA4dUiqfEZ25DYaJGf5sTl2NIaKUU96WtooqjHGqkcnCZmPmgqMt8/pLKEK+SwLozo8NwT2TranH+DcueQ0G+2Yg4zUbColbxWULLRl8iaY1r2cpWbMWbHzWAKr6GeyoVx781A==",
+    "drm_scheme": "clearkey",
+    "drm_license_url": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yddz9+dZolTlkhiTW0ju13I0OKm4nwfHq2ZvDibinHX06eam59T4jgne0gMKKstPS5EjsfJNi5W/RvaJpyY0N/bPTzKijfgWM22cer76xQM7PA6wksdkIeEFq5RSd13WIw==",
+    "referer": "https://player.sensa.com.ar/",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       }
     ]
   }
