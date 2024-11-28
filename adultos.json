@@ -4,17 +4,21 @@
     "samples": [
       {
     "name": "PLAYBOY",
-    "icono": "https://i.pinimg.com/236x/01/67/6b/01676b28be43f0ec7be6f9accb5b977a.jpg",
+    "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png",
     "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CkTk9A1qqceV8PSHVRigZWH0NvEFe9qZWIX3u1zdWYinC4u53gM5/kNf2W/X5UbAFQzEJd4nSv1sPfkrGDtG7fB",
     "drm_scheme": "clearkey",
-    "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ySash3aUp7/jFllGBWK8v++pIRQzEjmgTTq60vuru+HQ7ik5IdhamYHQ4dKl9Tn56NQ1lQ11iP7mUYS41mPDJztz4yapMIHaYyA8fiFVSMJmTyTOrrHcXs9hXeMGABJYfA=="
+    "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ySash3aUp7/jFllGBWK8v++pIRQzEjmgTTq60vuru+HQ7ik5IdhamYHQ4dKl9Tn56NQ1lQ11iP7mUYS41mPDJztz4yapMIHaYyA8fiFVSMJmTyTOrrHcXs9hXeMGABJYfA==",
+    "origin": "https://i.pinimg.com/236x/01/67/6b/01676b28be43f0ec7be6f9accb5b977a.jpg",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
   },
   {
     "name": "VENUS",
     "icono": "https://cdn.mitvstatic.com/channels/7d8e150e-912c-4b8f-9019-5d1b12f35a55_m.jpg",
-    "uri": "vsItsirgdv0HJtqZunlH4R6N7plTMouDxfd1x6jkVUQu0rMYFInK9mHyGkUheo5FKYl5meq6esG6QYVZWF72OQrDNFTUJLzfCljKJvnBpMg=",
+    "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2ClBJ2695/1e1SKLElZGDWPgHtpM9A75omhHuK/VJOHciovKHHVrW/x9TekOeeN1Z6U=",
     "drm_scheme": "clearkey",
-    "drm_license_uri": "YOhN6SaFzURu0OC51/r6QwLY2SHnAdzrR7GcC9K3k4LlAsLeJx4vC738gZrEeY5mkNbYNyQZdzD5v558bTgdd2WSFluZvQnsKGWun0EACDVoqZ79/NCs4iTEyHhHjPxdYYSG52+wRR5uTatRFt3XYzMQl3idK/Ww9+SsYO0bt8E="
+    "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yZ27sUF8Pm8sjKtI0gKlBwoI7tUX0t/hd4yagUfzYVyImfT3M9DsQ0j1IN9ClAHZl1H/V2kLYzwoW87u3fwRHAw0iBRKXU8uD2j6yoD+X8bxDQxj4Fluu9YkvK+KG3BVQw==",
+    "origin": "https://web.app.flow.com.ar",
+    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       }
     ]
   }
