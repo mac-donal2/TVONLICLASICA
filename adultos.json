@@ -4,19 +4,19 @@
     "samples": [
       {
         "name": "PLAYBOY",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2CkTk9A1qqceV8PSHVRigZWH0NvEFe9qZWIX3u1zdWYinC4u53gM5/kNf2W/X5UbAFQzEJd4nSv1sPfkrGDtG7fB",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmK2VCsyqZvfN1AYRCosxQmtDqvVgLRsaKSmXsBul6W6d2P2PJneMWLIpiK7xRo5n1xp45ALkHccw+E8WuN7aDnp",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ySash3aUp7/jFllGBWK8v++pIRQzEjmgTTq60vuru+HQ7ik5IdhamYHQ4dKl9Tn56NQ1lQ11iP7mUYS41mPDJztz4yapMIHaYyA8fiFVSMJmTyTOrrHcXs9hXeMGABJYfA==",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvGUEJPUYH82RihHcXhN8CHsGMZM49N4n8Egl3iALBjgmU1HmT09WigGPiDsn6DTGCtRv1YJxCKTWnB53zPIs5zbuPuXnGVi+UwMb24GbkO7D2JMpx+oReVYbclNK6YhoHg==",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png",
         "origin": "https://web.app.flow.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "VENUS",
-        "icono": "https://cdn.mitvstatic.com/channels/7d8e150e-912c-4b8f-9019-5d1b12f35a55_m.jpg",
-        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2ClBJ2695/1e1SKLElZGDWPgHtpM9A75omhHuK/VJOHciovKHHVrW/x9TekOeeN1Z6U=",
+        "uri": "RTKtLy45N8SXq2dEoi+b3jy/saCgDpaiJKEVJvTSnmKj+IqPjsw0zQ0glHLlGoKmHXzdiUgkZ17bpH50KOHdlE6JoDgNAiQguyEUkEmVDdI=",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yZ27sUF8Pm8sjKtI0gKlBwoI7tUX0t/hd4yagUfzYVyImfT3M9DsQ0j1IN9ClAHZl1H/V2kLYzwoW87u3fwRHAw0iBRKXU8uD2j6yoD+X8bxDQxj4Fluu9YkvK+KG3BVQw==",
+        "drm_license_uri": "CrSEUhlEWa9WQcgBbb6dEErynJIzEkp99e3M/5LxnMPcEUNH9Nbh0o/4QtUZJ7LmQLAUMxvsE6fVMu9gJM6kvEpW6BhZ/Nkg2EAOATMINVhel1jKITWwDKVGHXcqnvVTgpQ0vlnJLUxZMjWW2YoXkI7fEeHljSq27jUb1eaA1FFoSPIu/650/dCmU2lx5oR//nYx02Xp+9tm9LV3P0Qy2A==",
+        "icono": "https://cdn.mitvstatic.com/channels/7d8e150e-912c-4b8f-9019-5d1b12f35a55_m.jpg",
         "origin": "https://web.app.flow.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       }
