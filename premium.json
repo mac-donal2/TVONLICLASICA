@@ -163,10 +163,12 @@
       },
       {
         "name": "C5N OPC 2",
-        "icono": "https://i.ibb.co/WsDVtKJ/AATXAJxna-EZa9-Kmw-LXr-Yq-Dc-MZTf88wo-Sug34-Gkqy5u-E-5-Q-s900-c-k-c0xffffffff-no-rj-mo.jpg",
-        "uri": "zvRUyGwoO3iBdYbDVO5OyYPSCSmziRqxmnrgQCnLRS/GHIRatJm71jLqMKDyp7ArIP87CYq8UoARsCLz121k9A==",
+        "icono": "https://uspto.report/TM/86068499/mark.png",
+        "uri": "NdXA7xykHv7BREP+oA4dUg4SOHJ1L07tpuomSdqxDRHE4LS6YQnmjnkDVW+6dAEGE/Fp0qzefXaWFCAlmFX/sQ==",
         "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yYhcaHl6K6MXybFeLQPfC+lzBlmjG/ngFNDuuNDaXKXNh2b5Tx5FpjDy6BjPizUwid13JrnK5xXbTqNDkk6Up5pXftE7lWLh9vauunXxPnQWPm890XeXULh06LwnPhsPwA=="
+        "drm_license_url": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yZSB19p1WZ3TfrD55yDRFLOSv2mKGXLpOrxiFAm2NWf77LU6tw/6x4I/Xvn6yy37SNFbVK3+6CKZCia4wvigX7oKeBJGwYAPupQBcndnc11v522pakJFZoDy1b44wbk/jA==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "TN NOTICIAS",
@@ -3143,13 +3145,13 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-    "name": "PRUEBA",
-    "icono": "https://uspto.report/TM/86068499/mark.png",
-    "uri": "NdXA7xykHv7BREP+oA4dUiqfEZ25DYaJGf5sTl2NIaKUU96WtooqjHGqkcnCZmPmgqMt8/pLKEK+SwLozo8NwT2TranH+DcueQ0G+2Yg4zUbColbxWULLRl8iaY1r2cpWbMWbHzWAKr6GeyoVx781A==",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yddz9+dZolTlkhiTW0ju13I0OKm4nwfHq2ZvDibinHX06eam59T4jgne0gMKKstPS5EjsfJNi5W/RvaJpyY0N/bPTzKijfgWM22cer76xQM7PA6wksdkIeEFq5RSd13WIw==",
-    "referer": "https://player.sensa.com.ar/",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        "name": "PRUEBA",
+        "icono": "https://uspto.report/TM/86068499/mark.png",
+        "uri": "NdXA7xykHv7BREP+oA4dUiqfEZ25DYaJGf5sTl2NIaKUU96WtooqjHGqkcnCZmPmgqMt8/pLKEK+SwLozo8NwT2TranH+DcueQ0G+2Yg4zUbColbxWULLRl8iaY1r2cpWbMWbHzWAKr6GeyoVx781A==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yddz9+dZolTlkhiTW0ju13I0OKm4nwfHq2ZvDibinHX06eam59T4jgne0gMKKstPS5EjsfJNi5W/RvaJpyY0N/bPTzKijfgWM22cer76xQM7PA6wksdkIeEFq5RSd13WIw==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       }
     ]
   }
