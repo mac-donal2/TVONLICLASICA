@@ -126,13 +126,13 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-    "name": "AMERICA TV OPC 2",
-    "icono": "https://i.ibb.co/BrzJD0D/Logotipo-de-America.jpg",
-    "uri": "NdXA7xykHv7BREP+oA4dUg4SOHJ1L07tpuomSdqxDREsZJD3YrgpwZmrodKx8e2MJ5Tw5ytGkxsCLx1Rpqqi1Wspqj5u0IywD6lMapjizRM=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yTdtctEk36knr6mHPYL6C2QtIOhYei4iZU5UYMDQmLRKnyXUny92mN4EnAs8vje/pwBUX3DpqNikQRySB6WnnbRrL1+jttQ80b9Q3f0bPvPYjHPfff9RHb64rWn0iTCZVQ==",
-    "referer": "https://player.sensa.com.ar/",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        "name": "AMERICA TV OPC 2",
+        "icono": "https://i.ibb.co/BrzJD0D/Logotipo-de-America.jpg",
+        "uri": "NdXA7xykHv7BREP+oA4dUg4SOHJ1L07tpuomSdqxDREsZJD3YrgpwZmrodKx8e2MJ5Tw5ytGkxsCLx1Rpqqi1Wspqj5u0IywD6lMapjizRM=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yTdtctEk36knr6mHPYL6C2QtIOhYei4iZU5UYMDQmLRKnyXUny92mN4EnAs8vje/pwBUX3DpqNikQRySB6WnnbRrL1+jttQ80b9Q3f0bPvPYjHPfff9RHb64rWn0iTCZVQ==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "TV PUBLICA",
@@ -144,13 +144,13 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-    "name": "TV PUBLICA opc 2",
-    "icono": "https://i.ibb.co/xsBgRLG/tvpublica-logo.jpg",
-    "uri": "NdXA7xykHv7BREP+oA4dUg4SOHJ1L07tpuomSdqxDRG00+rRp9DxtVc6cZuL5xVryzWWoUOGXkUTVKqczWHI0HE0A5ExFGf+LBVVaFh9YHM=",
-    "drm_scheme": "clearkey",
-    "drm_license_url": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ydixOXescqHfP5UngQ74tOPB2sIU77btdYs6bbREByfX5TeUDnEaX8RWSpvOVKT/cyXEMpBf8ge2er6R+zmYdB34iSYRJsyRujgZFFwkV3ie9NJEXNjQjkQncjfZdeuvBQ==",
-    "referer": "https://player.sensa.com.ar/",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        "name": "TV PUBLICA opc 2",
+        "icono": "https://i.ibb.co/xsBgRLG/tvpublica-logo.jpg",
+        "uri": "NdXA7xykHv7BREP+oA4dUg4SOHJ1L07tpuomSdqxDRG00+rRp9DxtVc6cZuL5xVryzWWoUOGXkUTVKqczWHI0HE0A5ExFGf+LBVVaFh9YHM=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ydixOXescqHfP5UngQ74tOPB2sIU77btdYs6bbREByfX5TeUDnEaX8RWSpvOVKT/cyXEMpBf8ge2er6R+zmYdB34iSYRJsyRujgZFFwkV3ie9NJEXNjQjkQncjfZdeuvBQ==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "C5N",
@@ -1005,6 +1005,15 @@
     "name": "PACK FUTBOL ARGENTINA",
     "samples": [
       {
+        "name": "CLARO SPORTS",
+        "icono": "https://uspto.report/TM/86068499/mark.png",
+        "uri": "NdXA7xykHv7BREP+oA4dUg4SOHJ1L07tpuomSdqxDRHYdndmDaRZTliYN8zoOLOqpTdUvRXwuGDEP/lRnPPhRD14JWbugBLo97ChMtbYid4=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ySGncTQQXA6vSN3aECA48W2Qdr8siFmW/F0pITv36XtTAz30LaJ/Rwmsi/NEfse1hsJn8E/WrDgmpjLj2KhDmzMYfcatoozyqzGQ+8fmqKzQqW4vw31OE8t3+UbFpEMtmw==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
         "name": "TNT SPORT ARGENTINA HD",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Ckr7j+0O8DxrpM/VtJQWzAoGoXGyc2d+xsw6mvSkQq5hjlXXIhDp0NcNJTdjKoJSykAT3DzJI5GL1kS6a72d5HR",
@@ -1130,6 +1139,15 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
+        "name": "CLARO SPORTS",
+        "icono": "https://uspto.report/TM/86068499/mark.png",
+        "uri": "NdXA7xykHv7BREP+oA4dUg4SOHJ1L07tpuomSdqxDRHYdndmDaRZTliYN8zoOLOqpTdUvRXwuGDEP/lRnPPhRD14JWbugBLo97ChMtbYid4=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ySGncTQQXA6vSN3aECA48W2Qdr8siFmW/F0pITv36XtTAz30LaJ/Rwmsi/NEfse1hsJn8E/WrDgmpjLj2KhDmzMYfcatoozyqzGQ+8fmqKzQqW4vw31OE8t3+UbFpEMtmw==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
         "name": "TNT SPORT ARGENTINA HD",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d3/TNT_Sports_logo_2021.png",
         "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Ckr7j+0O8DxrpM/VtJQWzAoGoXGyc2d+xsw6mvSkQq5hjlXXIhDp0NcNJTdjKoJSykAT3DzJI5GL1kS6a72d5HR",
@@ -1189,13 +1207,13 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-    "name": "FOX SPORTS 2",
-    "icono": "https://i.ibb.co/b1TmtjS/ar-fox-sports-2-m.png",
-    "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cl6qpPMKhQVSb/Q3GuZV4Cow3wMr3eHoS2HJhDziBQfHLKi+TR3LeO3TNpJ1+MbUVTkbL4P4zuk3UXF9IegDepv",
-    "drm_scheme": "clearkey",
-    "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yZSI6M/XwkuKc2PRUM2gUIkj+CjEm34RQYRHICFhl4Zl5DGH64KoZ268K8mGxW2cm/LH18yvJ0CBMZk+vO7FP7D7fdmN7u7+0dd4+VZT/gL/04obIZ5ZVLXLaru5h934NA==",
-    "origin": "https://web.app.flow.com.ar",
-    "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+        "name": "FOX SPORTS 2",
+        "icono": "https://i.ibb.co/b1TmtjS/ar-fox-sports-2-m.png",
+        "uri": "rRYkruMGx1Lrbq0Qr6CSkZadnYSTTxWe8o9ZDNBY2Cl6qpPMKhQVSb/Q3GuZV4Cow3wMr3eHoS2HJhDziBQfHLKi+TR3LeO3TNpJ1+MbUVTkbL4P4zuk3UXF9IegDepv",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yZSI6M/XwkuKc2PRUM2gUIkj+CjEm34RQYRHICFhl4Zl5DGH64KoZ268K8mGxW2cm/LH18yvJ0CBMZk+vO7FP7D7fdmN7u7+0dd4+VZT/gL/04obIZ5ZVLXLaru5h934NA==",
+        "origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "FOX SPORTS 3 ",
