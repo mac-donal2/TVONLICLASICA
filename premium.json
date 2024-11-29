@@ -180,11 +180,13 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-        "name": "TN NOTICIAS OPC 2",
-        "icono": "https://i.ibb.co/Ws0Z97Y/AGF-l7-ij-GDo3i-LYPot57-Ah1z-N-c-Giz-SL0f-Ju5-A31w-s900-mo-c-c0xffffffff-rj-k-no.jpg",
-        "uri": "zvRUyGwoO3iBdYbDVO5OyYPSCSmziRqxmnrgQCnLRS9O+JMPq8yi8XwV/2shjwNG3P8gER6ckakPxq/0K5n19w==",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yW+YOsUUN8WjEmuUys4Duf7Z9Ea/agGbEQYnpIVX9kNIO+5srERSJsdv+5BtyUlGV68qbd2tUfh3JHLTkxgaO3Lnj+Foon3lHv8ivCbgsuPbdwuOhSp93JbElg3F5xITIw=="
+       "name": "TN NOTICIAS OPC 2",
+       "icono": "https://i.ibb.co/Ws0Z97Y/AGF-l7-ij-GDo3i-LYPot57-Ah1z-N-c-Giz-SL0f-Ju5-A31w-s900-mo-c-c0xffffffff-rj-k-no.jpg",
+       "uri": "NdXA7xykHv7BREP+oA4dUg4SOHJ1L07tpuomSdqxDREsRQEO9AfS1lJFKBThtvR+BxVpZ6qQj6Lvx619u6EzqFAtY2Zn7LKbbTDvCenbCpc=",
+       "drm_scheme": "clearkey",
+       "drm_license_url": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ydEHlHi8tgODIn6GfkJGtOF02ttAUAt9S6YEZ636NV3cMetLt7mUB20U706WfUWRlwHSZ4V3p1HkhnusF0RSjWWT1bSgDWFllMfbAKNh+Feofz7puujJW9jpGCec8JcPYA==",
+       "referer": "https://player.sensa.com.ar/",
+       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
         "name": "LN+ - LA NACION",
