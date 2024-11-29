@@ -1799,12 +1799,21 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-        "name": "TNT HD1",
+        "name": "TNT HD",
         "icono": "https://i.ibb.co/hV2MwGM/tnthd.jpg",
         "uri": "q2GJhktV9s9kqJYb13PfUBbbLeIG4TMFpaONQW1VT8hl54T354sOhiGsnnMUAY0DMO9QJOZN4hddIeVnAdxnA9Bpzyf8P4keoH/gKamLk4an3lNJQDC3vjIji/8a3d+F",
         "drm_scheme": "clearkey",
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ya0Kdfrsxol/kVSdSRqtjLSxCDs6PMnvIo4527WVQfw457MqDqqVHxF8adBoSyXesDCiDvyv+9wscBYaFxPxWvbkggDb8BTnGO9kE2AcGvqB0VZtXzGJNCDJ7tO2nNWzhg==",
         "origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+       },
+      {
+        "name": "TNT HD OPC 2",
+        "icono": "https://i.ibb.co/hV2MwGM/tnthd.jpg",
+        "uri": "UiSYhDkJOY+OkzAOOJ+I4VbKFYkgRZwhU8thprte6Q9p5/kv894C08hXfA2ONNywLPEY6oEvvJtj53RqcaGxbZSa0DwnvFckHccKd0BQ290=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yaetKKVxdXD374rlzCwAY+qCkTfgC5oSeBrwxXHvgbVS5d/+JW2wa5fqxRHxfxen1EoCmLVjzq8sHL+zazMRSbZcLUiuI+tHm5i+6iyBW2P72uRoFmC6B0R4VjlOubKvJA==",
+        "referer": "https://player.sensa.com.ar/",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
