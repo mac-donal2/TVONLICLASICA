@@ -107,6 +107,15 @@
       {
         "name": "EL TRECE OPC 2",
         "icono": "https://raw.githubusercontent.com/97starlight/TV/main/2024/ar-el-trece-2.png",
+        "uri": "NdXA7xykHv7BREP+oA4dUg4SOHJ1L07tpuomSdqxDRHlx1NvSf/hvuU/67BKeHg+uxqdFBNO3j4ojOn841A0lGspqj5u0IywD6lMapjizRM=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yQUASE9C522xtvn9tOdmaAIvUaQGWdPhMoW8YZ2iaWZSMJz7veWtVjezUO6rpfUefPoBaOvi+NoliG4H5frWvAhiKD8wnukwCwPpLpG6SksT/nR7KTI/lM8yZIweLfneLw==",
+        "referer": "https://player.sensa.com.ar/",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
+        "name": "EL TRECE OPC 3",
+        "icono": "https://raw.githubusercontent.com/97starlight/TV/main/2024/ar-el-trece-2.png",
         "uri": "TIbQkzgvHLYB9wYOKylj3jTiCvWQDm5XLXl/tIfr0ESQ1reswfJ74nSB3vhXT2Zu+IkJTpSuCMwjVDGP2oip/Q=="
       },
       {
