@@ -82,14 +82,16 @@
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-        "name": "TELEFE",
-        "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg",
-        "uri": "zvRUyGwoO3iBdYbDVO5OyYPSCSmziRqxmnrgQCnLRS9AZ1TNaLVeM2PmP22R1IUKsUw4x2JQOZh33U7qNGbCxbv6u0Wte69FLYk3USZm9kWUmtA8J7xXJB3HCndAUNvd",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yWwAARjAdWqtgJ9j4fNjl4G2xuZ4BRMhhiIwI6jCsPv+cUrqsm77KqAGvFH6GvQxPjNEawNMZykVwLvrXC9TRG3pnTHjxWwcZ/4r7Jt2mE6bjHPfff9RHb64rWn0iTCZVQ=="
+       "name": "TELEFE OPC 2",
+       "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg",
+       "uri": "NdXA7xykHv7BREP+oA4dUg4SOHJ1L07tpuomSdqxDRFzdBReVNCTT2xn2egI02eyN2yXRVUBN0q2ADgRrG5CH3j0JnJdbD06rMD/jp92oTA=",
+       "drm_scheme": "clearkey",
+       "drm_license_url": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yfcTRTnao9FVmrHWmvbitKtfUFjeQvxUgH79TE++osnxqiyI+InPEZjSxF+A+jtc0WInhem9DdwcMogkOyqqNjiZ5fr4dFO2Er0OnexWjGP+B5ZjmRXr19RY7F62VgM4oA==",
+       "referer": "https://player.sensa.com.ar/",
+       "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
       },
       {
-        "name": "TELEFE OPC 2",
+        "name": "TELEFE OPC 3",
         "icono": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Telefe-logo-1.jpg",
         "uri": "jb9IVxSwSXcTodMgk9X+Yg3XgrMoF8C1p5XjcGR1pXCNI5pqBTqVy4ZmSnl1L9BCMxCXeJ0r9bD35Kxg7Ru3wQ=="
       },
@@ -101,13 +103,6 @@
         "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ycC8LdNhe3Dz407FhRjdWWe+es+pTD91ajZEojReuf2ZXLgrCtXq8SygGyJZztSOp34OQy1rHwkPo+m/J5kvLqv6xSgiZ+DLuYabp7fpt3YzRzc8ZvG270KmYcIY8pNf3Q==",
         "origin": "https://web.app.flow.com.ar",
         "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
-      },
-      {
-        "name": "EL TRECE OPC 2",
-        "icono": "https://raw.githubusercontent.com/97starlight/TV/main/2024/ar-el-trece-2.png",
-        "uri": "zvRUyGwoO3iBdYbDVO5OyYPSCSmziRqxmnrgQCnLRS9bKjSQ2ZN1AnuntJdF5Vi+SdXLzVpj8CCUNNsSmQ9y0JpYNsiDFJKMSWU+LcAYu1s=",
-        "drm_scheme": "clearkey",
-        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yYKrLLcI/gEPSps/G9UYWrlSrh19FUyilzBKX8y+Uz7dynOBPOyskEATvPSN2eCWuUoQwyUgKcoXlNyzpB3gD4JSYrPcoVkQeeuwhyA+Nkpl/5uIateH1zTuSRZ6vwJk0Q=="
       },
       {
         "name": "EL TRECE OPC 2",
