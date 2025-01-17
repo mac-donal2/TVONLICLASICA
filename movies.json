@@ -1,7 +1,57 @@
 [
   {
-    "name": "🍿PELICULAS 2024",
+    "name": "🍿PELICULAS 20241",
     "samples": [
+      {
+        "name": "El río de la muerte (2024)",
+        "icono": "https://image.tmdb.org/t/p/w500/hUjl4T4qQb0GtIazB2fFecn1ETj.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2etGTRi1BQzj+QIHVedblF5HyLe6nG/k6Igbxp58vg+eMmhRJ1OiAYQc5qHvfI3H8K29B0opS+LoPLBqSNviID7P1BVM82W5XbqyuC+IRKQi"
+      },
+      {
+        "name": "Ad Vitam (2025)",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/8qJfjFhNwpTONNAoE6gUSx2yGpg.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2etGTRi1BQzj+QIHVedblF5HyLe6nG/k6Igbxp58vg+ebDM869P0VibGtztqKEyahNenlhakqkTr7UPKruixFuI="
+      },
+      {
+        "name": "La forja (2024)",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQc6d2nGhD1vTcoovvS9WSVmd5FGOUtpCiOMkAQZGRUinwNU1Fg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2etGTRi1BQzj+QIHVedblF5HyLe6nG/k6Igbxp58vg+eCDHuGnDD5qiV/QMfQ/9vfUCimQFYZWHbiHHvmy/6Vgo="
+      },
+      {
+        "name": "La noche que luché contra Dios (2024)",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kx2pehQgSSn8oT9AuOk3H5ILOWc.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2fq4JpUR35097SzFZPuJk2T6BKWgLV/HsBAXwGEvEbDPI0WkXOBnvy9zz89TtMIfAdBFOeczjR/+JUQwjeqtmOzm3KL27/0PKJBGccTFF0sqiZr2VJ59txZPcY48/Z1FU1JbkzWXG8NzLTzXe/pnZqo="
+      },
+      {
+        "name": "Doctor Who: Alegría, Alegría Joy (2024)",
+        "icono": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2024/12/w1280/52jpaYuQjPglbNyl6SAm976vCPC.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2etGTRi1BQzj+QIHVedblF5HyLe6nG/k6Igbxp58vg+euYank9qRNkG32VH+FOLVUwC1QelQJYF77lZNFnywBKQ="
+      },
+      {
+        "name": "Kraven the Hunter HD (2024)",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZDU0YTI5ODAtN2NmMS00YTg3LTgyNDItN2RmOWEzOTkzZjcyXkEyXkFqcGc@._V1_.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2dMumqBvVO1zBIU+9nefWrKosTcADkaOzGywVFjRQhTaQGv0KgheD38ySglOyc0xIUj2Deyb50Y7Yd1mbBoBHmo="
+      },
+      {
+        "name": "Sonic 3 La Pelicula (2024)",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/98Ug9LLA2IVIRyCpMYO71rKqyNh.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2etGTRi1BQzj+QIHVedblF5HyLe6nG/k6Igbxp58vg+eSXUQbz2PnWqP9mm16/3Jl0O/2R76EMBKjXCt4kwIwKs="
+      },
+      {
+        "name": "Mufasa: El rey león (2024)",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZTA2NmUyMTgtMDhkNi00MzI2LWFhYzctMDgxMTI5MDJiMzc1XkEyXkFqcGc@._V1_FMjpg_UX770_.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2etGTRi1BQzj+QIHVedblF5HyLe6nG/k6Igbxp58vg+ecK0IitKz6DdOvog0PMJB6AGLvH7ex8Om+/t+waf5Xz0="
+      },
+      {
+        "name": "Culpa tuya (2023)",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSHgGpE3Kzep9p1trEy3JsdlYSngCH7JbAC57PmObEj3akpkedo",
+        "uri": "WLqCvVRVLlp70RVAVmUX2etGTRi1BQzj+QIHVedblF5HyLe6nG/k6Igbxp58vg+etjyoGdvf6w+vqWDnIb+5knnPcTB1HeIPqKPc+26k9VU1u5WUfmaybpVBTYEh4ewF"
+      },
+      {
+        "name": "Culpa tuya (2024)",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/1jvCVdlgInyItAUEvvvCakm1Yxz.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2etGTRi1BQzj+QIHVedblF5HyLe6nG/k6Igbxp58vg+eIIxOxKKDuKd6PwQyaTIDz7aCpssfQ5fZ5mk51nEgcUvHeUp8Z6rCdaA10ru8hCsz"
+      },
       {
         "name": "Robot salvaje (2024)",
         "icono": "https://image.tmdb.org/t/p/w500/a0a7RC01aTa7pOnskgJb3mCD2Ba.jpg",
@@ -1218,244 +1268,244 @@
     "name": "🍿TODO MARVEL MOVIE",
     "samples": [
       {
-    "name": "🍿Capitan américa: Primer vengador",
-    "icono": "https://men.gsstatic.es/sfAttachPlugin/67388.jpg",
-    "uri": "YOhN6SaFzURu0OC51/r6QwRbAVOjVWkuENqZaU7gbJZrIN85ntfY32fzJBPR8lRm+Tg80DyZ7pAc3O2BU2bIQtT6/qroZkrK/fzAZGpVgTS5NrS2Lqn7oqqta3xB6F9KQCTvUXy7xxUvnRpVhuBSStI1JmjP8m8AYUwmvBfJYdXGNcT6lJ5KjX8OluxOxqJo"
-  },
-  {
-    "name": "🍿iron man 1",
-    "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/tFCTNx7foAsUQpgu2x1KjAJD1wT.jpg",
-    "uri": "YOhN6SaFzURu0OC51/r6QzBQVwYdLnRD2r9YAAL5Ggsu1msyu7hABJFxw3ORMvyHwoNJYa8YiulRe0G5yL3ooNI6grCGz2NXWzdNiAbMQuhTRCXX6xVv1tIfTyEFsM9t1FHVhyyVVx3npJcZQe4+9/KJY0U0K0hRWHmIAiuAUI0="
-  },
-  {
-    "name": "🍿iron man 2",
-    "icono": "https://image.tmdb.org/t/p/w220_and_h330_face/ayyJVOV5I4MGjti7nIHC3mVCagR.jpg",
-    "uri": "YOhN6SaFzURu0OC51/r6Q0F6rr93fm9XsxhL8kCWGgXtbERwfU1i97XBtsSlnMAKQ2JOG5MQpMzh6dnQE+iGX/1PZOzM/OcQriVdFa8gGF4+E5EZ9OoYp2yKZnwGFzYMeDcxfS5p5vERm7haN517ZDjXg35g1bob8GpH1Mmd0qg="
-  },
-  {
-    "name": "🍿iron man 3",
-    "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/cW0fOIZONkgeiMJDYzqUcgl4MUn.jpg",
-    "uri": "YOhN6SaFzURu0OC51/r6Q6oYNYdF4BUGMrMXu8Q2FNIDr6b34wmH6zYHOiPL70QGOrwyMVf+oKnOSIVLpjaXFhMzciovRhRWdCgRM8t1AVtnp3XoTPIYTVNILAnEhFpIOWDZHJvdDuU3221OSlh7cL/yCUxCbpiSmvjOPb3TE3M="
-  },
-  {
-    "name": "🍿El increíble hulk",
-    "icono": "https://image.tmdb.org/t/p/w220_and_h330_face/p4NYZXVtgKf6aiH65QzzkUVJcsd.jpg",
-    "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0y7jlTgwz7UghbWmvonfAM+"
-  },
-  {
-    "name": "🍿Thor",
-    "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/qFAVW4XJaxhj7PcpiUI5hhO9bOX.jpg",
-    "uri": "YOhN6SaFzURu0OC51/r6Q5cSvR5v5V4zbENnCdfSViVqlKl23HwaDAjh67KFkT1hPNngfWwDSUZcc0kMSFBajRWCG2q/iNcCbbHSCnlLtoiLRDex6AJjOcslGKE6fiYreVvXNyOVnDdWzsty2uyr5r/yCUxCbpiSmvjOPb3TE3M="
-  },
-  {
-    "name": "🍿Thor un mundo oscuro",
-    "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/gPAmH41VpK5UPaNhAiNJePzrL8z.jpg",
-    "uri": "pKAMTZxDrMyk1rye7uHwify5RAEWx8ZBOqXxOuB9P9ucJBE/wZQUVYEBYlvmvdUG"
-  },
-  {
-    "name": "🍿Avengers",
-    "icono": "https://pelisimg.online/cover/the-avengers-los-vengadores.jpg",
-    "uri": "YOhN6SaFzURu0OC51/r6Q3+ClGAlknf8GepfO7eUzoL1dvg4cYP8xaZmMUnHABf+E1EC7fzVqpLXfs7N7PuaI7pcZGtdR6AuN7mYOPovW8tLZNtmtbcDbSmM2RRHkosXz8t/Y1WFPhXHTflMOHDt8PhuR5BGns5QiKGwctfjj44="
-  },
-  {
-    "name": "🍿Avengers infinity war",
-    "icono": "https://pelisimg.online/cover/the-avengers-3-la-guerra-del-infinito.jpg",
-    "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0zumfuZcX46IqaNSzXhes/ygbaCxbDcYuFdX7z4Im8lvLVzI78iKPXDyVLAiD2e874="
-  },
-  {
-    "name": "🍿The Avegers 2: era de ultron",
-    "icono": "https://pelisimg.online/cover/the-avengers-2-la-era-de-ultron.jpg",
-    "uri": "YOhN6SaFzURu0OC51/r6QxwfKL1UEXvttFTukmsxAHs+0U81njsrNEUj9apjsTQA71ZOiBoFREMcYnd//RbislZuMsUoAERMYbv7/BEp09rtJI4+vGbDZXZl69WrYRGccS0sbf/qwFIIn+8Do2Ez8RspUl2RtcbQfA9a4k4gHBo="
-  },
-  {
-    "name": "🍿Los Vengadores",
-    "icono": "https://es.web.img3.acsta.net/pictures/14/03/10/10/35/587504.jpg",
-    "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0xup2SdOLPHYMUR72RLIafO42FkMMGZMbhG6urG/7jf0A=="
-  },
-  {
-    "name": "🍿Guardianes de la Galaxia",
-    "icono": "https://pelisimg.online/cover/guardianes-de-la-galaxia.jpg",
-    "uri": "YOhN6SaFzURu0OC51/r6QzLoM3s005oEjVNkoitXGdwOreXGKC1CrFppSdgYvoj+stMwH12cOFdYADLhCxHxWtq+REeVa2njLY1Ur9gEYpuPFLchIwqTijyAzgvz1WFFU4Nc4qBoRYGHDbjGWiCjm52IAaE4R+MWE1VeiMA9xPO/8glMQm6Ykpr4zj290xNz"
-  },
-  {
-    "name": "🍿Guardianes de la Galaxia vol.2",
-    "icono": "https://pelisimg.online/cover/guardianes-de-la-galaxia-vol-2.jpg",
-    "uri": "YOhN6SaFzURu0OC51/r6Q/6ML1WoYEc4IA0fXQH0/c+wLovLfUK10tQy+nsRlYWKg1zUo+YYU4b3/s+oK/UNoDFst6gSfJO5ojX4xXn5V4SutOqHAPHrWe7qZjElQId7CqTvq4C9uYpUpAH4IyQya84+Cs/E2e4q4o2h1sAry3y/8glMQm6Ykpr4zj290xNz"
-  },
-  {
-    "name": "🍿Guardianes de la Galaxia vol.3",
-    "icono": "https://pelisimg.online/cover/guardians-of-the-galaxy-volume-3-2-1683243601.jpg",
-    "uri": "YOhN6SaFzURu0OC51/r6Qw4D0H8qdB+21yFZHR08IaeQBmX6QXJf6xD+BhBcxDaJLJ7NQ9HzgnnyclKKsH61Fg=="
-  },
-  {
-    "name": "🍿Ant-Man: El hombre hormiga",
-    "icono": "https://pelisimg.online/cover/ant-man-el-hombre-hormiga.jpg",
-    "uri": "YOhN6SaFzURu0OC51/r6Q3Htc8xv0GBzhxFNR43ihaNHdueCpONmcYrDT5iJDPvPtZiRAfryk51H9hR3zPzhHlUVX7S/zZORxb8Of80FnQx5Mv/lxd8kge0s/5LkDbleDiIQHt825EtwPJ19HaO1UyXHaw90vqm5SNE3hIGhd/E="
-  },
-  {
-    "name": "🍿Ant-Man y la  avispa",
-    "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/lwmCdtTvjnJZK79JKYkzkb0MFOP.jpg",
-    "uri": "pKAMTZxDrMyk1rye7uHwiSXnGkLzY8W4ehGLSbXVTH/hc/lkKAruvjKGa1zMU3HRM5lOta6jKkg5N18njffnNBSD3r/3ciP1A6Xw5kQgkJWLYT8pGeZPXSufYeLI+iV+5QgBFlDCyQI+EDBZcYvM5A=="
-  },
-  {
-    "name": "🍿Spider-Man: De Regreso a Casa",
-    "icono": "https://pelisimg.online/cover/spider-man-de-regreso-a-casa.jpg",
-    "uri": "YOhN6SaFzURu0OC51/r6Q4bTF8bOKh2S7r4YRXm2YJ3tOtwJYvYJYfLkHdyxUQuxjOY5JBaRjjx6wCFAcqtulf98yuaCPTjnm77owqu8SSYtQSZVXtJOm/FwosUJ1yJ6csLe1MUlCcaazuGTeRw6j/XAn9MWsdLnpFiGHOMizDR049VBHyoE1fLU7zy26aLP"
-  },
-  {
-    "name": "🍿Spider-Man: Lejos de Casa",
-    "icono": "https://pelisimg.online/cover/spider-man-lejos-de-casa.jpg",
-    "uri": "YOhN6SaFzURu0OC51/r6Q65bH9MQulx8uZSf3MKISCDYO1yt3tWOEeJQx6GoaQIomh3pqMfLw3ox/g/kg8wJlilAv1catrGIvCzbHypNI8qMKlH1ZqC/Je75yh+TtHh2vVY4LTsnBt/PJkS1WnCL51Cj207G8f/pCd2fmE71btMzEJd4nSv1sPfkrGDtG7fB"
-  },
-  {
-    "name": "🍿Spider-Man: Sin camino a casa",
-    "icono": "https://pelisimg.online/cover/spider-man-no-way-home-2-1639761997.jpg",
-    "uri": "YOhN6SaFzURu0OC51/r6Q3DF2/Zp/6qjmdh2OUJPqTa0nrnwL4RScagkmrAb2cAirQ8wKw+aY+aZW5//ORHRRQ=="
-  },
-  {
-    "name": "🍿Spider-Man: un nuevo universo",
-    "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
-    "uri": "WLqCvVRVLlp70RVAVmUX2U/IxDjzkrJxJCa+Nz5sicJanfw/HV2pIJ23MNpqii46F017ciybZhwF9Z+dNYl98Gp6Pp/NEeHzOnVwrkpG2gEmrElgYBmIqOt8kE7PbWN2"
-  },
-  {
-    "name": "🍿Spider-Man: A través del Spider-Verso",
-    "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
-    "uri": "WLqCvVRVLlp70RVAVmUX2U/IxDjzkrJxJCa+Nz5sicJanfw/HV2pIJ23MNpqii46F017ciybZhwF9Z+dNYl98JzLSD8/3idb4szxqcqDmZx8ZHf2KRASQsNN50TPTrzC"
-  },
-  {
-    "name": "🍿Spider-Man: Cruzando el multiverso",
-    "icono": "https://pelisimg.online/cover/spider-man-across-the-spider-se-2-1685731801.jpg",
-    "uri": "WM87EloL7HFC3yb6LB8GknDcQP5Y6k+2wTPtY51MIvUqQAVTRIvHjRAnLe6FFCK3v+8dQhELfWFh2xbSDzeJ549PxQrG8YIi7edpoHPQImQn+4AsV7kDgmSlFrN2PVFCJjSmVOB6nShiecm7CK7YhxHsQs9lfR9kkfEZ+2N8ezB049VBHyoE1fLU7zy26aLP"
-  },
-  {
-    "name": "🍿Doctor strange",
-    "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/7WfK17BXE6szXlm4WOxfswgbdsL.jpg",
-    "uri": "pKAMTZxDrMyk1rye7uHwiWFwtUKLRI8gMEksQlIf62HzJ2YXgf9KGH7P/XLfW7n5myV4nqdC2GbIvmG8tja97g=="
-  },
-  {
-    "name": "🍿Doctor Strange en el multiverso de la locura",
-    "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/9VZO30aIAhQoiiP3qsRd5jd7UvQ.jpg",
-    "uri": "YOhN6SaFzURu0OC51/r6Q9rxX9GeHbiyUIuR/wci8VjVrI939/bucivoFu/nX1hm5P6hPCELL61OdGjgbAhiEFHtHRfl/dCGEwyvOD6OyJiqQ8wMjGywCRh2etxuV/AdMxCXeJ0r9bD35Kxg7Ru3wQ=="
-  },
-  {
-    "name": "🍿Viuda negra",
-    "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/oggEsESyLjVGD7jbIdBfa2hFUrx.jpg",
-    "uri": "pKAMTZxDrMyk1rye7uHwiQDNbYJOBw5zzu0qzkN4NoMUKTR93oXNVR5cXw8yK4KaLdZhP2a2Ajha0txSDryZJA=="
-  },
-  {
-    "name": "🍿Black panter",
-    "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/lAPzezdc5E6DFnttJwCWXZ9A9C6.jpg",
-    "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0xA1bUZcktgGn0MY6w8RBEK937QUN0D/MgbJO7ZOIbWdg=="
-  },
-  {
-    "name": "🍿Black panter: Wakanda forever",
-    "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/mYpT2R7639KvKZ668uoQGS2QNFp.jpg",
-    "uri": "YOhN6SaFzURu0OC51/r6Q1P80sIZNhyECL/5qsn7wWHbWYrgMtmBiTm+8lB43sBPTQKxcIoK2EWgvPxvfxxBhuF5NgDSgdB+Ujfo1dAqUBBkARxQFoxVwUWRFhBgsO4YlYESI31U4d9OF2KrfdOwN1GR0KHZAnDmIRj+v6JyjkoT+9/obhSc5057x/ghkCRK"
-  },
-  {
-    "name": "🍿The marvels",
-    "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
-    "uri": "WLqCvVRVLlp70RVAVmUX2U/IxDjzkrJxJCa+Nz5sicJanfw/HV2pIJ23MNpqii46P297mEpJLS9U7wb23UXhiYCFFbRU79PkoDq/TEGuk9Ff3vmScYNFs1tHLrv6JDih"
-  },
-  {
-    "name": "🍿Venom 1",
-    "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
-    "uri": "WLqCvVRVLlp70RVAVmUX2U/IxDjzkrJxJCa+Nz5sicJanfw/HV2pIJ23MNpqii46F017ciybZhwF9Z+dNYl98L4wI2i/1hWDMY3HOI2NW48zEJd4nSv1sPfkrGDtG7fB"
-  },
-  {
-    "name": "🍿Venom 2:Carnage",
-    "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/1MJNcPZy46hIy2CmSqOeru0yr5C.jpg",
-    "uri": "WLqCvVRVLlp70RVAVmUX2U/IxDjzkrJxJCa+Nz5sicJanfw/HV2pIJ23MNpqii46F017ciybZhwF9Z+dNYl98LQ9iaoUANkc+niQTMk+N+4zEJd4nSv1sPfkrGDtG7fB"
-  },
-  {
-    "name": "🍿X-men 1",
-    "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/bRDAc4GogyS9ci3ow7UnInOcriN.jpg",
-    "uri": "YOhN6SaFzURu0OC51/r6Q5rjmYrYSOg9H+3JIcqoxPnPl+SOpde7hYK2XnZiurO9Gd9/UL0R1MIoKv5jOrvhkw=="
-  },
-  {
-    "name": "🍿X-men 2",
-    "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/rtrd4qieMAhoUshu83Vi1GazM1O.jpg",
-    "uri": "YOhN6SaFzURu0OC51/r6Qxq3fZRZcgjYhyJaNvaSIesKOQ7Ca4hUURIgin/y8CnyGd9/UL0R1MIoKv5jOrvhkw=="
-  },
-  {
-    "name": "🍿 X-men 3",
-    "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/a2xicU8DpKtRizOHjQLC1JyCSRS.jpg",
-    "uri": "YOhN6SaFzURu0OC51/r6Q1WLqtikF2wAB/9Kh2SjrrfHFU/zZdwiJn3huH6TSGy1Gd9/UL0R1MIoKv5jOrvhkw=="
-  },
-  {
-    "name": "🍿X-men Wolverine",
-    "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/yj8LbTju1p7CUJg7US2unSBk33s.jpg",
-    "uri": "YOhN6SaFzURu0OC51/r6Q23BVKe3VtGz409jSWgmY/cCNSK9O9d+TvKNN2f6gIfm42W00MEYPrWwSAY+FTvt1Rnff1C9EdTCKCr+Yzq74ZM="
-  },
-  {
-    "name": "🍿X-men primera generación",
-    "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/6ED3G0lpBXRZtEDJD2xVYsqIwxI.jpg",
-    "uri": "YOhN6SaFzURu0OC51/r6Q+SiDig6XqkEe7kmdUeb0sFEvE7wWnlzZHEEm/LMV5/30liNKWzQvG129lzLWBgy1Q=="
-  },
-  {
-    "name": "🍿X-men Wolverine inmortal",
-    "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/p5IFVd8PQjcGk0KKaSP97jze3wP.jpg",
-    "uri": "YOhN6SaFzURu0OC51/r6Q+EtVYfGchEjjuwaUphEb8rXExMF2PPB5WRjulmvUuagVy//fKcY9SOAA4YdDlzO2Q=="
-  },
-  {
-    "name": "🍿X-men dias del futuro pasado",
-    "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/ggb9nmS5alJuA0ll0iU5YHiGbb0.jpg",
-    "uri": "YOhN6SaFzURu0OC51/r6Qz9jhssM6X7C79ek09TvU0IBsBu5V3AgKTxUxM4wDBgV/mHDW2rKE00ar5lrdp6aVJ8JglEfkhI0qqZRCsvgCro="
-  },
-  {
-    "name": "🍿X-men apocalipsis",
-    "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/9rJeh8mrbJdkIZ49K2cZIdAwbEj.jpg",
-    "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0wOMIQIb7HbQ5xzFVd0n0TOUhe75dYSqXHsD5aj0sm05g=="
-  },
-  {
-    "name": "🍿Logan",
-    "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/d0ktjN9eKww26HhM8or8iUB1I68.jpg",
-    "uri": "YOhN6SaFzURu0OC51/r6Qyzl8WR8lwyMfyYgwOsi/xeQP22z3toHDTHMQRzeMU7fSGjvMTpLpxuz6FfICWsTL5oDG9X35idGCYnZpsFu0bbVzuVStjZ1MfAa+YJMUVypcDbq5HvUfrAKV6T437SAuhLwWT+6D9szIkuYF2L9y8Y="
-  },
-  {
-    "name": "🍿X-men dark Phoenix",
-    "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/rdByKDkfyVuVSrkllzxKYXiZmTd.jpg",
-    "uri": "pKAMTZxDrMyk1rye7uHwifTWzf02zgp20+gzeTl3M4f0JHo07QZy14ww+7EAWAHhqQWdimyb6rlEyHOtWi3I4g=="
-  },
-  {
-    "name": "🍿los nuevos mutantes",
-    "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/cNEIc6SbgsNWkzwfw4EuYLqE9Gt.jpg",
-    "uri": "YOhN6SaFzURu0OC51/r6QwGNBdeQa5Rxv6e/3JI/5/1e/Ox+zipKVmfszu7aP0++gov/9FpRwwUpku1E1H0ppgAQxEo6o/N/BdsbEmqlPsnCdJ6pYS4wMbCXQy7a6fgbeqO3ZMi0DSpHfXEV0bPlJIFSTGZYNyC0W9lirIVQicL4bkeQRp7OUIihsHLX44+O"
-  },
-  {
-    "name": "🍿Deadpool & Wolverine",
-    "icono": "https://image.tmdb.org/t/p/original/v0Q2uYARIqui1sEBF0bCLJaliDI.jpg",
-    "uri": "WLqCvVRVLlp70RVAVmUX2f3hK3nQL9tumvAvPC720qB2F0iVrIZZEWaVO5nrJPrLf0S3Ts7yjYYSzeSD57C70cd5SnxnqsJ1oDXSu7yEKzM="
-  },
-  {
-    "name": "🍿Deadpool & Wolverine opc 2",
-    "icono": "https://image.tmdb.org/t/p/original/v0Q2uYARIqui1sEBF0bCLJaliDI.jpg",
-    "uri": "XVx3fiw0+fHK5mNHaFdCmWICMIPbc/ba+At3QECe9kYUOq8Bi/PeR4dvW10hhtXGqvtn6/tG1clM99AH50hIdg=="
-  },
-  {
-    "name": "🍿Los 4 Fantasticos",
-    "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/5qLP3JVg8NE3zdZd48lqhx7iN5Q.jpg",
-    "uri": "YOhN6SaFzURu0OC51/r6Q8BxEoQQDDcVb0Pp8K5vzWD45Sf3OOqWN6PsvxouS1wwR+S48VE96i53d1ZEz/Yz0kj6GL3FmQqkrN9fzKbEjR/7gEaYlv9U/8PTe4lvawBKCzXMcw+n1ZxcWpqHaMWlvl2j8NSqNp3SIzhUIYhoItA9u+kFWn9iBcpbCEQaRKQF01h2yxyAeqm4Q7w9lPNveg=="
-  },
-  {
-    "name": "🍿El Sorprendente Hombre Araña 2: La Amenaza De Electro",
-    "icono": "https://pelisimg.online/cover/el-sorprendente-hombre-arana-2-la-amenaza-de.jpg",
-    "uri": "WLqCvVRVLlp70RVAVmUX2U/IxDjzkrJxJCa+Nz5sicJanfw/HV2pIJ23MNpqii46+ET7i03yr6UvKhZ81gKApYSmT5yXVk3alVBRzGlMn4geHAT2DzMlYiDd6Atxn4gslqHp8RW9zBg/fc3ATU8LSA=="
-  },
-  {
-    "name": "🍿El Sorprendente Hombre Araña",
-    "icono": "https://pelisimg.online/cover/el-sorprendente-hombre-arana.jpg",
-    "uri": "WLqCvVRVLlp70RVAVmUX2U/IxDjzkrJxJCa+Nz5sicJanfw/HV2pIJ23MNpqii46+ET7i03yr6UvKhZ81gKApYSmT5yXVk3alVBRzGlMn4geHAT2DzMlYiDd6Atxn4gsy161pZuyes7dlfzcS3KANQ=="
-  },
-  {
-    "name": "🍿El Hombre Araña 2",
-    "icono": "https://pelisimg.online/cover/el-hombre-arana-2.jpg",
-    "uri": "WLqCvVRVLlp70RVAVmUX2U/IxDjzkrJxJCa+Nz5sicJanfw/HV2pIJ23MNpqii46+ET7i03yr6UvKhZ81gKApYSmT5yXVk3alVBRzGlMn4hQ+Fh2B0Ss5NXuWXrZz3I+x3lKfGeqwnWgNdK7vIQrMw=="
-  },
-  {
-    "name": "🍿El Hombre Araña 3",
-    "icono": "https://pelisimg.online/cover/el-hombre-arana-3.jpg",
-    "uri": "WLqCvVRVLlp70RVAVmUX2U/IxDjzkrJxJCa+Nz5sicJanfw/HV2pIJ23MNpqii46+ET7i03yr6UvKhZ81gKApYSmT5yXVk3alVBRzGlMn4gTU/FhgEhvFp7tDJO8LJaTx3lKfGeqwnWgNdK7vIQrMw=="
+        "name": "🍿Capitan américa: Primer vengador",
+        "icono": "https://men.gsstatic.es/sfAttachPlugin/67388.jpg",
+        "uri": "YOhN6SaFzURu0OC51/r6QwRbAVOjVWkuENqZaU7gbJZrIN85ntfY32fzJBPR8lRm+Tg80DyZ7pAc3O2BU2bIQtT6/qroZkrK/fzAZGpVgTS5NrS2Lqn7oqqta3xB6F9KQCTvUXy7xxUvnRpVhuBSStI1JmjP8m8AYUwmvBfJYdXGNcT6lJ5KjX8OluxOxqJo"
+      },
+      {
+        "name": "🍿iron man 1",
+        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/tFCTNx7foAsUQpgu2x1KjAJD1wT.jpg",
+        "uri": "YOhN6SaFzURu0OC51/r6QzBQVwYdLnRD2r9YAAL5Ggsu1msyu7hABJFxw3ORMvyHwoNJYa8YiulRe0G5yL3ooNI6grCGz2NXWzdNiAbMQuhTRCXX6xVv1tIfTyEFsM9t1FHVhyyVVx3npJcZQe4+9/KJY0U0K0hRWHmIAiuAUI0="
+      },
+      {
+        "name": "🍿iron man 2",
+        "icono": "https://image.tmdb.org/t/p/w220_and_h330_face/ayyJVOV5I4MGjti7nIHC3mVCagR.jpg",
+        "uri": "YOhN6SaFzURu0OC51/r6Q0F6rr93fm9XsxhL8kCWGgXtbERwfU1i97XBtsSlnMAKQ2JOG5MQpMzh6dnQE+iGX/1PZOzM/OcQriVdFa8gGF4+E5EZ9OoYp2yKZnwGFzYMeDcxfS5p5vERm7haN517ZDjXg35g1bob8GpH1Mmd0qg="
+      },
+      {
+        "name": "🍿iron man 3",
+        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/cW0fOIZONkgeiMJDYzqUcgl4MUn.jpg",
+        "uri": "YOhN6SaFzURu0OC51/r6Q6oYNYdF4BUGMrMXu8Q2FNIDr6b34wmH6zYHOiPL70QGOrwyMVf+oKnOSIVLpjaXFhMzciovRhRWdCgRM8t1AVtnp3XoTPIYTVNILAnEhFpIOWDZHJvdDuU3221OSlh7cL/yCUxCbpiSmvjOPb3TE3M="
+      },
+      {
+        "name": "🍿El increíble hulk",
+        "icono": "https://image.tmdb.org/t/p/w220_and_h330_face/p4NYZXVtgKf6aiH65QzzkUVJcsd.jpg",
+        "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0y7jlTgwz7UghbWmvonfAM+"
+      },
+      {
+        "name": "🍿Thor",
+        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/qFAVW4XJaxhj7PcpiUI5hhO9bOX.jpg",
+        "uri": "YOhN6SaFzURu0OC51/r6Q5cSvR5v5V4zbENnCdfSViVqlKl23HwaDAjh67KFkT1hPNngfWwDSUZcc0kMSFBajRWCG2q/iNcCbbHSCnlLtoiLRDex6AJjOcslGKE6fiYreVvXNyOVnDdWzsty2uyr5r/yCUxCbpiSmvjOPb3TE3M="
+      },
+      {
+        "name": "🍿Thor un mundo oscuro",
+        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/gPAmH41VpK5UPaNhAiNJePzrL8z.jpg",
+        "uri": "pKAMTZxDrMyk1rye7uHwify5RAEWx8ZBOqXxOuB9P9ucJBE/wZQUVYEBYlvmvdUG"
+      },
+      {
+        "name": "🍿Avengers",
+        "icono": "https://pelisimg.online/cover/the-avengers-los-vengadores.jpg",
+        "uri": "YOhN6SaFzURu0OC51/r6Q3+ClGAlknf8GepfO7eUzoL1dvg4cYP8xaZmMUnHABf+E1EC7fzVqpLXfs7N7PuaI7pcZGtdR6AuN7mYOPovW8tLZNtmtbcDbSmM2RRHkosXz8t/Y1WFPhXHTflMOHDt8PhuR5BGns5QiKGwctfjj44="
+      },
+      {
+        "name": "🍿Avengers infinity war",
+        "icono": "https://pelisimg.online/cover/the-avengers-3-la-guerra-del-infinito.jpg",
+        "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0zumfuZcX46IqaNSzXhes/ygbaCxbDcYuFdX7z4Im8lvLVzI78iKPXDyVLAiD2e874="
+      },
+      {
+        "name": "🍿The Avegers 2: era de ultron",
+        "icono": "https://pelisimg.online/cover/the-avengers-2-la-era-de-ultron.jpg",
+        "uri": "YOhN6SaFzURu0OC51/r6QxwfKL1UEXvttFTukmsxAHs+0U81njsrNEUj9apjsTQA71ZOiBoFREMcYnd//RbislZuMsUoAERMYbv7/BEp09rtJI4+vGbDZXZl69WrYRGccS0sbf/qwFIIn+8Do2Ez8RspUl2RtcbQfA9a4k4gHBo="
+      },
+      {
+        "name": "🍿Los Vengadores",
+        "icono": "https://es.web.img3.acsta.net/pictures/14/03/10/10/35/587504.jpg",
+        "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0xup2SdOLPHYMUR72RLIafO42FkMMGZMbhG6urG/7jf0A=="
+      },
+      {
+        "name": "🍿Guardianes de la Galaxia",
+        "icono": "https://pelisimg.online/cover/guardianes-de-la-galaxia.jpg",
+        "uri": "YOhN6SaFzURu0OC51/r6QzLoM3s005oEjVNkoitXGdwOreXGKC1CrFppSdgYvoj+stMwH12cOFdYADLhCxHxWtq+REeVa2njLY1Ur9gEYpuPFLchIwqTijyAzgvz1WFFU4Nc4qBoRYGHDbjGWiCjm52IAaE4R+MWE1VeiMA9xPO/8glMQm6Ykpr4zj290xNz"
+      },
+      {
+        "name": "🍿Guardianes de la Galaxia vol.2",
+        "icono": "https://pelisimg.online/cover/guardianes-de-la-galaxia-vol-2.jpg",
+        "uri": "YOhN6SaFzURu0OC51/r6Q/6ML1WoYEc4IA0fXQH0/c+wLovLfUK10tQy+nsRlYWKg1zUo+YYU4b3/s+oK/UNoDFst6gSfJO5ojX4xXn5V4SutOqHAPHrWe7qZjElQId7CqTvq4C9uYpUpAH4IyQya84+Cs/E2e4q4o2h1sAry3y/8glMQm6Ykpr4zj290xNz"
+      },
+      {
+        "name": "🍿Guardianes de la Galaxia vol.3",
+        "icono": "https://pelisimg.online/cover/guardians-of-the-galaxy-volume-3-2-1683243601.jpg",
+        "uri": "YOhN6SaFzURu0OC51/r6Qw4D0H8qdB+21yFZHR08IaeQBmX6QXJf6xD+BhBcxDaJLJ7NQ9HzgnnyclKKsH61Fg=="
+      },
+      {
+        "name": "🍿Ant-Man: El hombre hormiga",
+        "icono": "https://pelisimg.online/cover/ant-man-el-hombre-hormiga.jpg",
+        "uri": "YOhN6SaFzURu0OC51/r6Q3Htc8xv0GBzhxFNR43ihaNHdueCpONmcYrDT5iJDPvPtZiRAfryk51H9hR3zPzhHlUVX7S/zZORxb8Of80FnQx5Mv/lxd8kge0s/5LkDbleDiIQHt825EtwPJ19HaO1UyXHaw90vqm5SNE3hIGhd/E="
+      },
+      {
+        "name": "🍿Ant-Man y la  avispa",
+        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/lwmCdtTvjnJZK79JKYkzkb0MFOP.jpg",
+        "uri": "pKAMTZxDrMyk1rye7uHwiSXnGkLzY8W4ehGLSbXVTH/hc/lkKAruvjKGa1zMU3HRM5lOta6jKkg5N18njffnNBSD3r/3ciP1A6Xw5kQgkJWLYT8pGeZPXSufYeLI+iV+5QgBFlDCyQI+EDBZcYvM5A=="
+      },
+      {
+        "name": "🍿Spider-Man: De Regreso a Casa",
+        "icono": "https://pelisimg.online/cover/spider-man-de-regreso-a-casa.jpg",
+        "uri": "YOhN6SaFzURu0OC51/r6Q4bTF8bOKh2S7r4YRXm2YJ3tOtwJYvYJYfLkHdyxUQuxjOY5JBaRjjx6wCFAcqtulf98yuaCPTjnm77owqu8SSYtQSZVXtJOm/FwosUJ1yJ6csLe1MUlCcaazuGTeRw6j/XAn9MWsdLnpFiGHOMizDR049VBHyoE1fLU7zy26aLP"
+      },
+      {
+        "name": "🍿Spider-Man: Lejos de Casa",
+        "icono": "https://pelisimg.online/cover/spider-man-lejos-de-casa.jpg",
+        "uri": "YOhN6SaFzURu0OC51/r6Q65bH9MQulx8uZSf3MKISCDYO1yt3tWOEeJQx6GoaQIomh3pqMfLw3ox/g/kg8wJlilAv1catrGIvCzbHypNI8qMKlH1ZqC/Je75yh+TtHh2vVY4LTsnBt/PJkS1WnCL51Cj207G8f/pCd2fmE71btMzEJd4nSv1sPfkrGDtG7fB"
+      },
+      {
+        "name": "🍿Spider-Man: Sin camino a casa",
+        "icono": "https://pelisimg.online/cover/spider-man-no-way-home-2-1639761997.jpg",
+        "uri": "YOhN6SaFzURu0OC51/r6Q3DF2/Zp/6qjmdh2OUJPqTa0nrnwL4RScagkmrAb2cAirQ8wKw+aY+aZW5//ORHRRQ=="
+      },
+      {
+        "name": "🍿Spider-Man: un nuevo universo",
+        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2U/IxDjzkrJxJCa+Nz5sicJanfw/HV2pIJ23MNpqii46F017ciybZhwF9Z+dNYl98Gp6Pp/NEeHzOnVwrkpG2gEmrElgYBmIqOt8kE7PbWN2"
+      },
+      {
+        "name": "🍿Spider-Man: A través del Spider-Verso",
+        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2U/IxDjzkrJxJCa+Nz5sicJanfw/HV2pIJ23MNpqii46F017ciybZhwF9Z+dNYl98JzLSD8/3idb4szxqcqDmZx8ZHf2KRASQsNN50TPTrzC"
+      },
+      {
+        "name": "🍿Spider-Man: Cruzando el multiverso",
+        "icono": "https://pelisimg.online/cover/spider-man-across-the-spider-se-2-1685731801.jpg",
+        "uri": "WM87EloL7HFC3yb6LB8GknDcQP5Y6k+2wTPtY51MIvUqQAVTRIvHjRAnLe6FFCK3v+8dQhELfWFh2xbSDzeJ549PxQrG8YIi7edpoHPQImQn+4AsV7kDgmSlFrN2PVFCJjSmVOB6nShiecm7CK7YhxHsQs9lfR9kkfEZ+2N8ezB049VBHyoE1fLU7zy26aLP"
+      },
+      {
+        "name": "🍿Doctor strange",
+        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/7WfK17BXE6szXlm4WOxfswgbdsL.jpg",
+        "uri": "pKAMTZxDrMyk1rye7uHwiWFwtUKLRI8gMEksQlIf62HzJ2YXgf9KGH7P/XLfW7n5myV4nqdC2GbIvmG8tja97g=="
+      },
+      {
+        "name": "🍿Doctor Strange en el multiverso de la locura",
+        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/9VZO30aIAhQoiiP3qsRd5jd7UvQ.jpg",
+        "uri": "YOhN6SaFzURu0OC51/r6Q9rxX9GeHbiyUIuR/wci8VjVrI939/bucivoFu/nX1hm5P6hPCELL61OdGjgbAhiEFHtHRfl/dCGEwyvOD6OyJiqQ8wMjGywCRh2etxuV/AdMxCXeJ0r9bD35Kxg7Ru3wQ=="
+      },
+      {
+        "name": "🍿Viuda negra",
+        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/oggEsESyLjVGD7jbIdBfa2hFUrx.jpg",
+        "uri": "pKAMTZxDrMyk1rye7uHwiQDNbYJOBw5zzu0qzkN4NoMUKTR93oXNVR5cXw8yK4KaLdZhP2a2Ajha0txSDryZJA=="
+      },
+      {
+        "name": "🍿Black panter",
+        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/lAPzezdc5E6DFnttJwCWXZ9A9C6.jpg",
+        "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0xA1bUZcktgGn0MY6w8RBEK937QUN0D/MgbJO7ZOIbWdg=="
+      },
+      {
+        "name": "🍿Black panter: Wakanda forever",
+        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/mYpT2R7639KvKZ668uoQGS2QNFp.jpg",
+        "uri": "YOhN6SaFzURu0OC51/r6Q1P80sIZNhyECL/5qsn7wWHbWYrgMtmBiTm+8lB43sBPTQKxcIoK2EWgvPxvfxxBhuF5NgDSgdB+Ujfo1dAqUBBkARxQFoxVwUWRFhBgsO4YlYESI31U4d9OF2KrfdOwN1GR0KHZAnDmIRj+v6JyjkoT+9/obhSc5057x/ghkCRK"
+      },
+      {
+        "name": "🍿The marvels",
+        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/9GBhzXMFjgcZ3FdR9w3bUMMTps5.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2U/IxDjzkrJxJCa+Nz5sicJanfw/HV2pIJ23MNpqii46P297mEpJLS9U7wb23UXhiYCFFbRU79PkoDq/TEGuk9Ff3vmScYNFs1tHLrv6JDih"
+      },
+      {
+        "name": "🍿Venom 1",
+        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/2uNW4WbgBXL25BAbXGLnLqX71Sw.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2U/IxDjzkrJxJCa+Nz5sicJanfw/HV2pIJ23MNpqii46F017ciybZhwF9Z+dNYl98L4wI2i/1hWDMY3HOI2NW48zEJd4nSv1sPfkrGDtG7fB"
+      },
+      {
+        "name": "🍿Venom 2:Carnage",
+        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/1MJNcPZy46hIy2CmSqOeru0yr5C.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2U/IxDjzkrJxJCa+Nz5sicJanfw/HV2pIJ23MNpqii46F017ciybZhwF9Z+dNYl98LQ9iaoUANkc+niQTMk+N+4zEJd4nSv1sPfkrGDtG7fB"
+      },
+      {
+        "name": "🍿X-men 1",
+        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/bRDAc4GogyS9ci3ow7UnInOcriN.jpg",
+        "uri": "YOhN6SaFzURu0OC51/r6Q5rjmYrYSOg9H+3JIcqoxPnPl+SOpde7hYK2XnZiurO9Gd9/UL0R1MIoKv5jOrvhkw=="
+      },
+      {
+        "name": "🍿X-men 2",
+        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/rtrd4qieMAhoUshu83Vi1GazM1O.jpg",
+        "uri": "YOhN6SaFzURu0OC51/r6Qxq3fZRZcgjYhyJaNvaSIesKOQ7Ca4hUURIgin/y8CnyGd9/UL0R1MIoKv5jOrvhkw=="
+      },
+      {
+        "name": "🍿 X-men 3",
+        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/a2xicU8DpKtRizOHjQLC1JyCSRS.jpg",
+        "uri": "YOhN6SaFzURu0OC51/r6Q1WLqtikF2wAB/9Kh2SjrrfHFU/zZdwiJn3huH6TSGy1Gd9/UL0R1MIoKv5jOrvhkw=="
+      },
+      {
+        "name": "🍿X-men Wolverine",
+        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/yj8LbTju1p7CUJg7US2unSBk33s.jpg",
+        "uri": "YOhN6SaFzURu0OC51/r6Q23BVKe3VtGz409jSWgmY/cCNSK9O9d+TvKNN2f6gIfm42W00MEYPrWwSAY+FTvt1Rnff1C9EdTCKCr+Yzq74ZM="
+      },
+      {
+        "name": "🍿X-men primera generación",
+        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/6ED3G0lpBXRZtEDJD2xVYsqIwxI.jpg",
+        "uri": "YOhN6SaFzURu0OC51/r6Q+SiDig6XqkEe7kmdUeb0sFEvE7wWnlzZHEEm/LMV5/30liNKWzQvG129lzLWBgy1Q=="
+      },
+      {
+        "name": "🍿X-men Wolverine inmortal",
+        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/p5IFVd8PQjcGk0KKaSP97jze3wP.jpg",
+        "uri": "YOhN6SaFzURu0OC51/r6Q+EtVYfGchEjjuwaUphEb8rXExMF2PPB5WRjulmvUuagVy//fKcY9SOAA4YdDlzO2Q=="
+      },
+      {
+        "name": "🍿X-men dias del futuro pasado",
+        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/ggb9nmS5alJuA0ll0iU5YHiGbb0.jpg",
+        "uri": "YOhN6SaFzURu0OC51/r6Qz9jhssM6X7C79ek09TvU0IBsBu5V3AgKTxUxM4wDBgV/mHDW2rKE00ar5lrdp6aVJ8JglEfkhI0qqZRCsvgCro="
+      },
+      {
+        "name": "🍿X-men apocalipsis",
+        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/9rJeh8mrbJdkIZ49K2cZIdAwbEj.jpg",
+        "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0wOMIQIb7HbQ5xzFVd0n0TOUhe75dYSqXHsD5aj0sm05g=="
+      },
+      {
+        "name": "🍿Logan",
+        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/d0ktjN9eKww26HhM8or8iUB1I68.jpg",
+        "uri": "YOhN6SaFzURu0OC51/r6Qyzl8WR8lwyMfyYgwOsi/xeQP22z3toHDTHMQRzeMU7fSGjvMTpLpxuz6FfICWsTL5oDG9X35idGCYnZpsFu0bbVzuVStjZ1MfAa+YJMUVypcDbq5HvUfrAKV6T437SAuhLwWT+6D9szIkuYF2L9y8Y="
+      },
+      {
+        "name": "🍿X-men dark Phoenix",
+        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/rdByKDkfyVuVSrkllzxKYXiZmTd.jpg",
+        "uri": "pKAMTZxDrMyk1rye7uHwifTWzf02zgp20+gzeTl3M4f0JHo07QZy14ww+7EAWAHhqQWdimyb6rlEyHOtWi3I4g=="
+      },
+      {
+        "name": "🍿los nuevos mutantes",
+        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/cNEIc6SbgsNWkzwfw4EuYLqE9Gt.jpg",
+        "uri": "YOhN6SaFzURu0OC51/r6QwGNBdeQa5Rxv6e/3JI/5/1e/Ox+zipKVmfszu7aP0++gov/9FpRwwUpku1E1H0ppgAQxEo6o/N/BdsbEmqlPsnCdJ6pYS4wMbCXQy7a6fgbeqO3ZMi0DSpHfXEV0bPlJIFSTGZYNyC0W9lirIVQicL4bkeQRp7OUIihsHLX44+O"
+      },
+      {
+        "name": "🍿Deadpool & Wolverine",
+        "icono": "https://image.tmdb.org/t/p/original/v0Q2uYARIqui1sEBF0bCLJaliDI.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2f3hK3nQL9tumvAvPC720qB2F0iVrIZZEWaVO5nrJPrLf0S3Ts7yjYYSzeSD57C70cd5SnxnqsJ1oDXSu7yEKzM="
+      },
+      {
+        "name": "🍿Deadpool & Wolverine opc 2",
+        "icono": "https://image.tmdb.org/t/p/original/v0Q2uYARIqui1sEBF0bCLJaliDI.jpg",
+        "uri": "XVx3fiw0+fHK5mNHaFdCmWICMIPbc/ba+At3QECe9kYUOq8Bi/PeR4dvW10hhtXGqvtn6/tG1clM99AH50hIdg=="
+      },
+      {
+        "name": "🍿Los 4 Fantasticos",
+        "icono": "https://media.themoviedb.org/t/p/w220_and_h330_face/5qLP3JVg8NE3zdZd48lqhx7iN5Q.jpg",
+        "uri": "YOhN6SaFzURu0OC51/r6Q8BxEoQQDDcVb0Pp8K5vzWD45Sf3OOqWN6PsvxouS1wwR+S48VE96i53d1ZEz/Yz0kj6GL3FmQqkrN9fzKbEjR/7gEaYlv9U/8PTe4lvawBKCzXMcw+n1ZxcWpqHaMWlvl2j8NSqNp3SIzhUIYhoItA9u+kFWn9iBcpbCEQaRKQF01h2yxyAeqm4Q7w9lPNveg=="
+      },
+      {
+        "name": "🍿El Sorprendente Hombre Araña 2: La Amenaza De Electro",
+        "icono": "https://pelisimg.online/cover/el-sorprendente-hombre-arana-2-la-amenaza-de.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2U/IxDjzkrJxJCa+Nz5sicJanfw/HV2pIJ23MNpqii46+ET7i03yr6UvKhZ81gKApYSmT5yXVk3alVBRzGlMn4geHAT2DzMlYiDd6Atxn4gslqHp8RW9zBg/fc3ATU8LSA=="
+      },
+      {
+        "name": "🍿El Sorprendente Hombre Araña",
+        "icono": "https://pelisimg.online/cover/el-sorprendente-hombre-arana.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2U/IxDjzkrJxJCa+Nz5sicJanfw/HV2pIJ23MNpqii46+ET7i03yr6UvKhZ81gKApYSmT5yXVk3alVBRzGlMn4geHAT2DzMlYiDd6Atxn4gsy161pZuyes7dlfzcS3KANQ=="
+      },
+      {
+        "name": "🍿El Hombre Araña 2",
+        "icono": "https://pelisimg.online/cover/el-hombre-arana-2.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2U/IxDjzkrJxJCa+Nz5sicJanfw/HV2pIJ23MNpqii46+ET7i03yr6UvKhZ81gKApYSmT5yXVk3alVBRzGlMn4hQ+Fh2B0Ss5NXuWXrZz3I+x3lKfGeqwnWgNdK7vIQrMw=="
+      },
+      {
+        "name": "🍿El Hombre Araña 3",
+        "icono": "https://pelisimg.online/cover/el-hombre-arana-3.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2U/IxDjzkrJxJCa+Nz5sicJanfw/HV2pIJ23MNpqii46+ET7i03yr6UvKhZ81gKApYSmT5yXVk3alVBRzGlMn4gTU/FhgEhvFp7tDJO8LJaTx3lKfGeqwnWgNdK7vIQrMw=="
       }
     ]
   },
@@ -1463,374 +1513,681 @@
     "name": "🍿ACCION",
     "samples": [
       {
-    "name": "🍿Bad Boys Ride or Die 2024",
-    "icono": "https://m.media-amazon.com/images/M/MV5BY2U5YmQ3YjgtM2I2OC00YmM5LTkyM2MtN2I5Zjg2MDE0ODkwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
-    "uri": "2esNaCki0M05yxHgSMaAl3Ncj8Y3UU+hEswGaHAdnslLVW6NGnznGk5GzJms7Jrmatt2VWcaPFPoiOircGHJu3J2rW+YblrqL8F27O8xpDw9qoZbDaRjTXv0qX5YttQ97OESKIekJLVRrzmd1J/lMDauEBmjyDahYQq9O2D/VLleh4dOE6kAM8RE/fKDv+K5x3lKfGeqwnWgNdK7vIQrMw=="
-  },
-  {
-    "name": "🍿Bad Boys Ride or Die 2024.OPC 2",
-    "icono": "https://m.media-amazon.com/images/M/MV5BY2U5YmQ3YjgtM2I2OC00YmM5LTkyM2MtN2I5Zjg2MDE0ODkwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
-    "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0x4HT54rl0y8TPkWbEqUtz1yM6+vVi17Eq181y4yWz2E2RqbObt4GKAmNO8PNefaoE="
-  },
-  {
-    "name": "🍿El duro (2024)",
-    "icono": "https://static.wikia.nocookie.net/doblaje/images/1/12/Poster_Road_House_2024.png/revision/latest?cb=20240127055229&path-prefix=es",
-    "uri": "ZzwBDRk7rN8HnphYvt6j0FmCbzHXtYzCwIkr2IuR3uvuQVsDXK5QSACFpsaJ1Q/0"
-  },
-  {
-    "name": "🍿Beekeeper: sentencia de muerte (2024)",
-    "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHZQYKJV1rV01S3kNZ3hEYz8VNM.jpg",
-    "uri": "ZzwBDRk7rN8HnphYvt6j0FmCbzHXtYzCwIkr2IuR3uvrMvnCGdLFFLDKyzY0Vmy6Q3pZpYXuHbXDnPdGqpLe7lB60wS4nsH/lUpwqM9nkw8="
-  },
-  {
-    "name": "🍿Atrapados en lo Profundo (2024)",
-    "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr3F-goKc6wRlqGrIIftuVB_ajoE3kWEcoSnmWAoDV1mtJQMb2PLQsrNk36_KFaUNfeflofVLjiDjUUeY2VN-PYbW11JEFQ6LI9xmdKvn84kuiVej7PRqwqis65icderBl-eeH-m4jutTjAqglU023Cj2hpZmJX23eXxT_Ws-ByGDR_-WSo17WS2qUeNfE/s800/atrapados%20en%20lo%20profundo.jpg",
-    "uri": "FrH4zcSazfjYzG0zLWF2QDMu/A+UWVUVycsJWT9R11IVsYQIwggeD+906ed6TnBWC1pams8QRrH+xn7T2EVEBaLJPxfy5JCEUdPYuI/tpPiuAAcgLKVkw0M+M+NWuKWfYJ7DoTlbddWDHX8V8lEg9vsNZ1sS+RBW80qM5lm1ki6Yngx54xiXlHqvdpIZRO6W/XPBfHTFkZsdTi/gzV1gC7FQLBiDM3PgqucsqrSInEdvjOt6Km/Lu7oECm9XDHADLXs+uCCU94vMboFh8/xxqg=="
-  },
-  {
-    "name": "🍿Mano derecha roja (2024)",
-    "icono": "https://m.media-amazon.com/images/M/MV5BYjZjYTNjNjktYzgwZi00MmE3LWE5MTEtMTBkNGQwMzEwNDYzXkEyXkFqcGdeQXVyNDM1ODc2NzE@._V1_.jpg",
-    "uri": "pKAMTZxDrMyk1rye7uHwiZYHwt7TsPyxkCXKq0WuTzX8zpDA+jXg6n/pMQGfLsqrgpcNXIbZIS2ysuvbeaycR63YUbDNMKeWFw3SDOtnoyAGCeXgbuHnxFhzpsShqlHFkVVd8BFmxVzBCKES7nJZkAuYbGCZymr09zG1rVrl97q95gEKh4CKF/XrWOKR8kbYjq78lABROSGxjJiG2Ulyw0DNUgTZjlc+braM7Cra1Xg="
-  },
-  {
-    "name": "🍿Presa (2024)",
-    "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5d-TSQ6WcoPYSIeU3fm2nvjFREcZ9XxUl0Pu2dmadXwZyEmYU",
-    "uri": "AH9VNWnq1PgiuV8XfRHmRS1vVui05QECEfIx8y0clL8Q46H8ULP202lIzx+lCA/27mrh87Z1wZg/S2V+ec8uhw=="
-  },
-  {
-    "name": "🍿Twisters (2024)",
-    "icono": "https://es.web.img3.acsta.net/pictures/24/02/12/06/29/0322111.jpg",
-    "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0wqyXgHfSpFfVoLBucg1F/WDx3I/ekOSPE+Ep4VnXZ+Yg=="
-  },
-  {
-    "name": "🍿Deadpool & Wolverine HD (2024)",
-    "icono": "https://image.tmdb.org/t/p/w500/uxBHXaoOvAwy4NpPpP7nNx2rXYQ.jpg",
-    "uri": "WLqCvVRVLlp70RVAVmUX2YH+zM9dFn4m3Il9ODXXQmyq9UmDWYYQJiD/URF1r0j64iYqY3nnnDMDaZyEiogQCXorFOk65A4XkDA48LGg2WdlLcUiYaoXQDSrA61tJMcq"
-  },
-  {
-    "name": "🍿Damsel (2024)",
-    "icono": "https://m.media-amazon.com/images/M/MV5BZWM0ZDVlMDgtNDdhMy00NWVlLWE1MmItNmViODMzNmUyMDU2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
-    "uri": "ZzwBDRk7rN8HnphYvt6j0FmCbzHXtYzCwIkr2IuR3us6j/7qz+rVdmfbLBW9+lfU"
-  },
-  {
-    "name": "🍿Combate clandestino 2024",
-    "icono": "https://image.tmdb.org/t/p/original/ajp91apA8TRvGRHFKIDQeix2xKx.jpg",
-    "uri": "pKAMTZxDrMyk1rye7uHwiUYG2pY39nrBzMchOlGAa98SeXDMMUfmZpETkkMEufEBXQgwJLmfdPUepF+/UrljAUJBIFfYCCwwwr+hIY//mG4rk3nMGQeTQD+sT3Y17N5OJRe/Vp85gm2UtLLpVnxAnQA0P6gJoJ814l1a7m3LmIulkey0OxCpnh84EKDMWYnzYwQauOxk0ZEwYhP2AygB8feaXuexE37pZ4MQ0O2PmSVtvGGhGE5vP0XSUjmMqbsu2VyjY/zziwbws/H6SAIqQ6IWm6z1tPOyrvbDleesdlOgyF+a8iZaBaZVtP2zBLI2hy1IBBPq8C0Zl+DMdVrWqg=="
-  },
-  {
-    "name": "🍿KALI 脕ngel Vengador 2024",
-    "icono": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2024/5/w1280/q6G2asNhF8v9htu53JkmtHge23f.jpg",
-    "uri": "dYP03OiS2VJaLrWjh/PE6Sayn/8Ar7O8AtLX5K6ZeGkoC3cMmiIfeyPqfuwhvwRNSpjLRytNu8DoF92k95NCkoBWD0UWvBKcJVXQ5X8E7pE="
-  },
-  {
-    "name": "🍿Zatoichi",
-    "icono": "https://es.web.img3.acsta.net/medias/nmedia/18/89/79/31/20066820.jpg",
-    "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0xAlDdPs7HoPC0ZtWvrHCw7qQWdimyb6rlEyHOtWi3I4g=="
-  },
-  {
-    "name": "🍿El Retorno de Los Thundermans (2024)",
-    "icono": "https://m.media-amazon.com/images/M/MV5BNGU1YmYzNTctZDViNy00OGNkLWI5YTYtNDIzOWZjMDY5NTc4XkEyXkFqcGdeQXVyOTY5MjA3MjA@._V1_.jpg",
-    "uri": "ZzwBDRk7rN8HnphYvt6j0FmCbzHXtYzCwIkr2IuR3uvbDM5GZQLlYLbeqPyL+1HEd9yxI7vINDPBGom1HIowwwXMsS9yF/2TBiDmGv+/QYY="
-  },
-  {
-    "name": "🍿el salario del miedo (2024)",
-    "icono": "https://m.media-amazon.com/images/M/MV5BYjhmNzFjODAtNzJkYi00ZDhiLWE3NGUtYTY0YTgzZjM5ODA1XkEyXkFqcGdeQXVyMTMzNzIyNDc1._V1_UY218_CR3,0,150,218_AL_.jpg",
-    "uri": "2ofMJ2khLDLRl7QF7jUkd8K+R9WPPWDTny8GDH8z4Cqfl030fBOfoYgTacHhZdnukNWP1X9QhcwesAr0MuWZ/DpoybWY+lTFUQGZHMkjr2mywRDgqp+X491hzUKFcpKen8iHzzmk3LoEzqOcczPFaNLWkfnE9K2S6zctXeeXu3VcCu0oSyePhSJnSThY46WIPJCuONEfQJVHa6dVpVJ57ZTeAlW4tTvfGH5Dcrg3guubJXiep0LYZsi+Yby2Nr3u"
-  },
-  {
-    "name": "🍿Argylle: agente secreto (2024)",
-    "icono": "https://movies.universalpictures.com/media/argylle-poster-6579152b14166-1.jpg",
-    "uri": "ZzwBDRk7rN8HnphYvt6j0FmCbzHXtYzCwIkr2IuR3uu8g/hMTJiEo1njHko4ytctxOEuV9k9/GJJ0erh6ePo3psUgOvmZ6rHtl3BMudvWi0="
-  },
-  {
-    "name": "🍿Indiana Jones 5",
-    "icono": "https://image.tmdb.org/t/p/w500/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg",
-    "uri": "RRHzqFgwXpR8tV/q9kGc6cFF09QkVMj2/MGGNwgtyCDG9S5QtA7XmIxbLFT5vvECqQWdimyb6rlEyHOtWi3I4g=="
-  },
-  {
-    "name": "🍿Atrapados en el abismo 2024",
-    "icono": "https://www.movistarplus.es/recorte/n/caratula5/F4203404",
-    "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0zQg3+Yu5sV8kNuqWNAtUS/D6Mkar5pOinJmGQUI6/HhA=="
-  },
-  {
-    "name": "🍿Kill Boy (2023)",
-    "icono": "https://m.media-amazon.com/images/M/MV5BNmYyM2VhM2UtYmEzNi00M2RmLTkzYWQtZGQ5MjI2MzQzMWMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
-    "uri": "2esNaCki0M05yxHgSMaAl3Ncj8Y3UU+hEswGaHAdnsmYoRg7qHa6T1GCtURQ3O5CRkwhU08e7IqzpzLqqS70/KDn2cTOif+1lRiRZali7PmEhrCrwLpogGWvqHaUqtLo3bB4sHNNczV5HT4jrP9UqQ=="
-  },
-  {
-    "name": "🍿Agente X: Ultima mision (2024)",
-    "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXOY_odOdK-gLKXE9DXDo9pa0jz4uPudKg1-D4eF8ZzKlTgLgZ",
-    "uri": "2esNaCki0M05yxHgSMaAl3Ncj8Y3UU+hEswGaHAdnsnRaSAVf30daDwR5qcaHS8blq9X8bpvozygCIZcYXv8Q3G118WZBVKJOPDfscpMNj/hZBlNxGFHz1FL+GKe8kR6I9ZCue9KMhlX7vEAQYrBOw98p1AApOCciyf+75QcA+w7zndBh8IwAukzaTT6GADK"
-  },
-  {
-    "name": "🍿Black Adam opc 2",
-    "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRshWaUPfERijlnKVcPYBM4N37_7s4Fgo-o3g055p_H7kgP_JzS",
-    "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0x3+Da0I8mSZTSV3o2uuVwFskG2n/kfGc0GFOOfIBVtzA=="
-  },
-  {
-    "name": "🍿justiciero 1 ",
-    "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTV739qNqLxhlXQrUuBJkReDHKz5WnJaH_mgysA9uWTvQV2nZH",
-    "uri": "JgaeJ59JEhS5/ljGbfBY+ux4SemirGKpVG6MIkZq8PwR3UJqtjhdE8zgf2qbOTLrCJ7qL2sddLQQz1Xt+o0EZQ=="
-  },
-  {
-    "name": "🍿Rapidos y furiosos 10",
-    "icono": "https://image.tmdb.org/t/p/w500/1E5baAaEse26fej7uHcjOgEE2t2.jpg",
-    "uri": "RRHzqFgwXpR8tV/q9kGc6QCqTScHC522gd5XS0ys5GmKDpcx1XZWFpWIneUIZiNitXMjvyIo9cPJUsCIPZ7zvg=="
-  },
-  {
-    "name": "🍿justiciero 1 opc 2 sd",
-    "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTV739qNqLxhlXQrUuBJkReDHKz5WnJaH_mgysA9uWTvQV2nZH",
-    "uri": "2ofMJ2khLDLRl7QF7jUkdzEtTlVYaJEIO1WkYeq9xYl0hBRdVSna1lA6jX7UPXWhstrSYFEp2lVtlgVsNoUSh+UDZFp9+ea848DuOLEWm8wenaQLQwQfd/RBydAIGFUTT26cILAGOpWiYb4f/giDGpMDVqPzEhJf73SJ4k77JeTmmqEmBchKspm7mBJ0oy/OaWRbt7OIfX59CQswAGDqBPGTO25uSdQly/b+R/NRJ4OzB3u2VLYScSEmC7XUPSVnAzk4AvrN/ove95w+22jV5Q=="
-  },
-  {
-    "name": "🍿justiciero 2",
-    "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRiZmdcQP7Jf97M74EGj5utMcbjaHZVziMnotZHB5U7LAcpexLx",
-    "uri": "JgaeJ59JEhS5/ljGbfBY+ux4SemirGKpVG6MIkZq8PwR3UJqtjhdE8zgf2qbOTLrpC3W3KT+F/yXvbcRSnkpZTMQl3idK/Ww9+SsYO0bt8E="
-  },
-  {
-    "name": "🍿justiciero 2 opc 2 sd",
-    "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRiZmdcQP7Jf97M74EGj5utMcbjaHZVziMnotZHB5U7LAcpexLx",
-    "uri": "2ofMJ2khLDLRl7QF7jUkdzEtTlVYaJEIO1WkYeq9xYl0hBRdVSna1lA6jX7UPXWhstrSYFEp2lVtlgVsNoUSh+UDZFp9+ea848DuOLEWm8wenaQLQwQfd/RBydAIGFUTT26cILAGOpWiYb4f/giDGpMDVqPzEhJf73SJ4k77JeTG9/YiOc9Qz1qjFc3Z0aeDZuiJkTbpnh6em+Ol134N0j8ynE7ADmvU6AU09Z4TtTqSKoXIbA5AlJAhPCTB9ao4PUXUkHnJvumeL2BrwRjTxzW7lZR+ZrJulUFNgSHh7AU="
-  },
-  {
-    "name": "🍿justiciero 3 ",
-    "icono": "https://th.bing.com/th/id/OIP.5FYWD5RQ1j912HSa9ZjNSAHaLG?pid=ImgDet&rs=1",
-    "uri": "FrH4zcSazfjYzG0zLWF2QDMu/A+UWVUVycsJWT9R11IVsYQIwggeD+906ed6TnBWC1pams8QRrH+xn7T2EVEBaLJPxfy5JCEUdPYuI/tpPiuAAcgLKVkw0M+M+NWuKWfYJ7DoTlbddWDHX8V8lEg9glYcLrzhu6kdBycaY/btFb44lapxruiKmZnqEiIe3m92C0JURM0D0F5hW9RiBO/LiOx6hqE7Eos8OUEwCG930ixYhxBnGH/AnyEsWy4WQ7hpD1azEt8O3MaW9DBFcKtzg=="
-  },
-  {
-    "name": "🍿justiciero  3 opc 2 sd",
-    "icono": "https://th.bing.com/th/id/OIP.5FYWD5RQ1j912HSa9ZjNSAHaLG?pid=ImgDet&rs=1",
-    "uri": "FrH4zcSazfjYzG0zLWF2QDMu/A+UWVUVycsJWT9R11IVsYQIwggeD+906ed6TnBWC1pams8QRrH+xn7T2EVEBaLJPxfy5JCEUdPYuI/tpPiuAAcgLKVkw0M+M+NWuKWfYJ7DoTlbddWDHX8V8lEg9mZSTREat/4jGiDoSpJ2NnphCK8fLCnHzqgsxujEyID9HMbg1lLo+dIWrecBSIJlNlUKvDjU0DzD5hBPlr97OFtrClQGOT+qiRkJ3c+BO+IZ3LPDsqbColVuvAprTGWHh8Jdjsm6wPbIh3vqHae8iVc="
-  },
-  {
-    "name": "🍿Sayen: La cazadora (2024)",
-    "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0qO7MZuqkIyQBSWIERpA_6DoaWS-tDw7TxiLGVSlU7NI0w0Nk",
-    "uri": "2esNaCki0M05yxHgSMaAl3Ncj8Y3UU+hEswGaHAdnslaN58F784SaDd+4JAOLFy9XSnQkxM0nGqZVa3VoezYL52m/O0T8PLvTJjQ3IDJgiSAR6PB4SbtSHLFI3UcBhObmxSA6+Znqse2XcEy529aLQ=="
-  },
-  {
-    "name": "🍿City Hunter (2024)",
-    "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxcx5C5zKZ6aWH_B5LPV9C13qS0uQc4Mi42GiimkZbSmP_o_A_",
-    "uri": "ZzwBDRk7rN8HnphYvt6j0FmCbzHXtYzCwIkr2IuR3uuT+xUs1CykBilSc1sWTrujWvKZOu/fKCInX9gEbAT1Kw=="
-  },
-  {
-    "name": "🍿Profesion peligro (2024) CAM",
-    "icono": "https://dx35vtwkllhj9.cloudfront.net/universalstudios/the-fall-guy/images/regions/us/onesheet.jpg",
-    "uri": "FrH4zcSazfjYzG0zLWF2QDMu/A+UWVUVycsJWT9R11IVsYQIwggeD+906ed6TnBWC1pams8QRrH+xn7T2EVEBaLJPxfy5JCEUdPYuI/tpPiuAAcgLKVkw0M+M+NWuKWfYJ7DoTlbddWDHX8V8lEg9rIMPzWut1XT9jOyyszdrvROV0Ews/jDqwWsjUjjSQpWEiEkdcY85edbNRwCIUcesDyQrjjRH0CVR2unVaVSee2U3gJVuLU73xh+Q3K4N4LrmyV4nqdC2GbIvmG8tja97g=="
-  },
-  {
-    "name": "🍿El sicario de Dios (2011)",
-    "icono": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2011/5/w1280/fBs0ScJQPb2xi0Jt9BGPcdaITvh.jpg",
-    "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0y4z+CRn547vBOGoQ58AvMYJm8H6MbsmdYnKUcinPrmkw=="
-  },
-  {
-    "name": "🍿Project X-Traction (2023) Proyecto Extra",
-    "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHmNYTR1ULPAKYj3-alk7sLuGtf_Z3BS-Wf6ezr2IWDivy-W7NHstTAikuUl-50ddFFRraXn1I5KjDWB9Lp_XU05Dwtk9zJ8iwioaSDHy9O2XKrvG6tNRNnV3vXacKmTzE_NzIBlzBkmqcVX_dPTzGJ9wZfaikXsDkSeTCDjKRWooULBo6Qj0laVWEOKGg/s1600/MV5BYzM0YjcwM2QtN2FmMC00YjU2LWI3YzctNDZhOTJiN2VhYjQxXkEyXkFqcGdeQXVyMTU0NjA4Njk3._V1_.jpg",
-    "uri": "y5sBawRYuisjQVaMwbXJCKpG1MaMxpGl7MxzcjifUgMEPI7WWJTYMGDDCtD6U6i9noUkxaUAN5ltqr5RAucZqiw+BZiRb0huI5hbRTTTrFz6cMja+zvArvU2ZRfbtU82"
-  },
-  {
-    "name": "🍿escape bajo fuego cam",
-    "icono": "https://mx.web.img3.acsta.net/c_310_420/pictures/23/05/29/20/01/1319498.jpg",
-    "uri": "FrH4zcSazfjYzG0zLWF2QDMu/A+UWVUVycsJWT9R11IVsYQIwggeD+906ed6TnBWC1pams8QRrH+xn7T2EVEBaLJPxfy5JCEUdPYuI/tpPiuAAcgLKVkw0M+M+NWuKWfYJ7DoTlbddWDHX8V8lEg9glYcLrzhu6kdBycaY/btFanNY+diA3qpg7zLwks0IlUZGUb3EjH5+ZfPuSU2DdvFVt0pxvdr+xmOkVPhEB7wjLcs8OypsKiVW68CmtMZYeHKP46tn7zvOy/Jx+sYFVrOw=="
-  },
-  {
-    "name": "🍿CARGA MAXIMA",
-    "icono": "https://www.cuevana2espanol.net/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FocKoEvCPX809gWsyEXRP2zTViY5.jpg&w=256&q=75",
-    "uri": "LshFyhvVDQcSSU1Qq32q/DpyeTi1wrP4z9ZCaEZhG+4CuRpzLgbG14gDOHtOHD8E1MPEEg2OKxpJh82YZrZ7/6VAoSaNY06ssKnyJ+1GdZEnDkEwsf//mZIOb9uZ93WvI6AkOPZIy18e8CDxhX4kt24qaQul5wrAZQb+TDRdkg0fvKttdNitV8yaC/Y/qg7Uom1eSglKnD7O8rRgQkFyqBaBoLS5uoIx4SATxzqbikaX5aOaY2dIGzONwfWpBq7dXTuIDrYGZA33niR6RgiFFw=="
-  },
-  {
-    "name": "🍿Señor De La Guerras",
-    "icono": "https://fsla.pt/image/cache/catalog/data/filmes/P002240-400x640.jpg",
-    "uri": "ZzwBDRk7rN8HnphYvt6j0FmCbzHXtYzCwIkr2IuR3us3aD8OeXVu97ZXsW0ICoJL"
-  },
-  {
-    "name": "🍿El mecanico: La resurreccion",
-    "icono": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/8/w1280/bG3Q6EFcngpPn7uPuQTzTuq9DgV.jpg",
-    "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0xwllvYPAH8wjHm0lgdxP1Hm6nkzlH7u9O/oEBAz0HuRM9J6hu5txcVntjZxsi5E04="
-  },
-  {
-    "name": "🍿Los mercenarios 1 (2010)",
-    "icono": "https://image.tmdb.org/t/p/w500/tDynwDj3pvexrEQ8wb0uy8EdcGQ.jpg",
-    "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0wTeV3wHeJpIRt8aCKPu+m2aVAONSkEKBw3Ju+1cOvQgA=="
-  },
-  {
-    "name": "🍿Los mercenarios 2 (2012)",
-    "icono": "https://image.tmdb.org/t/p/w500/4EBO8aIeP2bF1jGpwbuRS4CFMca.jpg",
-    "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0wTeV3wHeJpIRt8aCKPu+m25Hq/JpVJ/JFqXUMPENIV0zMQl3idK/Ww9+SsYO0bt8E="
-  },
-  {
-    "name": "🍿Los mercenarios 3 (2014)",
-    "icono": "https://image.tmdb.org/t/p/w500/d63qz4XeNtbpDC5c70AlSUIbnTQ.jpg",
-    "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0wTeV3wHeJpIRt8aCKPu+m2bw7Y4bmuSTOopJlr128m4TMQl3idK/Ww9+SsYO0bt8E="
-  },
-  {
-    "name": "🍿Tirador",
-    "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTj9GmiMagSUrLGqmYKEFBWIGL2BgunZQ5heBo8kCCNLkTSgJuh",
-    "uri": "ZzwBDRk7rN8HnphYvt6j0FmCbzHXtYzCwIkr2IuR3uvhpLEu9FgJ2uexDcqGCystz0nqG7m3FxWe2NnGyLkTTg=="
-  },
-  {
-    "name": "🍿Troya (2004)",
-    "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNBsJf7UYpkOIx9Dae_Ol1qRcgXaaULMBISQkRI-vVEnlSXzkG",
-    "uri": "FrH4zcSazfjYzG0zLWF2QDMu/A+UWVUVycsJWT9R11IVsYQIwggeD+906ed6TnBWC1pams8QRrH+xn7T2EVEBaLJPxfy5JCEUdPYuI/tpPiuAAcgLKVkw0M+M+NWuKWfYJ7DoTlbddWDHX8V8lEg9uBLe/c43T9j+W+a01K3nVEiOU3QWsrMjKqQGVvP1zgEmCT3niu/0GtQkVyFCwzh4zYN7d7TcqGAPIf8AzeVhgrE+0TJuV4VvsPi7YlECpk+"
-  },
-  {
-    "name": "🍿The flash",
-    "icono": "https://image.tmdb.org/t/p/w500/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
-    "uri": "RRHzqFgwXpR8tV/q9kGc6RAVXvIXC3BrQaoBMnPtzZZ4ynHBDDIcIpxl1g0UtaHvJm8H6MbsmdYnKUcinPrmkw=="
-  },
-  {
-    "name": "🍿4Got10 (2015)",
-    "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdeipB2V1CQTshPnYrwVf5qHUpWDNFhsO1f3ZC6jEtEiF6Crps",
-    "uri": "JgaeJ59JEhS5/ljGbfBY+ux4SemirGKpVG6MIkZq8PyUZwt7w0yG7rYgvxQrpHOqnYbJAUHWdFErnzRR5sel8A=="
-  },
-  {
-    "name": "🍿Atomic Blonde. (2017)",
-    "icono": "https://1.bp.blogspot.com/-2MOCS1Qg7bs/WbE3--2OEmI/AAAAAAAACCs/Ka0LOjOIv6MnHWDzv9MDLu8AZ9I28tRTwCK4BGAYYCw/s1600/a25f2804fc990551b81458dc2c261140.jpg",
-    "uri": "JgaeJ59JEhS5/ljGbfBY+ux4SemirGKpVG6MIkZq8PzEzWeP0IszWrvZKAqVCYosNbuVlH5msm6VQU2BIeHsBQ=="
-  },
-  {
-    "name": "🍿AGENTE STONE",
-    "icono": "https://m.media-amazon.com/images/M/MV5BMzE1ZThhYWEtZWYzOS00ODk0LThlNDQtMGIwMTNhNzk1ZjYxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX450_.jpg",
-    "uri": "FrH4zcSazfjYzG0zLWF2QDMu/A+UWVUVycsJWT9R11IVsYQIwggeD+906ed6TnBWC1pams8QRrH+xn7T2EVEBaLJPxfy5JCEUdPYuI/tpPiuAAcgLKVkw0M+M+NWuKWfYJ7DoTlbddWDHX8V8lEg9u6+/9WiZmBIAectWsUSY0e5OVgVfWdtdsscFhpNmk68Hp6XMmPZgSJoVeBXiN6ADMN7MM2eBnTNbOByV4gSnoRG+u275sPH0ugTA1nvlPCt"
-  },
-  {
-    "name": "🍿FRANCOTIRADOR La Ultima masacre",
-    "icono": "https://image.tmdb.org/t/p/original/tPsiPGpuu4EJTyByYKEOCAapf0e.jpg",
-    "uri": "JgaeJ59JEhS5/ljGbfBY+ux4SemirGKpVG6MIkZq8Px0XWpwuxJ9wVaO+Gsnnz/hkg+Yejo3a6L5LY5iGGc1DcTQ1qruCKwd55tDfO0lpYA="
-  },
-  {
-    "name": "🍿El mecanico: La resurreccion",
-    "icono": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/8/w1280/bG3Q6EFcngpPn7uPuQTzTuq9DgV.jpg",
-    "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0xwllvYPAH8wjHm0lgdxP1Hm6nkzlH7u9O/oEBAz0HuRM9J6hu5txcVntjZxsi5E04="
-          }
+        "name": "🍿Bad Boys Ride or Die 2024",
+        "icono": "https://m.media-amazon.com/images/M/MV5BY2U5YmQ3YjgtM2I2OC00YmM5LTkyM2MtN2I5Zjg2MDE0ODkwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+        "uri": "2esNaCki0M05yxHgSMaAl3Ncj8Y3UU+hEswGaHAdnslLVW6NGnznGk5GzJms7Jrmatt2VWcaPFPoiOircGHJu3J2rW+YblrqL8F27O8xpDw9qoZbDaRjTXv0qX5YttQ97OESKIekJLVRrzmd1J/lMDauEBmjyDahYQq9O2D/VLleh4dOE6kAM8RE/fKDv+K5x3lKfGeqwnWgNdK7vIQrMw=="
+      },
+      {
+        "name": "🍿Bad Boys Ride or Die 2024.OPC 2",
+        "icono": "https://m.media-amazon.com/images/M/MV5BY2U5YmQ3YjgtM2I2OC00YmM5LTkyM2MtN2I5Zjg2MDE0ODkwXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+        "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0x4HT54rl0y8TPkWbEqUtz1yM6+vVi17Eq181y4yWz2E2RqbObt4GKAmNO8PNefaoE="
+      },
+      {
+        "name": "🍿El duro (2024)",
+        "icono": "https://static.wikia.nocookie.net/doblaje/images/1/12/Poster_Road_House_2024.png/revision/latest?cb=20240127055229&path-prefix=es",
+        "uri": "ZzwBDRk7rN8HnphYvt6j0FmCbzHXtYzCwIkr2IuR3uvuQVsDXK5QSACFpsaJ1Q/0"
+      },
+      {
+        "name": "🍿Beekeeper: sentencia de muerte (2024)",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/bHZQYKJV1rV01S3kNZ3hEYz8VNM.jpg",
+        "uri": "ZzwBDRk7rN8HnphYvt6j0FmCbzHXtYzCwIkr2IuR3uvrMvnCGdLFFLDKyzY0Vmy6Q3pZpYXuHbXDnPdGqpLe7lB60wS4nsH/lUpwqM9nkw8="
+      },
+      {
+        "name": "🍿Atrapados en lo Profundo (2024)",
+        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr3F-goKc6wRlqGrIIftuVB_ajoE3kWEcoSnmWAoDV1mtJQMb2PLQsrNk36_KFaUNfeflofVLjiDjUUeY2VN-PYbW11JEFQ6LI9xmdKvn84kuiVej7PRqwqis65icderBl-eeH-m4jutTjAqglU023Cj2hpZmJX23eXxT_Ws-ByGDR_-WSo17WS2qUeNfE/s800/atrapados%20en%20lo%20profundo.jpg",
+        "uri": "FrH4zcSazfjYzG0zLWF2QDMu/A+UWVUVycsJWT9R11IVsYQIwggeD+906ed6TnBWC1pams8QRrH+xn7T2EVEBaLJPxfy5JCEUdPYuI/tpPiuAAcgLKVkw0M+M+NWuKWfYJ7DoTlbddWDHX8V8lEg9vsNZ1sS+RBW80qM5lm1ki6Yngx54xiXlHqvdpIZRO6W/XPBfHTFkZsdTi/gzV1gC7FQLBiDM3PgqucsqrSInEdvjOt6Km/Lu7oECm9XDHADLXs+uCCU94vMboFh8/xxqg=="
+      },
+      {
+        "name": "🍿Mano derecha roja (2024)",
+        "icono": "https://m.media-amazon.com/images/M/MV5BYjZjYTNjNjktYzgwZi00MmE3LWE5MTEtMTBkNGQwMzEwNDYzXkEyXkFqcGdeQXVyNDM1ODc2NzE@._V1_.jpg",
+        "uri": "pKAMTZxDrMyk1rye7uHwiZYHwt7TsPyxkCXKq0WuTzX8zpDA+jXg6n/pMQGfLsqrgpcNXIbZIS2ysuvbeaycR63YUbDNMKeWFw3SDOtnoyAGCeXgbuHnxFhzpsShqlHFkVVd8BFmxVzBCKES7nJZkAuYbGCZymr09zG1rVrl97q95gEKh4CKF/XrWOKR8kbYjq78lABROSGxjJiG2Ulyw0DNUgTZjlc+braM7Cra1Xg="
+      },
+      {
+        "name": "🍿Presa (2024)",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5d-TSQ6WcoPYSIeU3fm2nvjFREcZ9XxUl0Pu2dmadXwZyEmYU",
+        "uri": "AH9VNWnq1PgiuV8XfRHmRS1vVui05QECEfIx8y0clL8Q46H8ULP202lIzx+lCA/27mrh87Z1wZg/S2V+ec8uhw=="
+      },
+      {
+        "name": "🍿Twisters (2024)",
+        "icono": "https://es.web.img3.acsta.net/pictures/24/02/12/06/29/0322111.jpg",
+        "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0wqyXgHfSpFfVoLBucg1F/WDx3I/ekOSPE+Ep4VnXZ+Yg=="
+      },
+      {
+        "name": "🍿Deadpool & Wolverine HD (2024)",
+        "icono": "https://image.tmdb.org/t/p/w500/uxBHXaoOvAwy4NpPpP7nNx2rXYQ.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2YH+zM9dFn4m3Il9ODXXQmyq9UmDWYYQJiD/URF1r0j64iYqY3nnnDMDaZyEiogQCXorFOk65A4XkDA48LGg2WdlLcUiYaoXQDSrA61tJMcq"
+      },
+      {
+        "name": "🍿Damsel (2024)",
+        "icono": "https://m.media-amazon.com/images/M/MV5BZWM0ZDVlMDgtNDdhMy00NWVlLWE1MmItNmViODMzNmUyMDU2XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+        "uri": "ZzwBDRk7rN8HnphYvt6j0FmCbzHXtYzCwIkr2IuR3us6j/7qz+rVdmfbLBW9+lfU"
+      },
+      {
+        "name": "🍿Combate clandestino 2024",
+        "icono": "https://image.tmdb.org/t/p/original/ajp91apA8TRvGRHFKIDQeix2xKx.jpg",
+        "uri": "pKAMTZxDrMyk1rye7uHwiUYG2pY39nrBzMchOlGAa98SeXDMMUfmZpETkkMEufEBXQgwJLmfdPUepF+/UrljAUJBIFfYCCwwwr+hIY//mG4rk3nMGQeTQD+sT3Y17N5OJRe/Vp85gm2UtLLpVnxAnQA0P6gJoJ814l1a7m3LmIulkey0OxCpnh84EKDMWYnzYwQauOxk0ZEwYhP2AygB8feaXuexE37pZ4MQ0O2PmSVtvGGhGE5vP0XSUjmMqbsu2VyjY/zziwbws/H6SAIqQ6IWm6z1tPOyrvbDleesdlOgyF+a8iZaBaZVtP2zBLI2hy1IBBPq8C0Zl+DMdVrWqg=="
+      },
+      {
+        "name": "🍿KALI 脕ngel Vengador 2024",
+        "icono": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2024/5/w1280/q6G2asNhF8v9htu53JkmtHge23f.jpg",
+        "uri": "dYP03OiS2VJaLrWjh/PE6Sayn/8Ar7O8AtLX5K6ZeGkoC3cMmiIfeyPqfuwhvwRNSpjLRytNu8DoF92k95NCkoBWD0UWvBKcJVXQ5X8E7pE="
+      },
+      {
+        "name": "🍿Zatoichi",
+        "icono": "https://es.web.img3.acsta.net/medias/nmedia/18/89/79/31/20066820.jpg",
+        "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0xAlDdPs7HoPC0ZtWvrHCw7qQWdimyb6rlEyHOtWi3I4g=="
+      },
+      {
+        "name": "🍿El Retorno de Los Thundermans (2024)",
+        "icono": "https://m.media-amazon.com/images/M/MV5BNGU1YmYzNTctZDViNy00OGNkLWI5YTYtNDIzOWZjMDY5NTc4XkEyXkFqcGdeQXVyOTY5MjA3MjA@._V1_.jpg",
+        "uri": "ZzwBDRk7rN8HnphYvt6j0FmCbzHXtYzCwIkr2IuR3uvbDM5GZQLlYLbeqPyL+1HEd9yxI7vINDPBGom1HIowwwXMsS9yF/2TBiDmGv+/QYY="
+      },
+      {
+        "name": "🍿el salario del miedo (2024)",
+        "icono": "https://m.media-amazon.com/images/M/MV5BYjhmNzFjODAtNzJkYi00ZDhiLWE3NGUtYTY0YTgzZjM5ODA1XkEyXkFqcGdeQXVyMTMzNzIyNDc1._V1_UY218_CR3,0,150,218_AL_.jpg",
+        "uri": "2ofMJ2khLDLRl7QF7jUkd8K+R9WPPWDTny8GDH8z4Cqfl030fBOfoYgTacHhZdnukNWP1X9QhcwesAr0MuWZ/DpoybWY+lTFUQGZHMkjr2mywRDgqp+X491hzUKFcpKen8iHzzmk3LoEzqOcczPFaNLWkfnE9K2S6zctXeeXu3VcCu0oSyePhSJnSThY46WIPJCuONEfQJVHa6dVpVJ57ZTeAlW4tTvfGH5Dcrg3guubJXiep0LYZsi+Yby2Nr3u"
+      },
+      {
+        "name": "🍿Argylle: agente secreto (2024)",
+        "icono": "https://movies.universalpictures.com/media/argylle-poster-6579152b14166-1.jpg",
+        "uri": "ZzwBDRk7rN8HnphYvt6j0FmCbzHXtYzCwIkr2IuR3uu8g/hMTJiEo1njHko4ytctxOEuV9k9/GJJ0erh6ePo3psUgOvmZ6rHtl3BMudvWi0="
+      },
+      {
+        "name": "🍿Indiana Jones 5",
+        "icono": "https://image.tmdb.org/t/p/w500/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg",
+        "uri": "RRHzqFgwXpR8tV/q9kGc6cFF09QkVMj2/MGGNwgtyCDG9S5QtA7XmIxbLFT5vvECqQWdimyb6rlEyHOtWi3I4g=="
+      },
+      {
+        "name": "🍿Atrapados en el abismo 2024",
+        "icono": "https://www.movistarplus.es/recorte/n/caratula5/F4203404",
+        "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0zQg3+Yu5sV8kNuqWNAtUS/D6Mkar5pOinJmGQUI6/HhA=="
+      },
+      {
+        "name": "🍿Kill Boy (2023)",
+        "icono": "https://m.media-amazon.com/images/M/MV5BNmYyM2VhM2UtYmEzNi00M2RmLTkzYWQtZGQ5MjI2MzQzMWMyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
+        "uri": "2esNaCki0M05yxHgSMaAl3Ncj8Y3UU+hEswGaHAdnsmYoRg7qHa6T1GCtURQ3O5CRkwhU08e7IqzpzLqqS70/KDn2cTOif+1lRiRZali7PmEhrCrwLpogGWvqHaUqtLo3bB4sHNNczV5HT4jrP9UqQ=="
+      },
+      {
+        "name": "🍿Agente X: Ultima mision (2024)",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXOY_odOdK-gLKXE9DXDo9pa0jz4uPudKg1-D4eF8ZzKlTgLgZ",
+        "uri": "2esNaCki0M05yxHgSMaAl3Ncj8Y3UU+hEswGaHAdnsnRaSAVf30daDwR5qcaHS8blq9X8bpvozygCIZcYXv8Q3G118WZBVKJOPDfscpMNj/hZBlNxGFHz1FL+GKe8kR6I9ZCue9KMhlX7vEAQYrBOw98p1AApOCciyf+75QcA+w7zndBh8IwAukzaTT6GADK"
+      },
+      {
+        "name": "🍿Black Adam opc 2",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRshWaUPfERijlnKVcPYBM4N37_7s4Fgo-o3g055p_H7kgP_JzS",
+        "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0x3+Da0I8mSZTSV3o2uuVwFskG2n/kfGc0GFOOfIBVtzA=="
+      },
+      {
+        "name": "🍿justiciero 1 ",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTV739qNqLxhlXQrUuBJkReDHKz5WnJaH_mgysA9uWTvQV2nZH",
+        "uri": "JgaeJ59JEhS5/ljGbfBY+ux4SemirGKpVG6MIkZq8PwR3UJqtjhdE8zgf2qbOTLrCJ7qL2sddLQQz1Xt+o0EZQ=="
+      },
+      {
+        "name": "🍿Rapidos y furiosos 10",
+        "icono": "https://image.tmdb.org/t/p/w500/1E5baAaEse26fej7uHcjOgEE2t2.jpg",
+        "uri": "RRHzqFgwXpR8tV/q9kGc6QCqTScHC522gd5XS0ys5GmKDpcx1XZWFpWIneUIZiNitXMjvyIo9cPJUsCIPZ7zvg=="
+      },
+      {
+        "name": "🍿justiciero 1 opc 2 sd",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTTV739qNqLxhlXQrUuBJkReDHKz5WnJaH_mgysA9uWTvQV2nZH",
+        "uri": "2ofMJ2khLDLRl7QF7jUkdzEtTlVYaJEIO1WkYeq9xYl0hBRdVSna1lA6jX7UPXWhstrSYFEp2lVtlgVsNoUSh+UDZFp9+ea848DuOLEWm8wenaQLQwQfd/RBydAIGFUTT26cILAGOpWiYb4f/giDGpMDVqPzEhJf73SJ4k77JeTmmqEmBchKspm7mBJ0oy/OaWRbt7OIfX59CQswAGDqBPGTO25uSdQly/b+R/NRJ4OzB3u2VLYScSEmC7XUPSVnAzk4AvrN/ove95w+22jV5Q=="
+      },
+      {
+        "name": "🍿justiciero 2",
+        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRiZmdcQP7Jf97M74EGj5utMcbjaHZVziMnotZHB5U7LAcpexLx",
+        "uri": "JgaeJ59JEhS5/ljGbfBY+ux4SemirGKpVG6MIkZq8PwR3UJqtjhdE8zgf2qbOTLrpC3W3KT+F/yXvbcRSnkpZTMQl3idK/Ww9+SsYO0bt8E="
+      },
+      {
+        "name": "🍿justiciero 2 opc 2 sd",
+        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRiZmdcQP7Jf97M74EGj5utMcbjaHZVziMnotZHB5U7LAcpexLx",
+        "uri": "2ofMJ2khLDLRl7QF7jUkdzEtTlVYaJEIO1WkYeq9xYl0hBRdVSna1lA6jX7UPXWhstrSYFEp2lVtlgVsNoUSh+UDZFp9+ea848DuOLEWm8wenaQLQwQfd/RBydAIGFUTT26cILAGOpWiYb4f/giDGpMDVqPzEhJf73SJ4k77JeTG9/YiOc9Qz1qjFc3Z0aeDZuiJkTbpnh6em+Ol134N0j8ynE7ADmvU6AU09Z4TtTqSKoXIbA5AlJAhPCTB9ao4PUXUkHnJvumeL2BrwRjTxzW7lZR+ZrJulUFNgSHh7AU="
+      },
+      {
+        "name": "🍿justiciero 3 ",
+        "icono": "https://th.bing.com/th/id/OIP.5FYWD5RQ1j912HSa9ZjNSAHaLG?pid=ImgDet&rs=1",
+        "uri": "FrH4zcSazfjYzG0zLWF2QDMu/A+UWVUVycsJWT9R11IVsYQIwggeD+906ed6TnBWC1pams8QRrH+xn7T2EVEBaLJPxfy5JCEUdPYuI/tpPiuAAcgLKVkw0M+M+NWuKWfYJ7DoTlbddWDHX8V8lEg9glYcLrzhu6kdBycaY/btFb44lapxruiKmZnqEiIe3m92C0JURM0D0F5hW9RiBO/LiOx6hqE7Eos8OUEwCG930ixYhxBnGH/AnyEsWy4WQ7hpD1azEt8O3MaW9DBFcKtzg=="
+      },
+      {
+        "name": "🍿justiciero  3 opc 2 sd",
+        "icono": "https://th.bing.com/th/id/OIP.5FYWD5RQ1j912HSa9ZjNSAHaLG?pid=ImgDet&rs=1",
+        "uri": "FrH4zcSazfjYzG0zLWF2QDMu/A+UWVUVycsJWT9R11IVsYQIwggeD+906ed6TnBWC1pams8QRrH+xn7T2EVEBaLJPxfy5JCEUdPYuI/tpPiuAAcgLKVkw0M+M+NWuKWfYJ7DoTlbddWDHX8V8lEg9mZSTREat/4jGiDoSpJ2NnphCK8fLCnHzqgsxujEyID9HMbg1lLo+dIWrecBSIJlNlUKvDjU0DzD5hBPlr97OFtrClQGOT+qiRkJ3c+BO+IZ3LPDsqbColVuvAprTGWHh8Jdjsm6wPbIh3vqHae8iVc="
+      },
+      {
+        "name": "🍿Sayen: La cazadora (2024)",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT0qO7MZuqkIyQBSWIERpA_6DoaWS-tDw7TxiLGVSlU7NI0w0Nk",
+        "uri": "2esNaCki0M05yxHgSMaAl3Ncj8Y3UU+hEswGaHAdnslaN58F784SaDd+4JAOLFy9XSnQkxM0nGqZVa3VoezYL52m/O0T8PLvTJjQ3IDJgiSAR6PB4SbtSHLFI3UcBhObmxSA6+Znqse2XcEy529aLQ=="
+      },
+      {
+        "name": "🍿City Hunter (2024)",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRxcx5C5zKZ6aWH_B5LPV9C13qS0uQc4Mi42GiimkZbSmP_o_A_",
+        "uri": "ZzwBDRk7rN8HnphYvt6j0FmCbzHXtYzCwIkr2IuR3uuT+xUs1CykBilSc1sWTrujWvKZOu/fKCInX9gEbAT1Kw=="
+      },
+      {
+        "name": "🍿Profesion peligro (2024) CAM",
+        "icono": "https://dx35vtwkllhj9.cloudfront.net/universalstudios/the-fall-guy/images/regions/us/onesheet.jpg",
+        "uri": "FrH4zcSazfjYzG0zLWF2QDMu/A+UWVUVycsJWT9R11IVsYQIwggeD+906ed6TnBWC1pams8QRrH+xn7T2EVEBaLJPxfy5JCEUdPYuI/tpPiuAAcgLKVkw0M+M+NWuKWfYJ7DoTlbddWDHX8V8lEg9rIMPzWut1XT9jOyyszdrvROV0Ews/jDqwWsjUjjSQpWEiEkdcY85edbNRwCIUcesDyQrjjRH0CVR2unVaVSee2U3gJVuLU73xh+Q3K4N4LrmyV4nqdC2GbIvmG8tja97g=="
+      },
+      {
+        "name": "🍿El sicario de Dios (2011)",
+        "icono": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2011/5/w1280/fBs0ScJQPb2xi0Jt9BGPcdaITvh.jpg",
+        "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0y4z+CRn547vBOGoQ58AvMYJm8H6MbsmdYnKUcinPrmkw=="
+      },
+      {
+        "name": "🍿Project X-Traction (2023) Proyecto Extra",
+        "icono": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHmNYTR1ULPAKYj3-alk7sLuGtf_Z3BS-Wf6ezr2IWDivy-W7NHstTAikuUl-50ddFFRraXn1I5KjDWB9Lp_XU05Dwtk9zJ8iwioaSDHy9O2XKrvG6tNRNnV3vXacKmTzE_NzIBlzBkmqcVX_dPTzGJ9wZfaikXsDkSeTCDjKRWooULBo6Qj0laVWEOKGg/s1600/MV5BYzM0YjcwM2QtN2FmMC00YjU2LWI3YzctNDZhOTJiN2VhYjQxXkEyXkFqcGdeQXVyMTU0NjA4Njk3._V1_.jpg",
+        "uri": "y5sBawRYuisjQVaMwbXJCKpG1MaMxpGl7MxzcjifUgMEPI7WWJTYMGDDCtD6U6i9noUkxaUAN5ltqr5RAucZqiw+BZiRb0huI5hbRTTTrFz6cMja+zvArvU2ZRfbtU82"
+      },
+      {
+        "name": "🍿escape bajo fuego cam",
+        "icono": "https://mx.web.img3.acsta.net/c_310_420/pictures/23/05/29/20/01/1319498.jpg",
+        "uri": "FrH4zcSazfjYzG0zLWF2QDMu/A+UWVUVycsJWT9R11IVsYQIwggeD+906ed6TnBWC1pams8QRrH+xn7T2EVEBaLJPxfy5JCEUdPYuI/tpPiuAAcgLKVkw0M+M+NWuKWfYJ7DoTlbddWDHX8V8lEg9glYcLrzhu6kdBycaY/btFanNY+diA3qpg7zLwks0IlUZGUb3EjH5+ZfPuSU2DdvFVt0pxvdr+xmOkVPhEB7wjLcs8OypsKiVW68CmtMZYeHKP46tn7zvOy/Jx+sYFVrOw=="
+      },
+      {
+        "name": "🍿CARGA MAXIMA",
+        "icono": "https://www.cuevana2espanol.net/_next/image?url=https%3A%2F%2Fimage.tmdb.org%2Ft%2Fp%2Foriginal%2FocKoEvCPX809gWsyEXRP2zTViY5.jpg&w=256&q=75",
+        "uri": "LshFyhvVDQcSSU1Qq32q/DpyeTi1wrP4z9ZCaEZhG+4CuRpzLgbG14gDOHtOHD8E1MPEEg2OKxpJh82YZrZ7/6VAoSaNY06ssKnyJ+1GdZEnDkEwsf//mZIOb9uZ93WvI6AkOPZIy18e8CDxhX4kt24qaQul5wrAZQb+TDRdkg0fvKttdNitV8yaC/Y/qg7Uom1eSglKnD7O8rRgQkFyqBaBoLS5uoIx4SATxzqbikaX5aOaY2dIGzONwfWpBq7dXTuIDrYGZA33niR6RgiFFw=="
+      },
+      {
+        "name": "🍿Señor De La Guerras",
+        "icono": "https://fsla.pt/image/cache/catalog/data/filmes/P002240-400x640.jpg",
+        "uri": "ZzwBDRk7rN8HnphYvt6j0FmCbzHXtYzCwIkr2IuR3us3aD8OeXVu97ZXsW0ICoJL"
+      },
+      {
+        "name": "🍿El mecanico: La resurreccion",
+        "icono": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/8/w1280/bG3Q6EFcngpPn7uPuQTzTuq9DgV.jpg",
+        "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0xwllvYPAH8wjHm0lgdxP1Hm6nkzlH7u9O/oEBAz0HuRM9J6hu5txcVntjZxsi5E04="
+      },
+      {
+        "name": "🍿Los mercenarios 1 (2010)",
+        "icono": "https://image.tmdb.org/t/p/w500/tDynwDj3pvexrEQ8wb0uy8EdcGQ.jpg",
+        "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0wTeV3wHeJpIRt8aCKPu+m2aVAONSkEKBw3Ju+1cOvQgA=="
+      },
+      {
+        "name": "🍿Los mercenarios 2 (2012)",
+        "icono": "https://image.tmdb.org/t/p/w500/4EBO8aIeP2bF1jGpwbuRS4CFMca.jpg",
+        "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0wTeV3wHeJpIRt8aCKPu+m25Hq/JpVJ/JFqXUMPENIV0zMQl3idK/Ww9+SsYO0bt8E="
+      },
+      {
+        "name": "🍿Los mercenarios 3 (2014)",
+        "icono": "https://image.tmdb.org/t/p/w500/d63qz4XeNtbpDC5c70AlSUIbnTQ.jpg",
+        "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0wTeV3wHeJpIRt8aCKPu+m2bw7Y4bmuSTOopJlr128m4TMQl3idK/Ww9+SsYO0bt8E="
+      },
+      {
+        "name": "🍿Tirador",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTj9GmiMagSUrLGqmYKEFBWIGL2BgunZQ5heBo8kCCNLkTSgJuh",
+        "uri": "ZzwBDRk7rN8HnphYvt6j0FmCbzHXtYzCwIkr2IuR3uvhpLEu9FgJ2uexDcqGCystz0nqG7m3FxWe2NnGyLkTTg=="
+      },
+      {
+        "name": "🍿Troya (2004)",
+        "icono": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSNBsJf7UYpkOIx9Dae_Ol1qRcgXaaULMBISQkRI-vVEnlSXzkG",
+        "uri": "FrH4zcSazfjYzG0zLWF2QDMu/A+UWVUVycsJWT9R11IVsYQIwggeD+906ed6TnBWC1pams8QRrH+xn7T2EVEBaLJPxfy5JCEUdPYuI/tpPiuAAcgLKVkw0M+M+NWuKWfYJ7DoTlbddWDHX8V8lEg9uBLe/c43T9j+W+a01K3nVEiOU3QWsrMjKqQGVvP1zgEmCT3niu/0GtQkVyFCwzh4zYN7d7TcqGAPIf8AzeVhgrE+0TJuV4VvsPi7YlECpk+"
+      },
+      {
+        "name": "🍿The flash",
+        "icono": "https://image.tmdb.org/t/p/w500/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+        "uri": "RRHzqFgwXpR8tV/q9kGc6RAVXvIXC3BrQaoBMnPtzZZ4ynHBDDIcIpxl1g0UtaHvJm8H6MbsmdYnKUcinPrmkw=="
+      },
+      {
+        "name": "🍿4Got10 (2015)",
+        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRdeipB2V1CQTshPnYrwVf5qHUpWDNFhsO1f3ZC6jEtEiF6Crps",
+        "uri": "JgaeJ59JEhS5/ljGbfBY+ux4SemirGKpVG6MIkZq8PyUZwt7w0yG7rYgvxQrpHOqnYbJAUHWdFErnzRR5sel8A=="
+      },
+      {
+        "name": "🍿Atomic Blonde. (2017)",
+        "icono": "https://1.bp.blogspot.com/-2MOCS1Qg7bs/WbE3--2OEmI/AAAAAAAACCs/Ka0LOjOIv6MnHWDzv9MDLu8AZ9I28tRTwCK4BGAYYCw/s1600/a25f2804fc990551b81458dc2c261140.jpg",
+        "uri": "JgaeJ59JEhS5/ljGbfBY+ux4SemirGKpVG6MIkZq8PzEzWeP0IszWrvZKAqVCYosNbuVlH5msm6VQU2BIeHsBQ=="
+      },
+      {
+        "name": "🍿AGENTE STONE",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMzE1ZThhYWEtZWYzOS00ODk0LThlNDQtMGIwMTNhNzk1ZjYxXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_FMjpg_UX450_.jpg",
+        "uri": "FrH4zcSazfjYzG0zLWF2QDMu/A+UWVUVycsJWT9R11IVsYQIwggeD+906ed6TnBWC1pams8QRrH+xn7T2EVEBaLJPxfy5JCEUdPYuI/tpPiuAAcgLKVkw0M+M+NWuKWfYJ7DoTlbddWDHX8V8lEg9u6+/9WiZmBIAectWsUSY0e5OVgVfWdtdsscFhpNmk68Hp6XMmPZgSJoVeBXiN6ADMN7MM2eBnTNbOByV4gSnoRG+u275sPH0ugTA1nvlPCt"
+      },
+      {
+        "name": "🍿FRANCOTIRADOR La Ultima masacre",
+        "icono": "https://image.tmdb.org/t/p/original/tPsiPGpuu4EJTyByYKEOCAapf0e.jpg",
+        "uri": "JgaeJ59JEhS5/ljGbfBY+ux4SemirGKpVG6MIkZq8Px0XWpwuxJ9wVaO+Gsnnz/hkg+Yejo3a6L5LY5iGGc1DcTQ1qruCKwd55tDfO0lpYA="
+      },
+      {
+        "name": "🍿El mecanico: La resurreccion",
+        "icono": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2016/8/w1280/bG3Q6EFcngpPn7uPuQTzTuq9DgV.jpg",
+        "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0xwllvYPAH8wjHm0lgdxP1Hm6nkzlH7u9O/oEBAz0HuRM9J6hu5txcVntjZxsi5E04="
+      }
     ]
   },
   {
     "name": "🍿COMEDIA/FANTASIAS",
     "samples": [
       {
-    "name": "🍿Descendientes: El ascenso de Red 2024",
-    "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLkqGjxV8SgzUTzXNzTOzcWK11lh4Sw0O-Cg_qTCHN6Be597Z0",
-    "uri": "dYP03OiS2VJaLrWjh/PE6Sayn/8Ar7O8AtLX5K6ZeGkIpdgktuhcg6zh0PUVLsAAe5SDIVOpTcJPa5BK3OzLVBaM9q11j1L8y5vXIu6hzVrHeUp8Z6rCdaA10ru8hCsz"
+        "name": "🍿Descendientes: El ascenso de Red 2024",
+        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQLkqGjxV8SgzUTzXNzTOzcWK11lh4Sw0O-Cg_qTCHN6Be597Z0",
+        "uri": "dYP03OiS2VJaLrWjh/PE6Sayn/8Ar7O8AtLX5K6ZeGkIpdgktuhcg6zh0PUVLsAAe5SDIVOpTcJPa5BK3OzLVBaM9q11j1L8y5vXIu6hzVrHeUp8Z6rCdaA10ru8hCsz"
+      },
+      {
+        "name": "🍿Angeles inesperados 2024",
+        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQF2QsV7wWXkJVloTGjpn7TCvsU5Z9AMgJIppaXMsObvgy7bgto",
+        "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0wW6v37QaRKS7WxbFbdP0RY9DtnzEbdO0huXoqyWVebAakFnYpsm+q5RMhzrVotyOI="
+      },
+      {
+        "name": "🍿hijos de perra",
+        "icono": "https://palomaynacho.com/wp-content/uploads/2023/03/hijos-de-perra-poster-pelicula-universal.jpg",
+        "uri": "RRHzqFgwXpR8tV/q9kGc6ZfWrRgvbD00seizidPltLOiZr5z21ONB0TVFpfCEmaitL/Blag1m6kckTXqJewgNQ=="
+      },
+      {
+        "name": "🍿CRUELLA ",
+        "icono": "https://lumiere-a.akamaihd.net/v1/images/outfit_domestic_teaser2_las_94429e25.jpeg?region=0%2C0%2C770%2C1100",
+        "uri": "pwLD7o1SCPYLXoTxc8tRoXTg+ra812kgvpJW1s7byqmilQxF19EUOv+hCyXBqW3s"
+      },
+      {
+        "name": "🍿BARBIE LA PELICULA 2023",
+        "icono": "https://image.tmdb.org/t/p/original/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
+        "uri": "c4tii+Oh95rsYVPPmw+XS+ZSjzBE2z/38ZnUj4c54k3VzmVnxbcZuTe1UnsJxkOj//0lQxUn/hvtPIZCkt74Pw=="
+      },
+      {
+        "name": "🍿Sex and Zen II +18(2024)",
+        "icono": "https://i.ebayimg.com/images/g/hOkAAOSw3PFgweSs/s-l1600.jpg",
+        "uri": "2esNaCki0M05yxHgSMaAl3Ncj8Y3UU+hEswGaHAdnsmgYqgUH1UN/M8HZpl1loDcRPjNulWUhhzFZ1PnahZ2KH5OAXyAi3i9O+wuvfTD63pcWfyfVbqYX5rR10YqiDbFNbfXLW68ba2JynPaGnjg9A=="
+      },
+      {
+        "name": "🍿Los juegos del amor 2024",
+        "icono": "https://images.justwatch.com/poster/311707461/s718/kill-me-if-you-dare.jpg",
+        "uri": "pKAMTZxDrMyk1rye7uHwiRXfoYdhGmrDolFUpkNTTPRs88MkdhrOwQsUllASer0wD8XlRP9C2OxmG/G/39kXQRCyP+NYeMvTESexy/bOGCG5pQgkLzkDCCVbTBLril/z3eBRK0/2c3hE//m7/oKA38VftfscPWcmy/nisHDnZH117/YSiSXspoNOHowA0N88djHaN/85EcT9mxjGpRph2rUvP+BYm/RvbbLpCIwJ6ug="
+      },
+      {
+        "name": "🍿El reino del planeta de los simios mejor calidad img(2024)",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg",
+        "uri": "XVx3fiw0+fHK5mNHaFdCmWICMIPbc/ba+At3QECe9kZdwqM/d5Yw5DWQrQQS9dQUVWluBBvaLL/ZtOO+F+QzeQW0ix8ZhH4RQ/nCUjRsUU0="
+      },
+      {
+        "name": "🍿El planeta de los simios (2001)",
+        "icono": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2001/7/w1280/rRvUkYCByrlVMy4GMME3iDAe6er.jpg",
+        "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0yvJo5rpMkC2p1kIpo1if6gAa30X4jEhlpp3PmoVNV2cKkFnYpsm+q5RMhzrVotyOI="
+      },
+      {
+        "name": "🍿Batalla por el planeta de los simios (1973)",
+        "icono": "https://www.aceprensa.com/wp-content/uploads/2014/07/119450-0.jpg",
+        "uri": "2esNaCki0M05yxHgSMaAl3Ncj8Y3UU+hEswGaHAdnskkKFi8j3TxUCNhlDiWi8GfVYhYskBI1XzJgVJ6dRjDysBUgk4Bzi3ri1q7oARaJ4MmGLtIAV+vIS7GRk/dDyhUopEAUp5+8XoQgWL/8BW/67tLAlu+DRksMPZjnXWoAEwVcx33aLIptPOniuJhktn9B55zAYLv3Y0ao7htNf5aKaiXCaY1alvt66bgeqhAVS/HeUp8Z6rCdaA10ru8hCsz"
+      },
+      {
+        "name": "🍿El planeta de los simios: (R)evolucion (2011)",
+        "icono": "https://musicart.xboxlive.com/7/bcb13f00-0000-0000-0000-000000000002/504/image.jpg",
+        "uri": "2esNaCki0M05yxHgSMaAl3Ncj8Y3UU+hEswGaHAdnsmNT6EXZtu+GiMBZahILkDKz472GyHMsTGaxzmqQpyXT1eoOte+weGR9P8EAVkieXmzzVeEnOGe4UcJ4glcF2oiUeqGW4Se4htMXRlNNt2n+IHy99ErKqbWiARRq6B8wCwpMcQuX+fsmC9wdJhbmKfE"
+      },
+      {
+        "name": "🍿Godzilla y Kong: el nuevo imperio (2024)",
+        "icono": "https://cdn1-production-images-kly.akamaized.net/X2TwL_QHmKMwpIKPRxnTLPW-XjU=/800x1066/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3434129/original/036544100_1618898169-MV5BMjk1MDc2ZGQtNTdkYy00ZTRhLTljNjgtZGVkNWUyZjYyOGFlXkEyXkFqcGdeQXVyMTE5NDQ1MzQ3._V1_FMjpg_UX1080_.jpg",
+        "uri": "air95tx/A0QghhB+S1myn/4xl1vH8A84srbxfHrDy5ZEw18Bv0xQeP6XcwT3Ij6L"
+      },
+      {
+        "name": "🍿Godzilla Minus One(2023) ",
+        "icono": "https://m.media-amazon.com/images/M/MV5BOTI5MjNjMTMtN2NiNC00YjBlLTgzMWQtMGRhZDZkYmY1NGU2XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg",
+        "uri": "2esNaCki0M05yxHgSMaAl3Ncj8Y3UU+hEswGaHAdnslqjc70ZmjIkVGf4X8EZsPpt9BgKhOCSCTetrDfh88+p86kPFjOvZCJYmgB89/enCBpTGH2bRq6XlHPpzP0detjrq1Gf/J5yqeSNXPXwpl4MQ=="
+      },
+      {
+        "name": "🍿Cazafantasmas: Apocalipsis Fantasma (2024) HD",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfu4raUJqEj_Q8L9PZvb3b1-mzwpixgdq-G_uafdAIYxSMdLdW",
+        "uri": "air95tx/A0QghhB+S1myn/4xl1vH8A84srbxfHrDy5YP80+Hv4lmbBu1DntFetP1"
+      },
+      {
+        "name": "🍿Cazafantasmas: Apocalipsis Fantasma (2024) CAM",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfu4raUJqEj_Q8L9PZvb3b1-mzwpixgdq-G_uafdAIYxSMdLdW",
+        "uri": "FrH4zcSazfjYzG0zLWF2QDMu/A+UWVUVycsJWT9R11IVsYQIwggeD+906ed6TnBWC1pams8QRrH+xn7T2EVEBaLJPxfy5JCEUdPYuI/tpPiuAAcgLKVkw0M+M+NWuKWfYJ7DoTlbddWDHX8V8lEg9vsNZ1sS+RBW80qM5lm1ki5ZFVJEBca3DZ+xy2LyuRoX20CUgyJppny2GkLFszG5qMnBfOkc+/3lgGqGmGYcOkjdvKtmbcG1RSxYxU6EpOGXwcfRL6D6LzO0DZ4KuSTNJ5sUgOvmZ6rHtl3BMudvWi0="
+      },
+      {
+        "name": "🍿Ricky Stanicky: El impostor (2024)",
+        "icono": "https://www.funcinema.com.ar/wp-content/uploads/2024/03/ricky-stanicky_uno.jpg",
+        "uri": "FrH4zcSazfjYzG0zLWF2QDMu/A+UWVUVycsJWT9R11IVsYQIwggeD+906ed6TnBWC1pams8QRrH+xn7T2EVEBaLJPxfy5JCEUdPYuI/tpPiuAAcgLKVkw0M+M+NWuKWfYJ7DoTlbddWDHX8V8lEg9vsNZ1sS+RBW80qM5lm1ki7wompvAPjBKruJ4JP2vflwBx9N/00HakdFsMXgj35XtN3NhY14mDU5NV1ukizz7tbWZYata+G7urroaXEmogf+LzxIps/Tis0JK+O3NSvnSA=="
+      },
+      {
+        "name": "🍿Los menos preciados (2024)",
+        "icono": "https://m.media-amazon.com/images/M/MV5BMzQwZmNjMmYtMjM1MC00MTcxLWI0MmYtNDk1NzhhNWZiNjUyXkEyXkFqcGdeQXVyMTMzNDE5NDM2._V1_FMjpg_UX1000_.jpg",
+        "uri": "RRHzqFgwXpR8tV/q9kGc6UOoUONUYLzJFunCvA2Kk4k+uZJimw87AVt1CkCLxf7wWaf2EzgiiIuINAsLtw/41A=="
+      },
+      {
+        "name": "🍿Chicas malas (2024)",
+        "icono": "https://m.media-amazon.com/images/S/pv-target-images/a825a8008da419f7baf9268418a044fcb755e3297c29da0eb7cd70a769745ad6.jpg",
+        "uri": "FrH4zcSazfjYzG0zLWF2QDMu/A+UWVUVycsJWT9R11IVsYQIwggeD+906ed6TnBWC1pams8QRrH+xn7T2EVEBaLJPxfy5JCEUdPYuI/tpPiuAAcgLKVkw0M+M+NWuKWfYJ7DoTlbddWDHX8V8lEg9lhVdCv6meW0simeWTkOoefzsW5wqeJQUeTPtgiYBV71BY+nil0/ufEhZsUcTbZ30Axmq7GlWwt+xGQKzYVA0O4SqMmc5UUOfdAJ0eLZ7rIf"
+      },
+      {
+        "name": "🍿los segundones (2024)",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8PpwRkZk7bUmFbgG70Z0IYROFKQjTaKGkI-KDBGhWUAcw0pKs",
+        "uri": "FrH4zcSazfjYzG0zLWF2QDMu/A+UWVUVycsJWT9R11IVsYQIwggeD+906ed6TnBWC1pams8QRrH+xn7T2EVEBaLJPxfy5JCEUdPYuI/tpPiuAAcgLKVkw0M+M+NWuKWfYJ7DoTlbddWDHX8V8lEg9ueP19yrXR52weoC95tP5y6oNxYZ5KKv+8u5AxOqCmBck/Bz8tXvE0UTkxZQzbsCzeO5c+FzU46beoCAGrZ7iFT9oPwor8DS9Cnq65DaMeVZ"
+      },
+      {
+        "name": "🍿Qui paso ayer? 1 (2009)",
+        "icono": "https://image.tmdb.org/t/p/w500/uluhlXubGu1VxU63X9VHCLWDAYP.jpg",
+        "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0yWrsjXiSQiDPt2Ees72dR915Ep4PhCiRWneHtsL8wbCg=="
+      },
+      {
+        "name": "🍿Qui paso ayer? 2 (2011)",
+        "icono": "https://image.tmdb.org/t/p/w500/jrP9zmdSUpOzzUXpEqPqg3dryUr.jpg",
+        "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0yWrsjXiSQiDPt2Ees72dR9viC449nw9Tzhy4oiwdxsBgJ7BXFMYJZNpPNTp3F5olo="
+      },
+      {
+        "name": "🍿Que paso ayer? 3 (2013)",
+        "icono": "https://image.tmdb.org/t/p/w500/vtxuPWkdllLNLVyGjKYa267ntuH.jpg",
+        "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0yWrsjXiSQiDPt2Ees72dR9viC449nw9Tzhy4oiwdxsBmtTryrVHpnjZv1Cg3y7xfw="
+      },
+      {
+        "name": "🍿Maquillame otra vez",
+        "icono": "https://image.tmdb.org/t/p/w500/hAKV3WLdHOL313IImAoR2GFWC1W.jpg",
+        "uri": "RRHzqFgwXpR8tV/q9kGc6fmcWyzYd132jQNqPdv2rwzlaEl7y8tS1MHv6s3r4ND9eiQed2ZmZjp5b+IzAeZtMQ=="
+      },
+      {
+        "name": "🍿El mejor del mundo",
+        "icono": "https://image.tmdb.org/t/p/w500/9xvEhZZMOmLIkqe4khrtF5TkOnO.jpg",
+        "uri": "RRHzqFgwXpR8tV/q9kGc6dXQ6rigWd1Zg5wF9FjN/AV3UuIwaBciawYrdj3P4zJH/lfY2Nv4MhDa0af5s4TA8Q=="
+      },
+      {
+        "name": "🍿El musical",
+        "icono": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/8/w1280/170NAAp9SkSk9kTnSioqjR1p2RB.jpg",
+        "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0yvtKNUFflguoDtHblyGTX0/sD0IOUWruEXr0K8qUhcZbVzI78iKPXDyVLAiD2e874="
+      }
+    ]
   },
   {
-    "name": "🍿Angeles inesperados 2024",
-    "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQF2QsV7wWXkJVloTGjpn7TCvsU5Z9AMgJIppaXMsObvgy7bgto",
-    "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0wW6v37QaRKS7WxbFbdP0RY9DtnzEbdO0huXoqyWVebAakFnYpsm+q5RMhzrVotyOI="
+    "name": "🍿ARGENTINA",
+    "samples": [
+      {
+        "name": "🍿El manosanta está cargado (1987)",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ljCjFcVeFq6vkAMYQLieVbTLz0B.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2biLmoK0OEaZ/oC/v233fYUcsVcKcwEUaEPAnyPsQ7z3PJSqW2IfuUDA5tnVj7nAOlaH6aQX5fN7G3D8EYQKv37ojwPHBEVD3BFNCNXXC1xGMxCXeJ0r9bD35Kxg7Ru3wQ=="
+      },
+      {
+        "name": "🍿El Rey de los Exhortos (1979)",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/u2GPP9MMNSI4644WJJeVDdyJb5d.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2biLmoK0OEaZ/oC/v233fYUcsVcKcwEUaEPAnyPsQ7z3PJSqW2IfuUDA5tnVj7nAOhuBmfehFc80QCSQi2d/5MVPzM6gqVbUGwFWb+Px8IhQ"
+      },
+      {
+        "name": "🍿Expertos en Pinchazos (1979)",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3aP4rQoaJsUSJEsIsO7YKjFEBpg.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2biLmoK0OEaZ/oC/v233fYUcsVcKcwEUaEPAnyPsQ7z3PJSqW2IfuUDA5tnVj7nAOpcBR69kNOJYW/iv4YEWCtna6wi1vy9pZsz8AGR7Gggs"
+      },
+      {
+        "name": "🍿A los cirujanos se les va la mano (1980)",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/tFUOUn3XGoMurj4cMhr7jgpm494.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2biLmoK0OEaZ/oC/v233fYUcsVcKcwEUaEPAnyPsQ7z3PJSqW2IfuUDA5tnVj7nAOkdu3pt30J37hRzI+MyLxTw+fyIEI9ApDCHuZyAJjUyqDaFWM2M7lRjLs3NRecdHCQ=="
+      },
+      {
+        "name": "🍿Así no hay cama que aguante (1980)",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/wmMG2JCuiRRibnUmsRd7S2DP2qK.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2biLmoK0OEaZ/oC/v233fYUcsVcKcwEUaEPAnyPsQ7z3PJSqW2IfuUDA5tnVj7nAOijkiOzIrIkyHR5i1odOjPoet2G4lzjx0Z2YYvLALZ2lmxSA6+Znqse2XcEy529aLQ=="
+      },
+      {
+        "name": "🍿Basta De Mujeres (1977)",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/3ogA7a2JYib5jvkTyuTQP4UYVK6.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2biLmoK0OEaZ/oC/v233fYUcsVcKcwEUaEPAnyPsQ7z3PJSqW2IfuUDA5tnVj7nAOgw4kGO0iJymsx4MgHqzuLCcJjNQHCdTAgA3Nudublve"
+      },
+      {
+        "name": "🍿Custodio de señoras (1979)",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/ep9WimkMSFri4AlnOBrcMVzQdeh.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2biLmoK0OEaZ/oC/v233fYUcsVcKcwEUaEPAnyPsQ7z3PJSqW2IfuUDA5tnVj7nAOuPIjyMc+bbQnf9w8EmpMPcqZ0q6DfNV/GGH58G6Kj1y"
+      },
+      {
+        "name": "🍿Departamento Compartido (1980)",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2bE8zWz6TjfRaD4EqhT8RtGAgC6.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2biLmoK0OEaZ/oC/v233fYUcsVcKcwEUaEPAnyPsQ7z3PJSqW2IfuUDA5tnVj7nAOuPChxSeIdKkpt6iUzDwjlBAmpy8iM5A6byZEpZu++qn"
+      },
+      {
+        "name": "🍿Fotógrafo de señoras (1978)",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/c81vHLIkV02GjFqGkWb8sif9lRA.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2biLmoK0OEaZ/oC/v233fYUcsVcKcwEUaEPAnyPsQ7z3PJSqW2IfuUDA5tnVj7nAOnFKvJt2nBOikBtgh9TpNGTqWD97RIw4pd6Bi09JbUac"
+      },
+      {
+        "name": "🍿Galería del terror (1987)",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/iByxpRT961YbeZdN8HJsMdCOKLZ.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2biLmoK0OEaZ/oC/v233fYUcsVcKcwEUaEPAnyPsQ7z3PJSqW2IfuUDA5tnVj7nAOo276BePwhWbwmIw5r5mu0jHeUp8Z6rCdaA10ru8hCsz"
+      },
+      {
+        "name": "🍿Hay que romper la rutina (1974)",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/Ai3fMmUF3ysxmvHwGINr2wgeP6E.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2biLmoK0OEaZ/oC/v233fYUcsVcKcwEUaEPAnyPsQ7z3PJSqW2IfuUDA5tnVj7nAOuTEGOR5k6ak7XplgDaadbv1vLrtPjy6DpuxCfC9rsWb"
+      },
+      {
+        "name": "🍿Las turistas quieren guerra (1977)",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/y9K3xV0DAkWECJWWE4oKWXALv7Z.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2biLmoK0OEaZ/oC/v233fYUcsVcKcwEUaEPAnyPsQ7z3PJSqW2IfuUDA5tnVj7nAOgwaX5lD/D7jrvq1VSDUtiFmU9nar+kHSilZd2JW7DYBmxSA6+Znqse2XcEy529aLQ=="
+      },
+      {
+        "name": "🍿Los colimbas se divierten (1986)",
+        "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/2e7PoV7nwsu12FZPHuD6Zp5k9z8.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2biLmoK0OEaZ/oC/v233fYUcsVcKcwEUaEPAnyPsQ7z3PJSqW2IfuUDA5tnVj7nAOqX5ka6tnRByWOo9PHV9EdwpnxGSW5NmpID+Op4I0gsj"
+      },
+      {
+        "name": "🍿El clan (2015)",
+        "icono": "https://www.aceprensa.com/wp-content/uploads/2015/11/352161-0.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2aja3Ke9PpBSl+Qh1q7IWZOK3wHTTWIYCvPI6bkQD+EnGo6UI8h+NM+BcfYZHDmpxZsleJ6nQthmyL5hvLY2ve4="
+      },
+      {
+        "name": "🍿la nona",
+        "icono": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/1979/5/w1280/2QndvyxwCWS9wKfwOXawNhgiDNr.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2aja3Ke9PpBSl+Qh1q7IWZOK3wHTTWIYCvPI6bkQD+EnYGkDPXKjZQbizozciynKeZsleJ6nQthmyL5hvLY2ve4="
+      },
+      {
+        "name": "🍿Esperando La Carroza ",
+        "icono": "https://m.media-amazon.com/images/S/pv-target-images/f5732056691e167894944daa8eeeb087fa474c0952b98f684c33c3402f01a92c.jpg",
+        "uri": "WLqCvVRVLlp70RVAVmUX2aja3Ke9PpBSl+Qh1q7IWZOK3wHTTWIYCvPI6bkQD+EnmsRQqNNjXoXT0Q7U3Qyar9naSffGmfK1aw3Hr8UBUqk="
+      },
+      {
+        "name": "🍿Nueve reinas(2000)",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjdXEbuIqtHJveqQP0FgUQyBa5-WqBDRyt09DIluZ9itXHUiml",
+        "uri": "PieKW3Tj9RSHDO1/43uuAhxxVkUKbsXETRWJCjPFgxQ8YcKoBiK6U8/dWJN6/NKCd7XMD9eovM9nIRMW+xNYuASdUQi/gHTeFnXbaFd4ZoDGASsWmSaXIj4ZREiWmFj6EnSrj7o6amHdfwNnt8ANkLTPviB9X7XyVcOlhAmAJww=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "YYuPV/p+fd/Ui2CcjMqcfQTqS60KVMhlhwlDyllvjwapEbaR0WBUtsZ7phNNrnECCNspNcnFAbo09wGYfRFCuHeWt2IOODAAgE0190IYB9pUoA87rYWWRurXJSJgAJvv8kh2AaDx8sg4+YPkMFEP5SlLGT3aGwLu9XBC7cJKbdZFIG0tvHoid8jzBYtuK4mqMxCXeJ0r9bD35Kxg7Ru3wQ=="
+      },
+      {
+        "name": "🍿Argentina, 1985",
+        "icono": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSIyv8_PwPoMrG05lmwk2fNw_hrqqzlsjKzMik8Y4KAWvkIZsc-",
+        "uri": "AH9VNWnq1PgiuV8XfRHmRS1vVui05QECEfIx8y0clL85rvdMUjmBb2yWGnce7BE02YfW0PK4+xPXgbX2SqolTTW7lZR+ZrJulUFNgSHh7AU="
+      },
+      {
+        "name": "🍿Nahir (2024)",
+        "icono": "https://i.imgur.com/Hf6OadJ.jpeg",
+        "uri": "2esNaCki0M05yxHgSMaAl3Ncj8Y3UU+hEswGaHAdnsknrbARXztiB3H4dV2iCGafs2jyF3Jc0HyxqskUyLYPXE3/KRjHl/jHq2LMvQFfYodrxbo1kgsL/GzPvbJDa3Zx"
+      },
+      {
+        "name": "🍿Relatos salvajes(2014)",
+        "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfQLe-7nnWM87HAykKl-lySTO4pVKyMDBVH2HXMjuA82EmlwnT",
+        "uri": "EVjzkPPoDu3ELCPjh6TL8rvX9X0L0xtiUiaxc1Dil8fzGNFrnhvGSUR7rXP8CDoSTl8f5Wu0dARmkjpf37T3Ng=="
+      },
+      {
+        "name": "🍿Alma mia",
+        "icono": "https://static.flow.com.ar/images/vod/vod/350/500/0/0/31460775.jpg",
+        "uri": "PieKW3Tj9RSHDO1/43uuAhxxVkUKbsXETRWJCjPFgxQgUlMJlf5ObHSZmDWgzswneE3NTEj90tuPCsHb7T4+KuhHXLKyVOQxkFhVlWrTaRhh4S/PuD4FidO0SVu5KIa11Nx6miOlNdTmSJ/Dedw+HZSa0DwnvFckHccKd0BQ290=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yWlGVKlexYFeF0Rhv5/Hz3ADuD5yisP8NM8YPNM4TYWPqCXLqSTT26O6wJuYzdWnrYQPFYVLG+XdXSKl8pcDvRf0/oJQRFTyeTzOIseASOrwi16+/GCFVBq5CpNPRLcCeQ=="
+      },
+      {
+        "name": "🍿Anoche",
+        "icono": "https://static.flow.com.ar/images/vod/vod/350/500/0/0/31463760.jpg",
+        "uri": "PieKW3Tj9RSHDO1/43uuAhxxVkUKbsXETRWJCjPFgxQ8YcKoBiK6U8/dWJN6/NKCLrTOt+lXw4D9aDM9XIJxc0D2rnQicZQ0UwtasT43Lb3iPtgtRU1rN9FnKhJ3cfKjkn/UAejmSp/J2a0vZ6kCVA==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yalt4FxLA2vWOypsR0cTMRe0albtYl+FPpWPL3PJGdwhaDdFFF/W2Un0BJu4/kgTTUcIAGochzPW0f9B5MJCl0J9fgq+XmqlD6n8L+CpaUmcRjARV/V6hlpoQTvlAuhDHA=="
+      },
+      {
+        "name": "🍿Apariencias",
+        "icono": "https://static.flow.com.ar/images/vod/vod/350/500/0/0/31461334.jpg",
+        "uri": "PieKW3Tj9RSHDO1/43uuAhxxVkUKbsXETRWJCjPFgxQgUlMJlf5ObHSZmDWgzswnmYuz6vQx+OOZ1KsezV48hqYsg8tc2VlRPsSYb92+bkvmkDWk97hLEPEr6bOeMsTpgx7ICHPTuLl26xIblXW1CHhI59r9tMwAU+cJSDPB+2g=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yd6nk6k39QZVz5cjoJAY5VICJj3OWgYqJO5vb252n8dGupm1zXY0pJSfzDlybU42BrDhVGeW9zsGW1Yc/6aIFSD2jj6Q9lv3y+Czz5SmArgZ/WLbIwxoFL/VShWsuUo6Bg=="
+      },
+      {
+        "name": "🍿Apasionados",
+        "icono": "https://static.flow.com.ar/images/vod/vod/350/500/0/0/31461141.jpg",
+        "uri": "PieKW3Tj9RSHDO1/43uuAhxxVkUKbsXETRWJCjPFgxQ2QKuyAvyWGzC/qBf2yuFOqXZ81BhGqMSH8kPakkTTrC/S3H7S5o+LNGEw+PqsD4JmaFJvVJRWifg3pPaNy/xC8yi0NjefxAyQnra1Oni/emqzcRsSCJMXhcKx+fyjxLw=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yaAue1ezDFY+FCDH2TjQyqJnuHdIMl/qqQ/EMwhznfi6AdlxHzeykuWNWehtFwTSLCzVKHVNzoloH0UyOpWUxs98HIzDMRj7pYJc1vP53FAEpBsLc4fs9UVFs7lPJcKMww=="
+      },
+      {
+        "name": "🍿Bruja",
+        "icono": "https://static.flow.com.ar/images/vod/vod/350/500/0/0/31519366.jpg",
+        "uri": "PieKW3Tj9RSHDO1/43uuAhxxVkUKbsXETRWJCjPFgxRIGqJCcZoWH2iZPieYcEkV9Yybo2M+vWobBp/s7WCUtpv7g6uuLhSoOtjbFmdkZjxB10Bo3sLdnXH3s4Vzgi84iPzy4JtBfvSiAlR7Su6cUQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ybwgpa5s55dG3Gj8OM55cEvwGe+KGCl2txz9MWLbdkKkRh79oeZh1UxFfAxgfadWxJPtmk+3o+4Xav2UYeUBZNO9z4g3g1Eu6rj0Db5x09sLhvu5J522tSGLzLAkzd5rhg=="
+      },
+      {
+        "name": "🍿Cara de queso",
+        "icono": "https://static.flow.com.ar/images/vod/vod/350/500/0/0/31429522.jpg",
+        "uri": "PieKW3Tj9RSHDO1/43uuAhxxVkUKbsXETRWJCjPFgxQ8YcKoBiK6U8/dWJN6/NKC9H3Fs0Vic+OQni8IZAS0VlF+x5SKy0rx9n4Vf715Uh++Ks+jJ//8EjbWwjKyA8aIYqHu46qoRLd48H0eIvrFkNnBEATFryOHpk8jnyE5wh8=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yX0J8xUsQhfJF89VMhZNaISGtH7HlIYdnJn8fAggA32jU6KpKMj19BJTetgf22S0XxjGSYiaRqqkBVUWrJvzBvAUWcJ+KTwbTalGwcT3gz9FzSP5Dj87auCSFvfMw8iG5A=="
+      },
+      {
+        "name": "🍿Carancho",
+        "icono": "https://static.flow.com.ar/images/vod/vod/350/500/0/0/31461097.jpg",
+        "uri": "PieKW3Tj9RSHDO1/43uuAhxxVkUKbsXETRWJCjPFgxQ2QKuyAvyWGzC/qBf2yuFOTCzGU7DzM/W8E8eJRNqkZC1i3/hAu8FqnKuzhOEMQRiBGwAOAv7Fwj6Y3gQYTX+zxoD51BdJ/9pSenBZ7Asd1JSa0DwnvFckHccKd0BQ290=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yUKtwfu267fCii6Bknvjh8vIM23YYuaJ1fmQmK39bzP/V05ISRuLiTe2BsRRQG/yowwGa4vmRV8i4SF6QVlHwLQjIIUlcfGVP9h7O1/2azTrHnbmhP1t2mJYyHE7gPsJvA=="
+      },
+      {
+        "name": "🍿Carroceros",
+        "icono": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwQVvKnIEauruIhdD5EE7al-TRlyECgxcA3TXACFBEql7bYYmE",
+        "uri": "PieKW3Tj9RSHDO1/43uuAhxxVkUKbsXETRWJCjPFgxQO1R+wdk39hnSi/L+WlLIvoNjDuk+iCUm1Nzq1LSriQpo6jSJK1XKcxy3hdQVg54iAX4DpGvicuTvPavLwBwJ4ydpdJ0ID3c6rTMTcyg28ddx07ZgnW45TWpwVYt9QXtk=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ySCfVzq/wyb7U7SmgZkGfGg8/VLSXhbbc0tmDeYYw3wUx0a+kaM3FflrDQonhoow6XahSYMdaWIIq5LQ9AXkq8b/ualGtiHEJhMPe0zRe6ldB8O/zguICmkMk64onDsSaQ=="
+      },
+      {
+        "name": "🍿Cerro Bayo",
+        "icono": "https://es.web.img3.acsta.net/pictures/18/07/20/22/50/0153815.jpg",
+        "uri": "PieKW3Tj9RSHDO1/43uuAhxxVkUKbsXETRWJCjPFgxQO1R+wdk39hnSi/L+WlLIvQt28xP+G5wAE7Ik/7SEr2aSriVr+04O74VponUr94OeAX4DpGvicuTvPavLwBwJ4ZzCvm84sDkFmKRw01BQ1aSFd+dczyiBdnfS9akLCtSs=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yRdnN6oqaeTuGeJBpQa8MesUvECtwKGIyLBLPVpnHatoaXxYQDpT9gBjJPdbldvGv27j90yttnoPaE1kY1Hbxv5r17VmEfbl2UtOF202Mw4HaUmgvcNh0dO+kXJL/yP6qQ=="
+      },
+      {
+        "name": "🍿Comodines",
+        "icono": "https://cinenacional.com/wp-content/uploads/2018/01/0000018824.jpg",
+        "uri": "PieKW3Tj9RSHDO1/43uuAhxxVkUKbsXETRWJCjPFgxQgUlMJlf5ObHSZmDWgzswnDiUE4hKVQH7Bid3y/o+PfjCVj0w1zO+Ccaf8xjAvdMm6anaaukeuBekJfi1Kk3QIMvsI1SdGXBBkEKUj9B4Q98ZiD20XIsC8LwS5lQ98dZ8=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yTF1cWcbvM2RlvmnKxDrGFzMI917Pug/oYS1NYzM3lIVBr1BxfcV7zE0Wcg2A0OmsFhNBLYYW0ei7XtXL0rElwQG2Uyk6/2lUFrl7fOtQ6DuTyTOrrHcXs9hXeMGABJYfA=="
+      },
+      {
+        "name": "🍿Conquistadoras: Mujeres argentinas en lucha",
+        "icono": "https://img.yumpu.com/14707181/1/500x640/las-mujeres-y-sus-luchas-en-la-historia-argentina-ministerio-de-.jpg",
+        "uri": "PieKW3Tj9RSHDO1/43uuAhxxVkUKbsXETRWJCjPFgxQ8YcKoBiK6U8/dWJN6/NKC6YC/K+yvN1I0O0w3dxuKcD4ja9nHGiNX4lwGoPVD/RQqWfXskSRuEMfHqan3442sZlSSdj1Zw4owQcRZach0aAmeQimvxFhPe4la9ayPgUjpKROHXI6loYA/XMmNOej6",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ydGioaD9gxhZHerIOA/ayxKi2Qiy40VSL7Y66nIaYRYcCQA/EtIhjcFY2g/zwUbWTdUejIZFJshvM2TXhQi5bHSWow5PAA7a55GJe2qMT5mtqPBPPwQEO0xxJRbnhUqa3A=="
+      },
+      {
+        "name": "🍿Desamparados, bajo el agua",
+        "icono": "https://static.flow.com.ar/images/vod/vod/350/500/0/0/31523000.jpg",
+        "uri": "PieKW3Tj9RSHDO1/43uuAhxxVkUKbsXETRWJCjPFgxQ8YcKoBiK6U8/dWJN6/NKCxK8jMV57yGZmLzYhja3/m+SnCAtUW2rAp1s9Y/CuIoUqWfXskSRuEMfHqan3442s9B5XqOxuA1S24liECne9bX6392JVfB/cS5dGujv2qkq1ftVx091zZgkGTpCQPsSX",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ybNhqcdygmrpcSrYLeHiEUl0tO8yxPxuadmHn1UKGRliySIeCM2MVpKC59VDdn4RIP3TQNEt4wVeXwV6njnH2ZyTuxk4XNubZZLBOw11kHhnWjQ9g0wG3pB5gICew04cFA=="
+      },
+      {
+        "name": "🍿Camila",
+        "icono": "https://static.flow.com.ar/images/vod/vod/350/500/0/0/31382663.jpg",
+        "uri": "PieKW3Tj9RSHDO1/43uuAhxxVkUKbsXETRWJCjPFgxQyhNNOP5KmheeImhzOONuieC/MYblgjMjLkmEcfkJkKyQLdWGyw0yL0H7nt5fGlG23wYkRHhhgSS2x2O1/u2aKw0Nu+1ZN8WazHrDf8ShJrA==",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ya+IZNSIms7eCcJGv5RIG7LKRHKHAsuIzREitqO7T99mTsgiO7ekVJ1GmhteTxbDuUUap/743MrmPAXCg7AywPHiROdHfQX42oyvTP+GvMZX04obIZ5ZVLXLaru5h934NA=="
+      },
+      {
+        "name": "🍿Asesinato en el Senado de la Nacion",
+        "icono": "https://static.flow.com.ar/images/vod/vod/350/500/0/0/31530250.jpg",
+        "uri": "PieKW3Tj9RSHDO1/43uuAhxxVkUKbsXETRWJCjPFgxQyhNNOP5KmheeImhzOONuioGQvaAu78ItW/kyKeu/LXgZ/q72I5toCKfrefbL8bKxjN+GOz7fzZcMXqkOnJdzT5aBmNYezohnC8812cOYQDYqlvhNRy0GhZxM+fmlQ4PoBx74S7XMcKpqTI/lBfSqp",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yW0hkQSHOEACfbvQDnyvOisqHXbKnd8mV71dZml0leCsrdt8JB7SZbEBi2knJd9PP+7QwgdmgtZ1RqvGNxSG6c4EON/8VgvKNCThtRzun5+DXqZez1rs1K2iL4nuqL5gxA=="
+      },
+      {
+        "name": "🍿Fatima Superstar(2018)",
+        "icono": "https://i.ibb.co/72wJFYc/05.jpg",
+        "uri": "MzT20qLrnT/yXO/p2aGFyTKB4bF5Gssntap7D16qYpDKroaHV2ojrq7vZXKypmS45IemefWlZf760mWIW87akTMQl3idK/Ww9+SsYO0bt8E="
+      },
+      {
+        "name": "🍿30 noches con mi ex",
+        "icono": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/8/w300/nXbhchOec3MKtAcKPO82Qu8r5AW.jpg",
+        "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0zkLsDiGI39r/vjGRKnN8Ty8itqEOuiQGDCVTuHHM6NJNAmgFt2CpoD3NA1FLeDoNM="
+      },
+      {
+        "name": "🍿El club de los malditos",
+        "icono": "https://static.flow.com.ar/images/vod/vod/350/500/0/0/31524222.jpg",
+        "uri": "PieKW3Tj9RSHDO1/43uuAhxxVkUKbsXETRWJCjPFgxQ8YcKoBiK6U8/dWJN6/NKCe/xGQo47TFD9BpGF8AWCctpjL6VAuIByUI/3r5ko8lIqWfXskSRuEMfHqan3442swDV7jI+80n1PSYxzQK5IB9khVRf3b2lJQB67d9XgMOAFh2HUCvMNXTkhD/1gWfuQ",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3yatuzlPj/fvfVU4il0zOtDyFGKuPDh9/z3gaZEKb6JHZp7eYB3aC27j1Dv+vXWHTyh90EQ1bWZ92z3A3Z7WSP47oF3O6rPEJkwXgmSnCyUdAE6BSjyc+GcqYW/qFsXHWig=="
+      }
+    ]
   },
   {
-    "name": "🍿hijos de perra",
-    "icono": "https://palomaynacho.com/wp-content/uploads/2023/03/hijos-de-perra-poster-pelicula-universal.jpg",
-    "uri": "RRHzqFgwXpR8tV/q9kGc6ZfWrRgvbD00seizidPltLOiZr5z21ONB0TVFpfCEmaitL/Blag1m6kckTXqJewgNQ=="
+    "name": "🎬El juego del calamar",
+    "samples": [
+      {
+    "name": "Luz roja, luz verde",
+    "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg",
+    "uri": "WLqCvVRVLlp70RVAVmUX2TyXtqC+SUzEuaV86IYs+zw4ZzNi5OPMqVI4FZFcRa0z6gOgw/aZEjgxPA1l83KTsJaH+yNtdUrHhlboFuDQSwU="
   },
   {
-    "name": "🍿CRUELLA ",
-    "icono": "https://lumiere-a.akamaihd.net/v1/images/outfit_domestic_teaser2_las_94429e25.jpeg?region=0%2C0%2C770%2C1100",
-    "uri": "pwLD7o1SCPYLXoTxc8tRoXTg+ra812kgvpJW1s7byqmilQxF19EUOv+hCyXBqW3s"
+    "name": "Infierno",
+    "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg",
+    "uri": "WLqCvVRVLlp70RVAVmUX2TyXtqC+SUzEuaV86IYs+zw4ZzNi5OPMqVI4FZFcRa0z6gOgw/aZEjgxPA1l83KTsLxisPUOFNLBQQRuaRZjGlo="
   },
   {
-    "name": "🍿BARBIE LA PELICULA 2023",
-    "icono": "https://image.tmdb.org/t/p/original/ctMserH8g2SeOAnCw5gFjdQF8mo.jpg",
-    "uri": "c4tii+Oh95rsYVPPmw+XS+ZSjzBE2z/38ZnUj4c54k3VzmVnxbcZuTe1UnsJxkOj//0lQxUn/hvtPIZCkt74Pw=="
+    "name": "El hombre del paraguas",
+    "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg",
+    "uri": "WLqCvVRVLlp70RVAVmUX2TyXtqC+SUzEuaV86IYs+zw4ZzNi5OPMqVI4FZFcRa0z6gOgw/aZEjgxPA1l83KTsIAX/qyzBS+1Wyo5oICHvjY="
   },
   {
-    "name": "🍿Sex and Zen II +18(2024)",
-    "icono": "https://i.ebayimg.com/images/g/hOkAAOSw3PFgweSs/s-l1600.jpg",
-    "uri": "2esNaCki0M05yxHgSMaAl3Ncj8Y3UU+hEswGaHAdnsmgYqgUH1UN/M8HZpl1loDcRPjNulWUhhzFZ1PnahZ2KH5OAXyAi3i9O+wuvfTD63pcWfyfVbqYX5rR10YqiDbFNbfXLW68ba2JynPaGnjg9A=="
+    "name": "El equipo es lo primero",
+    "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg",
+    "uri": "WLqCvVRVLlp70RVAVmUX2TyXtqC+SUzEuaV86IYs+zw4ZzNi5OPMqVI4FZFcRa0z6gOgw/aZEjgxPA1l83KTsFxIzZFwU7ba+2t7Rgzqd70="
   },
   {
-    "name": "🍿Los juegos del amor 2024",
-    "icono": "https://images.justwatch.com/poster/311707461/s718/kill-me-if-you-dare.jpg",
-    "uri": "pKAMTZxDrMyk1rye7uHwiRXfoYdhGmrDolFUpkNTTPRs88MkdhrOwQsUllASer0wD8XlRP9C2OxmG/G/39kXQRCyP+NYeMvTESexy/bOGCG5pQgkLzkDCCVbTBLril/z3eBRK0/2c3hE//m7/oKA38VftfscPWcmy/nisHDnZH117/YSiSXspoNOHowA0N88djHaN/85EcT9mxjGpRph2rUvP+BYm/RvbbLpCIwJ6ug="
+    "name": "Un mundo justo",
+    "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg",
+    "uri": "WLqCvVRVLlp70RVAVmUX2TyXtqC+SUzEuaV86IYs+zw4ZzNi5OPMqVI4FZFcRa0z6gOgw/aZEjgxPA1l83KTsJ7RonD9/weSgRPTuV7ymsc="
   },
   {
-    "name": "🍿El reino del planeta de los simios mejor calidad img(2024)",
-    "icono": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg",
-    "uri": "XVx3fiw0+fHK5mNHaFdCmWICMIPbc/ba+At3QECe9kZdwqM/d5Yw5DWQrQQS9dQUVWluBBvaLL/ZtOO+F+QzeQW0ix8ZhH4RQ/nCUjRsUU0="
+    "name": "Gganbu",
+    "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg",
+    "uri": "WLqCvVRVLlp70RVAVmUX2TyXtqC+SUzEuaV86IYs+zw4ZzNi5OPMqVI4FZFcRa0z6gOgw/aZEjgxPA1l83KTsNdKVKzX5wBrZiDmVQZtdnY="
   },
   {
-    "name": "🍿El planeta de los simios (2001)",
-    "icono": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2001/7/w1280/rRvUkYCByrlVMy4GMME3iDAe6er.jpg",
-    "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0yvJo5rpMkC2p1kIpo1if6gAa30X4jEhlpp3PmoVNV2cKkFnYpsm+q5RMhzrVotyOI="
+    "name": "Personas importantes",
+    "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg",
+    "uri": "WLqCvVRVLlp70RVAVmUX2TyXtqC+SUzEuaV86IYs+zw4ZzNi5OPMqVI4FZFcRa0z6gOgw/aZEjgxPA1l83KTsOo/4fQmjOmcvDwD4ofcaUk="
   },
   {
-    "name": "🍿Batalla por el planeta de los simios (1973)",
-    "icono": "https://www.aceprensa.com/wp-content/uploads/2014/07/119450-0.jpg",
-    "uri": "2esNaCki0M05yxHgSMaAl3Ncj8Y3UU+hEswGaHAdnskkKFi8j3TxUCNhlDiWi8GfVYhYskBI1XzJgVJ6dRjDysBUgk4Bzi3ri1q7oARaJ4MmGLtIAV+vIS7GRk/dDyhUopEAUp5+8XoQgWL/8BW/67tLAlu+DRksMPZjnXWoAEwVcx33aLIptPOniuJhktn9B55zAYLv3Y0ao7htNf5aKaiXCaY1alvt66bgeqhAVS/HeUp8Z6rCdaA10ru8hCsz"
+    "name": "El líder",
+    "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg",
+    "uri": "WLqCvVRVLlp70RVAVmUX2TyXtqC+SUzEuaV86IYs+zw4ZzNi5OPMqVI4FZFcRa0z6gOgw/aZEjgxPA1l83KTsNa3KVepgnC9vB1HMmhusqM="
   },
   {
-    "name": "🍿El planeta de los simios: (R)evolucion (2011)",
-    "icono": "https://musicart.xboxlive.com/7/bcb13f00-0000-0000-0000-000000000002/504/image.jpg",
-    "uri": "2esNaCki0M05yxHgSMaAl3Ncj8Y3UU+hEswGaHAdnsmNT6EXZtu+GiMBZahILkDKz472GyHMsTGaxzmqQpyXT1eoOte+weGR9P8EAVkieXmzzVeEnOGe4UcJ4glcF2oiUeqGW4Se4htMXRlNNt2n+IHy99ErKqbWiARRq6B8wCwpMcQuX+fsmC9wdJhbmKfE"
+    "name": "Un día con suerte",
+    "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg",
+    "uri": "WLqCvVRVLlp70RVAVmUX2TyXtqC+SUzEuaV86IYs+zw4ZzNi5OPMqVI4FZFcRa0z6gOgw/aZEjgxPA1l83KTsLOVIv4unUSb/6A3iF8joyQ="
   },
   {
-    "name": "🍿Godzilla y Kong: el nuevo imperio (2024)",
-    "icono": "https://cdn1-production-images-kly.akamaized.net/X2TwL_QHmKMwpIKPRxnTLPW-XjU=/800x1066/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/3434129/original/036544100_1618898169-MV5BMjk1MDc2ZGQtNTdkYy00ZTRhLTljNjgtZGVkNWUyZjYyOGFlXkEyXkFqcGdeQXVyMTE5NDQ1MzQ3._V1_FMjpg_UX1080_.jpg",
-    "uri": "air95tx/A0QghhB+S1myn/4xl1vH8A84srbxfHrDy5ZEw18Bv0xQeP6XcwT3Ij6L"
+    "name": "TEM 2 Pan y lotería",
+    "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg",
+    "uri": "WLqCvVRVLlp70RVAVmUX2TyXtqC+SUzEuaV86IYs+zw4ZzNi5OPMqVI4FZFcRa0z6gOgw/aZEjgxPA1l83KTsD7kid/qdh2ET1UgfWBz+uQ="
   },
   {
-    "name": "🍿Godzilla Minus One(2023) ",
-    "icono": "https://m.media-amazon.com/images/M/MV5BOTI5MjNjMTMtN2NiNC00YjBlLTgzMWQtMGRhZDZkYmY1NGU2XkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_.jpg",
-    "uri": "2esNaCki0M05yxHgSMaAl3Ncj8Y3UU+hEswGaHAdnslqjc70ZmjIkVGf4X8EZsPpt9BgKhOCSCTetrDfh88+p86kPFjOvZCJYmgB89/enCBpTGH2bRq6XlHPpzP0detjrq1Gf/J5yqeSNXPXwpl4MQ=="
+    "name": "Fiesta de Halloween",
+    "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg",
+    "uri": "WLqCvVRVLlp70RVAVmUX2TyXtqC+SUzEuaV86IYs+zw4ZzNi5OPMqVI4FZFcRa0z6gOgw/aZEjgxPA1l83KTsDfXMGWuxhx0W9/yiHxRreo="
   },
   {
-    "name": "🍿Cazafantasmas: Apocalipsis Fantasma (2024) HD",
-    "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfu4raUJqEj_Q8L9PZvb3b1-mzwpixgdq-G_uafdAIYxSMdLdW",
-    "uri": "air95tx/A0QghhB+S1myn/4xl1vH8A84srbxfHrDy5YP80+Hv4lmbBu1DntFetP1"
+    "name": "001",
+    "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg",
+    "uri": "WLqCvVRVLlp70RVAVmUX2TyXtqC+SUzEuaV86IYs+zw4ZzNi5OPMqVI4FZFcRa0z6gOgw/aZEjgxPA1l83KTsFRldGrN+DoM9VPn36SYp+8="
   },
   {
-    "name": "🍿Cazafantasmas: Apocalipsis Fantasma (2024) CAM",
-    "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQfu4raUJqEj_Q8L9PZvb3b1-mzwpixgdq-G_uafdAIYxSMdLdW",
-    "uri": "FrH4zcSazfjYzG0zLWF2QDMu/A+UWVUVycsJWT9R11IVsYQIwggeD+906ed6TnBWC1pams8QRrH+xn7T2EVEBaLJPxfy5JCEUdPYuI/tpPiuAAcgLKVkw0M+M+NWuKWfYJ7DoTlbddWDHX8V8lEg9vsNZ1sS+RBW80qM5lm1ki5ZFVJEBca3DZ+xy2LyuRoX20CUgyJppny2GkLFszG5qMnBfOkc+/3lgGqGmGYcOkjdvKtmbcG1RSxYxU6EpOGXwcfRL6D6LzO0DZ4KuSTNJ5sUgOvmZ6rHtl3BMudvWi0="
+    "name": "Seis piernas",
+    "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg",
+    "uri": "WLqCvVRVLlp70RVAVmUX2TyXtqC+SUzEuaV86IYs+zw4ZzNi5OPMqVI4FZFcRa0z6gOgw/aZEjgxPA1l83KTsM4ydG8riTnsC1WEmDK8qHU="
   },
   {
-    "name": "🍿Ricky Stanicky: El impostor (2024)",
-    "icono": "https://www.funcinema.com.ar/wp-content/uploads/2024/03/ricky-stanicky_uno.jpg",
-    "uri": "FrH4zcSazfjYzG0zLWF2QDMu/A+UWVUVycsJWT9R11IVsYQIwggeD+906ed6TnBWC1pams8QRrH+xn7T2EVEBaLJPxfy5JCEUdPYuI/tpPiuAAcgLKVkw0M+M+NWuKWfYJ7DoTlbddWDHX8V8lEg9vsNZ1sS+RBW80qM5lm1ki7wompvAPjBKruJ4JP2vflwBx9N/00HakdFsMXgj35XtN3NhY14mDU5NV1ukizz7tbWZYata+G7urroaXEmogf+LzxIps/Tis0JK+O3NSvnSA=="
+    "name": "Otro juego",
+    "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg",
+    "uri": "WLqCvVRVLlp70RVAVmUX2TyXtqC+SUzEuaV86IYs+zw4ZzNi5OPMqVI4FZFcRa0z6gOgw/aZEjgxPA1l83KTsNWtktcUDnRnD/U4li0VQtQ="
   },
   {
-    "name": "🍿Los menos preciados (2024)",
-    "icono": "https://m.media-amazon.com/images/M/MV5BMzQwZmNjMmYtMjM1MC00MTcxLWI0MmYtNDk1NzhhNWZiNjUyXkEyXkFqcGdeQXVyMTMzNDE5NDM2._V1_FMjpg_UX1000_.jpg",
-    "uri": "RRHzqFgwXpR8tV/q9kGc6UOoUONUYLzJFunCvA2Kk4k+uZJimw87AVt1CkCLxf7wWaf2EzgiiIuINAsLtw/41A=="
+    "name": "O X",
+    "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg",
+    "uri": "WLqCvVRVLlp70RVAVmUX2TyXtqC+SUzEuaV86IYs+zw4ZzNi5OPMqVI4FZFcRa0z6gOgw/aZEjgxPA1l83KTsPuJj8Y89IOF032gNL0vGjU="
   },
   {
-    "name": "🍿Chicas malas (2024)",
-    "icono": "https://m.media-amazon.com/images/S/pv-target-images/a825a8008da419f7baf9268418a044fcb755e3297c29da0eb7cd70a769745ad6.jpg",
-    "uri": "FrH4zcSazfjYzG0zLWF2QDMu/A+UWVUVycsJWT9R11IVsYQIwggeD+906ed6TnBWC1pams8QRrH+xn7T2EVEBaLJPxfy5JCEUdPYuI/tpPiuAAcgLKVkw0M+M+NWuKWfYJ7DoTlbddWDHX8V8lEg9lhVdCv6meW0simeWTkOoefzsW5wqeJQUeTPtgiYBV71BY+nil0/ufEhZsUcTbZ30Axmq7GlWwt+xGQKzYVA0O4SqMmc5UUOfdAJ0eLZ7rIf"
-  },
-  {
-    "name": "🍿los segundones (2024)",
-    "icono": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT8PpwRkZk7bUmFbgG70Z0IYROFKQjTaKGkI-KDBGhWUAcw0pKs",
-    "uri": "FrH4zcSazfjYzG0zLWF2QDMu/A+UWVUVycsJWT9R11IVsYQIwggeD+906ed6TnBWC1pams8QRrH+xn7T2EVEBaLJPxfy5JCEUdPYuI/tpPiuAAcgLKVkw0M+M+NWuKWfYJ7DoTlbddWDHX8V8lEg9ueP19yrXR52weoC95tP5y6oNxYZ5KKv+8u5AxOqCmBck/Bz8tXvE0UTkxZQzbsCzeO5c+FzU46beoCAGrZ7iFT9oPwor8DS9Cnq65DaMeVZ"
-  },
-  {
-    "name": "🍿Qui paso ayer? 1 (2009)",
-    "icono": "https://image.tmdb.org/t/p/w500/uluhlXubGu1VxU63X9VHCLWDAYP.jpg",
-    "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0yWrsjXiSQiDPt2Ees72dR915Ep4PhCiRWneHtsL8wbCg=="
-  },
-  {
-    "name": "🍿Qui paso ayer? 2 (2011)",
-    "icono": "https://image.tmdb.org/t/p/w500/jrP9zmdSUpOzzUXpEqPqg3dryUr.jpg",
-    "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0yWrsjXiSQiDPt2Ees72dR9viC449nw9Tzhy4oiwdxsBgJ7BXFMYJZNpPNTp3F5olo="
-  },
-  {
-    "name": "🍿Que paso ayer? 3 (2013)",
-    "icono": "https://image.tmdb.org/t/p/w500/vtxuPWkdllLNLVyGjKYa267ntuH.jpg",
-    "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0yWrsjXiSQiDPt2Ees72dR9viC449nw9Tzhy4oiwdxsBmtTryrVHpnjZv1Cg3y7xfw="
-  },
-  {
-    "name": "🍿Maquillame otra vez",
-    "icono": "https://image.tmdb.org/t/p/w500/hAKV3WLdHOL313IImAoR2GFWC1W.jpg",
-    "uri": "RRHzqFgwXpR8tV/q9kGc6fmcWyzYd132jQNqPdv2rwzlaEl7y8tS1MHv6s3r4ND9eiQed2ZmZjp5b+IzAeZtMQ=="
-  },
-  {
-    "name": "🍿El mejor del mundo",
-    "icono": "https://image.tmdb.org/t/p/w500/9xvEhZZMOmLIkqe4khrtF5TkOnO.jpg",
-    "uri": "RRHzqFgwXpR8tV/q9kGc6dXQ6rigWd1Zg5wF9FjN/AV3UuIwaBciawYrdj3P4zJH/lfY2Nv4MhDa0af5s4TA8Q=="
-  },
-  {
-    "name": "🍿El musical",
-    "icono": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2022/8/w1280/170NAAp9SkSk9kTnSioqjR1p2RB.jpg",
-    "uri": "9DcDfBjl78VlJEb2exM7ARXPrOzBZ5XSTpGIgkYgG0yvtKNUFflguoDtHblyGTX0/sD0IOUWruEXr0K8qUhcZbVzI78iKPXDyVLAiD2e874="
+    "name": "Amigos o enemigos",
+    "icono": "https://media.gq.com.mx/photos/62a617663e77ab160cfb8436/16:9/w_1600,c_limit/SG_S2_Announce_Vertical_N-logo_NoDate.jpg",
+    "uri": "WLqCvVRVLlp70RVAVmUX2TyXtqC+SUzEuaV86IYs+zw4ZzNi5OPMqVI4FZFcRa0z6gOgw/aZEjgxPA1l83KTsJluf8A0HX878WgbaxxMe+U="
       }
     ]
   }
