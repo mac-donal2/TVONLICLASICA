@@ -3,6 +3,15 @@
     "name": "🏆 EVENTOS EN VIVO DISPONIBLES ÚNICAMENTE CUANDO HAY EVENTOS ACTIVOS TV ONLINE ORIGINALL",
     "samples": [
       {
+        "name": "Sub-20",
+        "icono": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Colores_Copa_Libertadores_de_Am%C3%A9rica_Sub-20.png",
+        "uri": "vsItsirgdv0HJtqZunlH4SYsUprcGTt8u4xkPkPu8r21Ksyc8KlCA8XRAbQMy3neog6eepUGKQmebUywU45T+3cOzDhSsnlsNKRQ04+mg5LGYg9tFyLAvC8EuZUPfHWf",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "iTV+sLqqjlLOJScOmVgnDzz+0r9fZYlcHJZo4SjuIalUy4lQUyNcJKqgOaZoeQyPMRhmGJJf0oxkvxarWNF3ye0esdLfi6tvntkR2CrvaGvzKJKMEDKp/qNK+cOAAdKxXtCUqjuktHjx36uQ6whPCh1ig9wl+gDSmh6whKa5syASNxpUvBZAxzczaGl9dh9uVK8ApSJZJ3PExbDziwpHvA==",
+        "origin": "https://web.app.flow.com.ar",
+        "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+      },
+      {
         "name": "EVENTOS PY MM3U8",
         "icono": "https://pbs.twimg.com/profile_images/450290479574167553/zuArPE05_400x400.jpeg",
         "uri": "WLqCvVRVLlp70RVAVmUX2fq4JpUR35097SzFZPuJk2T6BKWgLV/HsBAXwGEvEbDPptemCFuH0dgOj/ERDAIYgY2QZa51dbB7tfAatX7eh0Y=",
